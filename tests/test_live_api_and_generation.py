@@ -34,3 +34,22 @@ def test_live_api_and_generation(tmp_path: Path):
         assert "BEGIN:VCALENDAR" in content, "ICS file must contain BEGIN:VCALENDAR"
         assert "DTSTART" in content, "ICS file must contain DTSTART"
         assert "Asia/Jerusalem" in content, "ICS file must specify Asia/Jerusalem timezone"
+
+import datetime
+from main import get_train_schedule, STATION_IDS
+
+def test_pagination_fetches_all_data():
+    """
+    Test that we fetch all trains for the day, not just the first page (5 trains).
+    """
+    origin_id = STATION_IDS["Tel Aviv - Hashalom"]
+    dest_id = STATION_IDS["Beer Sheva - University"]
+    
+    # Test for tomorrow to avoid end-of-day edge cases where there might legitimately be few trains left today
+    tomorrow = (datetime.date.today() + datetime.timedelta(days=1)).strftime("%Y-%m-%d")
+    
+    routes = get_train_schedule(origin_id, dest_id, tomorrow)
+    
+    # If the pagination bug is present, this would be exactly 5.
+    # Israel Railways typically has > 20 trains a day between these major stations.
+    assert len(routes) > 5, f"Expected more than 5 trains for a full day, but got {len(routes)}. Pagination bug may be present."

@@ -69,9 +69,7 @@ def get_train_schedule(origin_id: str, dest_id: str, date_str: str) -> List[Trai
     if "travels" not in result:
         return []
         
-    size = result.get('numOfResultsToShow', 0)
-    index = result.get('startFromIndex', 0)
-    travels = result['travels'][index: index + size]
+    travels = result['travels']
     
     routes: List[TrainRouteModel] = []
     for t in travels:
