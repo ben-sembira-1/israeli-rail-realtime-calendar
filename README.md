@@ -108,7 +108,6 @@ This will fetch the latest schedules concurrently and generate the corresponding
 | `Be'er Sheva-Center` | `beer_sheva_center` |
 | `Be'er Sheva-North/University` | `beer_sheva_north_university` |
 | `Be'er Ya'akov` | `beer_yaakov` |
-| `Beer Sheva - University` | `beer_sheva___university` |
 | `Beit She'an` | `beit_shean` |
 | `Ben Gurion Airport` | `ben_gurion_airport` |
 | `Bet Shemesh` | `bet_shemesh` |
@@ -159,7 +158,6 @@ This will fetch the latest schedules concurrently and generate the corresponding
 | `Rishon LeTsiyon-Moshe Dayan` | `rishon_letsiyon_moshe_dayan` |
 | `Rosh Ha'Ayin-North` | `rosh_haayin_north` |
 | `Sderot` | `sderot` |
-| `Tel Aviv - Hashalom` | `tel_aviv___hashalom` |
 | `Tel Aviv-HaHagana` | `tel_aviv_hahagana` |
 | `Tel Aviv-HaShalom` | `tel_aviv_hashalom` |
 | `Tel Aviv-Savidor Center` | `tel_aviv_savidor_center` |
