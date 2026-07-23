@@ -237,7 +237,7 @@ async def process_route(
     results = await asyncio.gather(*tasks, return_exceptions=True)
     
     for routes_data in results:
-        if isinstance(routes_data, Exception) or not routes_data:
+        if isinstance(routes_data, BaseException) or not routes_data:
             continue
             
         for i, train_route in enumerate(routes_data):
@@ -285,7 +285,7 @@ def get_active_routes() -> List[RouteConfig]:
         
     active_stations = [name for name, is_active in config.items() if is_active]
     
-    routes = []
+    routes: List[RouteConfig] = []
     # Generate all directional permutations for active stations (where origin != dest)
     for origin, destination in itertools.permutations(active_stations, 2):
         safe_origin = origin.lower().replace(" ", "_").replace("-", "_").replace("/", "_").replace("'", "")

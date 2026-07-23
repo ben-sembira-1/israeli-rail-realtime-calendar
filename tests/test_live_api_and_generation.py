@@ -1,5 +1,4 @@
 import datetime
-import json
 from pathlib import Path
 
 import aiohttp
@@ -74,7 +73,8 @@ async def test_all_station_ids_valid():
     
     semaphore = asyncio.Semaphore(5)
     async with aiohttp.ClientSession() as session:
-        tasks = []
+        from typing import List, Any
+        tasks: List[Any] = []
         for name, station_id in STATION_IDS.items():
             dest_id = "4600" if station_id == "7300" else "7300"
             tasks.append(get_train_schedule(session, station_id, dest_id, tomorrow, semaphore))

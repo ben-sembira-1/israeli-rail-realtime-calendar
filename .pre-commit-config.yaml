@@ -3,4 +3,4 @@ repos:
     rev: v1.1.391
     hooks:
       - id: pyright
-        additional_dependencies: ["pydantic", "icalendar", "pytz", "requests"]
+        additional_dependencies: ["pydantic", "icalendar", "pytz", "aiohttp", "pytest", "pytest-asyncio"]
