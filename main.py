@@ -9,7 +9,7 @@ from typing import Any, Dict, List, Optional
 
 import aiohttp
 import pytz
-from icalendar import Calendar, Event
+from icalendar import Calendar, Event, vDatetime, vText
 from pydantic import BaseModel, ConfigDict, ValidationError
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
@@ -88,6 +88,8 @@ STATION_IDS = {
     "Mazkeret Batya": "6900",
 }
 
+ID_TO_STATION = {v: k for k, v in STATION_IDS.items()}
+
 API_KEY = "5e64d66cf03f4547bcac5de2de06b566"
 API_URL = "https://rail-api.rail.co.il/rjpa/api/v1/timetable/searchTrain"
 HEADERS = {
@@ -101,10 +103,20 @@ class RouteConfig(BaseModel):
     destination: str
     filename: str
 
+class StopStationModel(BaseModel):
+    model_config = ConfigDict(extra="ignore")
+    stationId: int
+    arrivalTime: str
+    departureTime: str
+
 class TrainPartModel(BaseModel):
     model_config = ConfigDict(extra="ignore")
     departureTime: str
     arrivalTime: str
+    trainNumber: int
+    orignStation: int
+    destinationStation: int
+    stopStations: List[StopStationModel] = []
 
 class TrainRouteModel(BaseModel):
     model_config = ConfigDict(extra="ignore")
@@ -157,6 +169,28 @@ async def get_train_schedule(
                     
             return routes
 
+def generate_event_description(train_route: TrainRouteModel, update_time: str) -> str:
+    desc_lines = [f"Last update: {update_time}", ""]
+    for train in train_route.trains:
+        leg_origin = ID_TO_STATION.get(str(train.orignStation), str(train.orignStation))
+        leg_dest = ID_TO_STATION.get(str(train.destinationStation), str(train.destinationStation))
+        
+        desc_lines.append(f"Train {train.trainNumber}:")
+        
+        dep_time = train.departureTime.split("T")[1][:5] if "T" in train.departureTime else train.departureTime
+        desc_lines.append(f"- {dep_time} {leg_origin}")
+        
+        for stop in train.stopStations:
+            stop_name = ID_TO_STATION.get(str(stop.stationId), str(stop.stationId))
+            arr_time = stop.arrivalTime.split("T")[1][:5] if "T" in stop.arrivalTime else stop.arrivalTime
+            desc_lines.append(f"- {arr_time} {stop_name}")
+            
+        dest_arr_time = train.arrivalTime.split("T")[1][:5] if "T" in train.arrivalTime else train.arrivalTime
+        desc_lines.append(f"- {dest_arr_time} {leg_dest}")
+        desc_lines.append("")
+    
+    return "\n".join(desc_lines).strip()
+
 def format_duration(start_time: str, end_time: str) -> str:
     fmt = "%Y-%m-%dT%H:%M:%S"
     start_dt = datetime.datetime.strptime(start_time, fmt)
@@ -164,20 +198,20 @@ def format_duration(start_time: str, end_time: str) -> str:
     delta = end_dt - start_dt
     hours, remainder = divmod(delta.seconds, 3600)
     minutes, _ = divmod(remainder, 60)
-    if hours > 0:
-        return f"{hours}h {minutes}m"
-    return f"{minutes}m"
+    return f"{hours}:{minutes:02d}h"
 
-def create_event(title: str, departure_time: str) -> Event:
+def create_event(title: str, departure_time: str, description: Optional[str] = None) -> Event:
     tz = pytz.timezone("Asia/Jerusalem")
     fmt = "%Y-%m-%dT%H:%M:%S"
     dep_dt = datetime.datetime.strptime(departure_time, fmt)
     dep_dt = tz.localize(dep_dt)
     
     event = Event()
-    event.add("summary", title)  # type: ignore
-    event.add("dtstart", dep_dt)  # type: ignore
-    event.add("dtend", dep_dt) # Zero duration  # type: ignore
+    event["summary"] = vText(title)
+    event["dtstart"] = vDatetime(dep_dt)
+    event["dtend"] = vDatetime(dep_dt) # Zero duration
+    if description:
+        event["description"] = vText(description)
     return event
 
 async def process_day_for_route(
@@ -227,7 +261,7 @@ async def process_route(
     cal_all.add('version', '2.0')  # type: ignore
     
     today = datetime.date.today()
-    
+    update_time = datetime.datetime.now(pytz.timezone("Asia/Jerusalem")).strftime("%Y-%m-%d %H:%M:%S")
     # Process all 31 days concurrently
     tasks = [
         process_day_for_route(session, origin_id, dest_id, day_offset, semaphore, today)
@@ -244,8 +278,10 @@ async def process_route(
             dep = train_route.trains[0].departureTime
             arr = train_route.trains[-1].arrivalTime
             dur = format_duration(dep, arr)
-            prefix = "⚠️ " if i == len(routes_data) - 1 else ""
-            cal_all.add_component(create_event(f"{prefix}Train ({dur})", dep))
+            prefix = "⚠️ Last " if i == len(routes_data) - 1 else ""
+            title = f"{prefix}[{dur}] to {route.destination} (from {route.origin})"
+            event_desc = generate_event_description(train_route, update_time)
+            cal_all.add_component(create_event(title, dep, description=event_desc))
             
         first_train = routes_data[0]
         last_train = routes_data[-1]
@@ -253,12 +289,16 @@ async def process_route(
         first_dep = first_train.trains[0].departureTime
         first_arr = first_train.trains[-1].arrivalTime
         first_dur = format_duration(first_dep, first_arr)
-        cal_first_last.add_component(create_event(f"First Train ({first_dur})", first_dep))
+        first_title = f"[{first_dur}] to {route.destination} (from {route.origin})"
+        first_desc = generate_event_description(first_train, update_time)
+        cal_first_last.add_component(create_event(first_title, first_dep, description=first_desc))
         
         last_dep = last_train.trains[0].departureTime
         last_arr = last_train.trains[-1].arrivalTime
         last_dur = format_duration(last_dep, last_arr)
-        cal_first_last.add_component(create_event(f"⚠️ Last Train ({last_dur})", last_dep))
+        last_title = f"⚠️ Last [{last_dur}] to {route.destination} (from {route.origin})"
+        last_desc = generate_event_description(last_train, update_time)
+        cal_first_last.add_component(create_event(last_title, last_dep, description=last_desc))
         
     base_filename = route.filename
     if base_filename.endswith(".ics"):

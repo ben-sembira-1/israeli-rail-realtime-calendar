@@ -1,0 +1,5 @@
+All AI tasks in this repository MUST end with a run of:
+1. `poetry run pre-commit run --all-files`
+2. `poetry run pytest`
+
+All Python dependencies and terminal commands should be executed within the context of poetry (e.g. `poetry run ...`).
