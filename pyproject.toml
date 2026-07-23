@@ -38,4 +38,4 @@ dev = [
 typeCheckingMode = "strict"
 
 [tool.pytest.ini_options]
-pythonpath = "."
+pythonpath = "src"
