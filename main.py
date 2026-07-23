@@ -288,8 +288,8 @@ def get_active_routes() -> List[RouteConfig]:
     routes: List[RouteConfig] = []
     # Generate all directional permutations for active stations (where origin != dest)
     for origin, destination in itertools.permutations(active_stations, 2):
-        safe_origin = origin.lower().replace(" ", "_").replace("-", "_").replace("/", "_").replace("'", "")
-        safe_dest = destination.lower().replace(" ", "_").replace("-", "_").replace("/", "_").replace("'", "")
+        safe_origin = origin.lower().replace(" ", "_").replace("-", "_").replace("/", "_").replace("'", "").replace("(", "_").replace(")", "_").replace('`', '_')
+        safe_dest = destination.lower().replace(" ", "_").replace("-", "_").replace("/", "_").replace("'", "").replace("(", "_").replace(")", "_").replace('`', '_')
         
         routes.append(RouteConfig(
             origin=origin,

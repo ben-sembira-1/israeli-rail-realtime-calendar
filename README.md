@@ -91,5 +91,79 @@ poetry run python main.py --output-dir calendars
 ```
 This will fetch the latest schedules concurrently and generate the corresponding `.ics` files in the `calendars/` directory.
 
+## 🚉 Available Stations
+| Config Name (`stations_config.json`) | URL Name Format (`.ics`) |
+| :--- | :--- |
+| `Afula R.Eitan` | `afula_r.eitan` |
+| `Ahihud` | `ahihud` |
+| `Ako` | `ako` |
+| `Ashdod-Ad Halom (M.Bar Kochva)` | `ashdod_ad_halom__m.bar_kochva_` |
+| `Ashkelon` | `ashkelon` |
+| `Atlit` | `atlit` |
+| `Bat Yam-Komemiyut` | `bat_yam_komemiyut` |
+| `Bat Yam-Yoseftal` | `bat_yam_yoseftal` |
+| `Be'er Sheva-Center` | `beer_sheva_center` |
+| `Be'er Sheva-North/University` | `beer_sheva_north_university` |
+| `Be'er Ya'akov` | `beer_yaakov` |
+| `Beer Sheva - University` | `beer_sheva___university` |
+| `Beit She'an` | `beit_shean` |
+| `Ben Gurion Airport` | `ben_gurion_airport` |
+| `Bet Shemesh` | `bet_shemesh` |
+| `Bet Yehoshu'a` | `bet_yehoshua` |
+| `Binyamina` | `binyamina` |
+| `Bnei Brak` | `bnei_brak` |
+| `Caesarea-Pardes Hana` | `caesarea_pardes_hana` |
+| `Dimona` | `dimona` |
+| `HaMifrats Central Station` | `hamifrats_central_station` |
+| `Hadera-West` | `hadera_west` |
+| `Haifa Center-HaShmona` | `haifa_center_hashmona` |
+| `Haifa-Bat Galim` | `haifa_bat_galim` |
+| `Haifa-Hof HaKarmel (Razi`el)` | `haifa_hof_hakarmel__razi_el_` |
+| `Hertsliya` | `hertsliya` |
+| `Hod HaSharon-Sokolov` | `hod_hasharon_sokolov` |
+| `Holon Junction` | `holon_junction` |
+| `Holon-Wolfson` | `holon_wolfson` |
+| `Hutsot HaMifrats` | `hutsot_hamifrats` |
+| `Jerusalem - Yitzhak Navon` | `jerusalem___yitzhak_navon` |
+| `Jerusalem-Biblical Zoo` | `jerusalem_biblical_zoo` |
+| `Jerusalem-Malha` | `jerusalem_malha` |
+| `Karmiel` | `karmiel` |
+| `Kfar Habad` | `kfar_habad` |
+| `Kfar Sava-Nordau (A.Kostyuk)` | `kfar_sava_nordau__a.kostyuk_` |
+| `Kiryat Gat` | `kiryat_gat` |
+| `Kiryat Hayim` | `kiryat_hayim` |
+| `Kiryat Malakhi – Yoav` | `kiryat_malakhi_–_yoav` |
+| `Kiryat Motzkin` | `kiryat_motzkin` |
+| `Lehavim-Rahat` | `lehavim_rahat` |
+| `Lod` | `lod` |
+| `Lod-Gane Aviv` | `lod_gane_aviv` |
+| `Mazkeret Batya` | `mazkeret_batya` |
+| `Migdal Ha'emek-Kfar Barukh` | `migdal_haemek_kfar_barukh` |
+| `Modi'in-Center` | `modiin_center` |
+| `Nahariya` | `nahariya` |
+| `Netanya` | `netanya` |
+| `Netanya-Sapir` | `netanya_sapir` |
+| `Netivot` | `netivot` |
+| `Ofakim` | `ofakim` |
+| `Pa'ate Modi'in` | `paate_modiin` |
+| `Petah Tikva-Kiryat Arye` | `petah_tikva_kiryat_arye` |
+| `Petah Tikva-Segula` | `petah_tikva_segula` |
+| `Ra'anana South` | `raanana_south` |
+| `Ra'anana West` | `raanana_west` |
+| `Ramla` | `ramla` |
+| `Rehovot (E. Hadar)` | `rehovot__e._hadar_` |
+| `Rishon LeTsiyon-HaRishonim` | `rishon_letsiyon_harishonim` |
+| `Rishon LeTsiyon-Moshe Dayan` | `rishon_letsiyon_moshe_dayan` |
+| `Rosh Ha'Ayin-North` | `rosh_haayin_north` |
+| `Sderot` | `sderot` |
+| `Tel Aviv - Hashalom` | `tel_aviv___hashalom` |
+| `Tel Aviv-HaHagana` | `tel_aviv_hahagana` |
+| `Tel Aviv-HaShalom` | `tel_aviv_hashalom` |
+| `Tel Aviv-Savidor Center` | `tel_aviv_savidor_center` |
+| `Tel Aviv-University` | `tel_aviv_university` |
+| `Yavne-East` | `yavne_east` |
+| `Yavne-West` | `yavne_west` |
+| `Yokne'am-Kfar Yehoshu'a` | `yokneam_kfar_yehoshua` |
+
 ## 📄 License
 This project is open-source and available under the terms of the LICENSE file.
