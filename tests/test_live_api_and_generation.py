@@ -80,8 +80,8 @@ async def test_pagination_fetches_all_data():
     """
     Test that we fetch all trains for the day.
     """
-    origin_id = STATION_IDS["Tel Aviv - Hashalom"]
-    dest_id = STATION_IDS["Beer Sheva - University"]
+    origin_id = STATION_IDS["Tel Aviv-HaShalom"]
+    dest_id = STATION_IDS["Be'er Sheva-North/University"]
 
     tomorrow = (datetime.date.today() + datetime.timedelta(days=1)).strftime("%Y-%m-%d")
 
