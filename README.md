@@ -5,6 +5,9 @@
 
 > **A blazing-fast, automated async calendar generator providing daily schedules of Israel Railways trains right to your favorite calendar app.**
 
+### 🌐 [Click here to use the Interactive Web UI!](https://ben-sembira-1.github.io/israeli-rail-realtime-calendar/)
+Generate your personalized calendar subscription links instantly by selecting your Origin and Destination stations on our newly launched web interface.
+
 The generator creates two separate calendars for each active route permutation: one dynamically plotting the **first and last** trains of the day, and another containing **all available trains** for that route.
 
 ---

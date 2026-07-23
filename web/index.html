@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Israel Rail Calendar Generator</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background-anim"></div>
+    <main class="container">
+        <header>
+            <div class="logo">🚂</div>
+            <h1>Israel Rail Calendar</h1>
+            <p>Select your route to generate real-time calendar subscription links.</p>
+        </header>
+
+        <section class="glass-card">
+            <div class="form-group">
+                <label for="origin">Origin Station</label>
+                <div class="select-wrapper">
+                    <select id="origin">
+                        <option value="" disabled selected>Select origin...</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="form-group">
+                <label for="destination">Destination Station</label>
+                <div class="select-wrapper">
+                    <select id="destination" disabled>
+                        <option value="" disabled selected>Select destination...</option>
+                    </select>
+                </div>
+            </div>
+
+            <div id="results" class="results hidden">
+                <div class="url-card">
+                    <div class="url-header">
+                        <h3>All Trains</h3>
+                        <span class="badge">Comprehensive</span>
+                    </div>
+                    <div class="input-group">
+                        <input type="text" id="all-url" readonly>
+                        <button class="copy-btn" data-target="all-url">Copy</button>
+                    </div>
+                </div>
+
+                <div class="url-card">
+                    <div class="url-header">
+                        <h3>First & Last Trains</h3>
+                        <span class="badge warning">Crucial</span>
+                    </div>
+                    <div class="input-group">
+                        <input type="text" id="first-last-url" readonly>
+                        <button class="copy-btn" data-target="first-last-url">Copy</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <script src="app.js"></script>
+</body>
+</html>

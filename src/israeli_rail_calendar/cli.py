@@ -186,6 +186,17 @@ async def main_async(output_dir: Path):
         ]
         await asyncio.gather(*tasks)
 
+    # Export configuration for the Web UI
+    active_stations = sorted(list(set(r.origin for r in routes)))
+    routes_data = {
+        "stations": active_stations,
+        "routes": [r.model_dump() for r in routes]
+    }
+    
+    routes_file = output_dir / "routes.json"
+    routes_file.write_text(json.dumps(routes_data, ensure_ascii=False, indent=2), encoding="utf-8")
+    logging.info(f"Successfully generated {routes_file}")
+
 def main():
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
     parser = argparse.ArgumentParser()

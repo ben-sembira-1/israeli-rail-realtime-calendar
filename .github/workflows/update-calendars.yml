@@ -35,11 +35,18 @@ jobs:
 
       - name: Deploy to GitHub Pages branch
         run: |
+          mkdir -p ../deploy_tmp
+          cp -r web/* ../deploy_tmp/
+          cp calendars/*.ics ../deploy_tmp/
+          cp calendars/routes.json ../deploy_tmp/
+          
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git checkout --orphan gh-pages
           git rm -rf .
-          mv calendars/*.ics .
-          git add *.ics
-          git commit -m "Auto-generated ICS calendars" || echo "No changes to commit"
+          
+          mv ../deploy_tmp/* .
+          
+          git add .
+          git commit -m "Deploy calendars and Web UI" || echo "No changes to commit"
           git push -f origin gh-pages
