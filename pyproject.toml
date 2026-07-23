@@ -1,5 +1,8 @@
 [tool.poetry]
-package-mode = false
+packages = [{include = "israeli_rail_calendar", from = "src"}]
+
+[tool.poetry.scripts]
+israeli-rail-calendar = "israeli_rail_calendar.cli:main"
 
 [project]
 name = "israel-rail-calendar"

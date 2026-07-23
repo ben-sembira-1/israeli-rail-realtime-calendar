@@ -4,7 +4,9 @@ from pathlib import Path
 import aiohttp
 import pytest
 
-from main import get_train_schedule, STATION_IDS, get_active_routes, process_route
+from israeli_rail_calendar.api_client import get_train_schedule
+from israeli_rail_calendar.constants import STATION_IDS
+from israeli_rail_calendar.cli import get_active_routes, process_route
 import asyncio
 
 @pytest.mark.asyncio

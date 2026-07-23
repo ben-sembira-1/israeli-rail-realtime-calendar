@@ -1,0 +1,1 @@
+"""Israel Railways Calendar Generator."""
