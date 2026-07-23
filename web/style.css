@@ -164,6 +164,19 @@ select:disabled {
     display: none;
 }
 
+.route-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: var(--text-main);
+    border-bottom: 1px solid var(--glass-border);
+    padding-bottom: 0.5rem;
+}
+
+.return-title {
+    margin-top: 2rem;
+}
+
 .url-card {
     background: rgba(0, 0, 0, 0.2);
     border-radius: 12px;

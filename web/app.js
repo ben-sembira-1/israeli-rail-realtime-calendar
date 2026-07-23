@@ -87,6 +87,32 @@ document.addEventListener('DOMContentLoaded', async () => {
             document.getElementById('all-default-btn').href = webcalAllUrl;
             document.getElementById('first-last-default-btn').href = webcalFirstLastUrl;
             
+            // Handle return route
+            const returnRoute = routesData.routes.find(r => r.origin === dest && r.destination === origin);
+            const returnSection = document.getElementById('return-section');
+            if (returnRoute) {
+                const returnBaseName = returnRoute.filename.replace('.ics', '');
+                
+                const returnAllUrl = `${baseUrl}${returnBaseName}.all.ics`;
+                const returnFirstLastUrl = `${baseUrl}${returnBaseName}.first_last.ics`;
+                
+                document.getElementById('return-all-url').value = returnAllUrl;
+                document.getElementById('return-first-last-url').value = returnFirstLastUrl;
+
+                const returnWebcalAllUrl = returnAllUrl.replace(/^https?:\/\//i, 'webcal://');
+                const returnWebcalFirstLastUrl = returnFirstLastUrl.replace(/^https?:\/\//i, 'webcal://');
+
+                document.getElementById('return-all-google-btn').href = `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(returnWebcalAllUrl)}`;
+                document.getElementById('return-first-last-google-btn').href = `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(returnWebcalFirstLastUrl)}`;
+
+                document.getElementById('return-all-default-btn').href = returnWebcalAllUrl;
+                document.getElementById('return-first-last-default-btn').href = returnWebcalFirstLastUrl;
+                
+                returnSection.style.display = 'block';
+            } else {
+                returnSection.style.display = 'none';
+            }
+
             resultsDiv.classList.remove('hidden');
         }
     });
