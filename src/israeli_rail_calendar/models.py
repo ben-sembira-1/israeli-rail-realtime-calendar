@@ -1,14 +1,17 @@
 from typing import List, Optional
 from pydantic import BaseModel, ConfigDict
 
+
 class RouteConfig(BaseModel):
     origin: str
     destination: str
     filename: str
 
+
 class TravelMessageModel(BaseModel):
     model_config = ConfigDict(extra="ignore")
     message: str
+
 
 class StopStationModel(BaseModel):
     model_config = ConfigDict(extra="ignore")
@@ -16,6 +19,7 @@ class StopStationModel(BaseModel):
     arrivalTime: str
     departureTime: str
     platform: Optional[int] = None
+
 
 class TrainPartModel(BaseModel):
     model_config = ConfigDict(extra="ignore")
@@ -28,18 +32,22 @@ class TrainPartModel(BaseModel):
     destPlatform: Optional[int] = None
     stopStations: List[StopStationModel] = []
 
+
 class TrainRouteModel(BaseModel):
     model_config = ConfigDict(extra="ignore")
     trains: List[TrainPartModel]
     travelMessages: Optional[List[TravelMessageModel]] = []
 
+
 class ApiResultModel(BaseModel):
     model_config = ConfigDict(extra="ignore")
     travels: List[TrainRouteModel] = []
 
+
 class APIResponseModel(BaseModel):
     model_config = ConfigDict(extra="ignore")
     result: ApiResultModel
+
 
 class APIRequestModel(BaseModel):
     fromStation: str
