@@ -5,7 +5,7 @@ import itertools
 import json
 import logging
 from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Tuple
 
 import aiohttp
 import pytz
@@ -103,11 +103,16 @@ class RouteConfig(BaseModel):
     destination: str
     filename: str
 
+class TravelMessageModel(BaseModel):
+    model_config = ConfigDict(extra="ignore")
+    message: str
+
 class StopStationModel(BaseModel):
     model_config = ConfigDict(extra="ignore")
     stationId: int
     arrivalTime: str
     departureTime: str
+    platform: Optional[int] = None
 
 class TrainPartModel(BaseModel):
     model_config = ConfigDict(extra="ignore")
@@ -116,11 +121,14 @@ class TrainPartModel(BaseModel):
     trainNumber: int
     orignStation: int
     destinationStation: int
+    originPlatform: Optional[int] = None
+    destPlatform: Optional[int] = None
     stopStations: List[StopStationModel] = []
 
 class TrainRouteModel(BaseModel):
     model_config = ConfigDict(extra="ignore")
     trains: List[TrainPartModel]
+    travelMessages: Optional[List[TravelMessageModel]] = []
 
 class APIResponseModel(BaseModel):
     model_config = ConfigDict(extra="ignore")
@@ -169,27 +177,52 @@ async def get_train_schedule(
                     
             return routes
 
-def generate_event_description(train_route: TrainRouteModel, update_time: str) -> str:
-    desc_lines = [f"Last update: {update_time}", ""]
+def generate_event_description(train_route: TrainRouteModel, update_time: str) -> Tuple[str, str]:
+    text_lines = []
+    html_lines = []
+    
+    if train_route.travelMessages:
+        for msg in train_route.travelMessages:
+            if msg.message:
+                text_lines.append(f"**{msg.message}**")
+                html_lines.append(f"<b>{msg.message}</b><br>")
+        text_lines.append("")
+        html_lines.append("<br>")
+        
+    text_lines.extend([f"Last update: {update_time}", ""])
+    html_lines.extend([f"Last update: {update_time}<br>", "<br>"])
+    
     for train in train_route.trains:
         leg_origin = ID_TO_STATION.get(str(train.orignStation), str(train.orignStation))
         leg_dest = ID_TO_STATION.get(str(train.destinationStation), str(train.destinationStation))
         
-        desc_lines.append(f"Train {train.trainNumber}:")
+        text_lines.append(f"Train {train.trainNumber}:")
+        html_lines.append(f"Train {train.trainNumber}:<br>")
         
         dep_time = train.departureTime.split("T")[1][:5] if "T" in train.departureTime else train.departureTime
-        desc_lines.append(f"- {dep_time} {leg_origin}")
+        orig_plat = f" (Platform {train.originPlatform})" if train.originPlatform is not None else ""
+        
+        text_lines.append(f"- {dep_time} {leg_origin}{orig_plat}")
+        html_lines.append(f"- {dep_time} {leg_origin}{orig_plat}<br>")
         
         for stop in train.stopStations:
             stop_name = ID_TO_STATION.get(str(stop.stationId), str(stop.stationId))
             arr_time = stop.arrivalTime.split("T")[1][:5] if "T" in stop.arrivalTime else stop.arrivalTime
-            desc_lines.append(f"- {arr_time} {stop_name}")
+            stop_plat = f" (Platform {stop.platform})" if stop.platform is not None else ""
+            
+            text_lines.append(f"- {arr_time} {stop_name}{stop_plat}")
+            html_lines.append(f"- {arr_time} {stop_name}{stop_plat}<br>")
             
         dest_arr_time = train.arrivalTime.split("T")[1][:5] if "T" in train.arrivalTime else train.arrivalTime
-        desc_lines.append(f"- {dest_arr_time} {leg_dest}")
-        desc_lines.append("")
+        dest_plat = f" (Platform {train.destPlatform})" if train.destPlatform is not None else ""
+        
+        text_lines.append(f"- {dest_arr_time} {leg_dest}{dest_plat}")
+        html_lines.append(f"- {dest_arr_time} {leg_dest}{dest_plat}<br>")
+        
+        text_lines.append("")
+        html_lines.append("<br>")
     
-    return "\n".join(desc_lines).strip()
+    return "\n".join(text_lines).strip(), "".join(html_lines).strip()
 
 def format_duration(start_time: str, end_time: str) -> str:
     fmt = "%Y-%m-%dT%H:%M:%S"
@@ -200,7 +233,7 @@ def format_duration(start_time: str, end_time: str) -> str:
     minutes, _ = divmod(remainder, 60)
     return f"{hours}:{minutes:02d}h"
 
-def create_event(title: str, departure_time: str, description: Optional[str] = None) -> Event:
+def create_event(title: str, departure_time: str, description: Optional[str] = None, html_description: Optional[str] = None) -> Event:
     tz = pytz.timezone("Asia/Jerusalem")
     fmt = "%Y-%m-%dT%H:%M:%S"
     dep_dt = datetime.datetime.strptime(departure_time, fmt)
@@ -212,6 +245,8 @@ def create_event(title: str, departure_time: str, description: Optional[str] = N
     event["dtend"] = vDatetime(dep_dt) # Zero duration
     if description:
         event["description"] = vText(description)
+    if html_description:
+        event.add("X-ALT-DESC", html_description, parameters={"FMTTYPE": "text/html"})
     return event
 
 async def process_day_for_route(
@@ -282,8 +317,8 @@ async def process_route(
             dur = format_duration(dep, arr)
             prefix = "⚠️ Last " if i == len(routes_data) - 1 else ""
             title = f"{prefix}[{dur}] to {route.destination} (from {route.origin})"
-            event_desc = generate_event_description(train_route, update_time)
-            cal_all.add_component(create_event(title, dep, description=event_desc))
+            event_desc, html_desc = generate_event_description(train_route, update_time)
+            cal_all.add_component(create_event(title, dep, description=event_desc, html_description=html_desc))
             
         first_train = routes_data[0]
         last_train = routes_data[-1]
@@ -292,15 +327,15 @@ async def process_route(
         first_arr = first_train.trains[-1].arrivalTime
         first_dur = format_duration(first_dep, first_arr)
         first_title = f"[{first_dur}] to {route.destination} (from {route.origin})"
-        first_desc = generate_event_description(first_train, update_time)
-        cal_first_last.add_component(create_event(first_title, first_dep, description=first_desc))
+        first_desc, first_html_desc = generate_event_description(first_train, update_time)
+        cal_first_last.add_component(create_event(first_title, first_dep, description=first_desc, html_description=first_html_desc))
         
         last_dep = last_train.trains[0].departureTime
         last_arr = last_train.trains[-1].arrivalTime
         last_dur = format_duration(last_dep, last_arr)
         last_title = f"⚠️ Last [{last_dur}] to {route.destination} (from {route.origin})"
-        last_desc = generate_event_description(last_train, update_time)
-        cal_first_last.add_component(create_event(last_title, last_dep, description=last_desc))
+        last_desc, last_html_desc = generate_event_description(last_train, update_time)
+        cal_first_last.add_component(create_event(last_title, last_dep, description=last_desc, html_description=last_html_desc))
         
     base_filename = route.filename
     if base_filename.endswith(".ics"):
