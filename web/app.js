@@ -69,8 +69,23 @@ document.addEventListener('DOMContentLoaded', async () => {
             
             const baseName = route.filename.replace('.ics', '');
             
-            allUrlInput.value = `${baseUrl}${baseName}.all.ics`;
-            firstLastUrlInput.value = `${baseUrl}${baseName}.first_last.ics`;
+            const allUrl = `${baseUrl}${baseName}.all.ics`;
+            const firstLastUrl = `${baseUrl}${baseName}.first_last.ics`;
+            
+            allUrlInput.value = allUrl;
+            firstLastUrlInput.value = firstLastUrl;
+
+            // Generate webcal URL (replace http:// or https:// with webcal://)
+            const webcalAllUrl = allUrl.replace(/^https?:\/\//i, 'webcal://');
+            const webcalFirstLastUrl = firstLastUrl.replace(/^https?:\/\//i, 'webcal://');
+
+            // Google Calendar subscription links
+            document.getElementById('all-google-btn').href = `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(webcalAllUrl)}`;
+            document.getElementById('first-last-google-btn').href = `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(webcalFirstLastUrl)}`;
+
+            // Default Calendar (webcal links)
+            document.getElementById('all-default-btn').href = webcalAllUrl;
+            document.getElementById('first-last-default-btn').href = webcalFirstLastUrl;
             
             resultsDiv.classList.remove('hidden');
         }
