@@ -53,3 +53,25 @@ def test_pagination_fetches_all_data():
     # If the pagination bug is present, this would be exactly 5.
     # Israel Railways typically has > 20 trains a day between these major stations.
     assert len(routes) > 5, f"Expected more than 5 trains for a full day, but got {len(routes)}. Pagination bug may be present."
+
+import time
+
+def test_all_station_ids_valid():
+    """
+    Test that all stations in STATION_IDS are accepted by the live API without validation errors.
+    """
+    # Use tomorrow's date
+    tomorrow = (datetime.date.today() + datetime.timedelta(days=1)).strftime("%Y-%m-%d")
+    
+    # We will test each station as a "fromStation" against a known good "toStation" (e.g. 7300 Beer Sheva)
+    # If the station IS 7300, we use 4600 as the "toStation"
+    for name, station_id in STATION_IDS.items():
+        dest_id = "4600" if station_id == "7300" else "7300"
+        try:
+            # We don't care about the result length, just that it doesn't raise a 400 validation error
+            get_train_schedule(station_id, dest_id, tomorrow)
+        except Exception as e:
+            pytest.fail(f"Station '{name}' with ID '{station_id}' failed API validation: {e}")
+        
+        # small sleep to avoid rate limiting
+        time.sleep(0.1)
