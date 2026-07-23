@@ -218,9 +218,13 @@ async def process_route(
     origin_id = STATION_IDS[route.origin]
     dest_id = STATION_IDS[route.destination]
     
-    cal = Calendar()
-    cal.add('prodid', '-//Israel Railways Calendar Generator//')  # type: ignore
-    cal.add('version', '2.0')  # type: ignore
+    cal_first_last = Calendar()
+    cal_first_last.add('prodid', '-//Israel Railways Calendar Generator (First/Last)//')  # type: ignore
+    cal_first_last.add('version', '2.0')  # type: ignore
+    
+    cal_all = Calendar()
+    cal_all.add('prodid', '-//Israel Railways Calendar Generator (All Trains)//')  # type: ignore
+    cal_all.add('version', '2.0')  # type: ignore
     
     today = datetime.date.today()
     
@@ -236,22 +240,36 @@ async def process_route(
         if isinstance(routes_data, Exception) or not routes_data:
             continue
             
+        for i, train_route in enumerate(routes_data):
+            dep = train_route.trains[0].departureTime
+            arr = train_route.trains[-1].arrivalTime
+            dur = format_duration(dep, arr)
+            prefix = "⚠️ " if i == len(routes_data) - 1 else ""
+            cal_all.add_component(create_event(f"{prefix}Train ({dur})", dep))
+            
         first_train = routes_data[0]
         last_train = routes_data[-1]
         
         first_dep = first_train.trains[0].departureTime
         first_arr = first_train.trains[-1].arrivalTime
         first_dur = format_duration(first_dep, first_arr)
-        cal.add_component(create_event(f"First Train ({first_dur})", first_dep))
+        cal_first_last.add_component(create_event(f"First Train ({first_dur})", first_dep))
         
         last_dep = last_train.trains[0].departureTime
         last_arr = last_train.trains[-1].arrivalTime
         last_dur = format_duration(last_dep, last_arr)
-        cal.add_component(create_event(f"Last Train ({last_dur})", last_dep))
+        cal_first_last.add_component(create_event(f"⚠️ Last Train ({last_dur})", last_dep))
         
-    out_file = output_dir / route.filename
-    out_file.write_bytes(cal.to_ical())
-    logging.info(f"Successfully generated {out_file}")
+    base_filename = route.filename
+    if base_filename.endswith(".ics"):
+        base_filename = base_filename[:-4]
+        
+    out_file_first_last = output_dir / f"{base_filename}.first_last.ics"
+    out_file_first_last.write_bytes(cal_first_last.to_ical())
+    
+    out_file_all = output_dir / f"{base_filename}.all.ics"
+    out_file_all.write_bytes(cal_all.to_ical())
+    logging.info(f"Successfully generated {out_file_first_last} and {out_file_all}")
 
 def get_active_routes() -> List[RouteConfig]:
     config_file = Path("stations_config.json")

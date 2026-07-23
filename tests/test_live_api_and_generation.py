@@ -31,13 +31,23 @@ async def test_live_api_and_generation(tmp_path: Path):
         await asyncio.gather(*tasks)
         
         for route in test_routes:
-            expected_file = calendars_dir / route.filename
-            assert expected_file.exists(), f"Expected file {route.filename} was not created"
+            base_filename = route.filename[:-4] if route.filename.endswith(".ics") else route.filename
             
-            content = expected_file.read_text()
-            assert "BEGIN:VCALENDAR" in content, "ICS file must contain BEGIN:VCALENDAR"
-            assert "DTSTART" in content, "ICS file must contain DTSTART"
-            assert "Asia/Jerusalem" in content, "ICS file must specify Asia/Jerusalem timezone"
+            expected_first_last = calendars_dir / f"{base_filename}.first_last.ics"
+            assert expected_first_last.exists(), f"Expected file {expected_first_last.name} was not created"
+            
+            content_fl = expected_first_last.read_text()
+            assert "BEGIN:VCALENDAR" in content_fl, "ICS file must contain BEGIN:VCALENDAR"
+            assert "DTSTART" in content_fl, "ICS file must contain DTSTART"
+            assert "Asia/Jerusalem" in content_fl, "ICS file must specify Asia/Jerusalem timezone"
+            
+            expected_all = calendars_dir / f"{base_filename}.all.ics"
+            assert expected_all.exists(), f"Expected file {expected_all.name} was not created"
+            
+            content_all = expected_all.read_text()
+            assert "BEGIN:VCALENDAR" in content_all, "ICS file must contain BEGIN:VCALENDAR"
+            assert "DTSTART" in content_all, "ICS file must contain DTSTART"
+            assert "Asia/Jerusalem" in content_all, "ICS file must specify Asia/Jerusalem timezone"
 
 @pytest.mark.asyncio
 async def test_pagination_fetches_all_data():
