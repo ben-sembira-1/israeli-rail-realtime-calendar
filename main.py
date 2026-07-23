@@ -1,18 +1,20 @@
 import argparse
+import asyncio
 import datetime
+import itertools
 import json
 import logging
 from pathlib import Path
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Optional
 
+import aiohttp
 import pytz
-import requests
 from icalendar import Calendar, Event
 from pydantic import BaseModel, ConfigDict, ValidationError
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
-# Static mappings for this application
+# Static mappings for this application (expanded from full list)
 STATION_IDS = {
     "Tel Aviv - Hashalom": "4600",
     "Beer Sheva - University": "7300",
@@ -36,7 +38,9 @@ STATION_IDS = {
     "Bet Shemesh": "6300",
     "Kiryat Gat": "7000",
     "Lod": "5000",
+    "Be'er Sheva-North/University": "7300",
     "Kfar Habad": "4800",
+    "Tel Aviv-HaShalom": "4600",
     "Haifa Center-HaShmona": "2100",
     "Ramla": "5010",
     "Rosh Ha'Ayin-North": "8800",
@@ -84,7 +88,6 @@ STATION_IDS = {
     "Mazkeret Batya": "6900",
 }
 
-
 API_KEY = "5e64d66cf03f4547bcac5de2de06b566"
 API_URL = "https://rail-api.rail.co.il/rjpa/api/v1/timetable/searchTrain"
 HEADERS = {
@@ -111,7 +114,13 @@ class APIResponseModel(BaseModel):
     model_config = ConfigDict(extra="ignore")
     result: Dict[str, Any]
 
-def get_train_schedule(origin_id: str, dest_id: str, date_str: str) -> List[TrainRouteModel]:
+async def get_train_schedule(
+    session: aiohttp.ClientSession,
+    origin_id: str,
+    dest_id: str,
+    date_str: str,
+    semaphore: asyncio.Semaphore
+) -> List[TrainRouteModel]:
     payload = {
         "fromStation": origin_id,
         "toStation": dest_id,
@@ -122,29 +131,31 @@ def get_train_schedule(origin_id: str, dest_id: str, date_str: str) -> List[Trai
         "languageId": "English"
     }
     
-    resp = requests.post(API_URL, json=payload, headers=HEADERS)
-    resp.raise_for_status()
-    
-    try:
-        data = APIResponseModel.model_validate(resp.json())
-    except ValidationError as e:
-        logging.error(f"Schema validation error: {e}")
-        raise
-        
-    result = data.result
-    if "travels" not in result:
-        return []
-        
-    travels = result['travels']
-    
-    routes: List[TrainRouteModel] = []
-    for t in travels:
-        try:
-            routes.append(TrainRouteModel.model_validate(t))
-        except ValidationError:
-            continue
+    async with semaphore:
+        async with session.post(API_URL, json=payload, headers=HEADERS) as resp:
+            resp.raise_for_status()
+            json_data = await resp.json()
             
-    return routes
+            try:
+                data = APIResponseModel.model_validate(json_data)
+            except ValidationError as e:
+                logging.error(f"Schema validation error: {e}")
+                raise
+                
+            result = data.result
+            if "travels" not in result:
+                return []
+                
+            travels = result['travels']
+            
+            routes: List[TrainRouteModel] = []
+            for t in travels:
+                try:
+                    routes.append(TrainRouteModel.model_validate(t))
+                except ValidationError:
+                    continue
+                    
+            return routes
 
 def format_duration(start_time: str, end_time: str) -> str:
     fmt = "%Y-%m-%dT%H:%M:%S"
@@ -169,7 +180,37 @@ def create_event(title: str, departure_time: str) -> Event:
     event.add("dtend", dep_dt) # Zero duration  # type: ignore
     return event
 
-def process_route(route: RouteConfig, output_dir: Path):
+async def process_day_for_route(
+    session: aiohttp.ClientSession,
+    origin_id: str,
+    dest_id: str,
+    day_offset: int,
+    semaphore: asyncio.Semaphore,
+    today: datetime.date
+) -> Optional[List[TrainRouteModel]]:
+    
+    target_date = today + datetime.timedelta(days=day_offset)
+    date_str = target_date.strftime("%Y-%m-%d")
+    lookahead_days = [30, 21, 14, 7, 4]
+    
+    for attempt_days in lookahead_days:
+        if target_date > today + datetime.timedelta(days=attempt_days):
+            continue
+            
+        try:
+            return await get_train_schedule(session, origin_id, dest_id, date_str, semaphore)
+        except Exception as e:
+            logging.warning(f"Failed to fetch for {date_str} with {attempt_days} days fallback: {e}")
+            if attempt_days == 4:
+                logging.error(f"Critical error: Could not fetch schedules for {date_str} even at 4 days lookahead.")
+    return None
+
+async def process_route(
+    route: RouteConfig, 
+    output_dir: Path, 
+    session: aiohttp.ClientSession, 
+    semaphore: asyncio.Semaphore
+):
     if route.origin not in STATION_IDS or route.destination not in STATION_IDS:
         logging.error(f"Unknown station names for route {route.filename}")
         return
@@ -182,26 +223,17 @@ def process_route(route: RouteConfig, output_dir: Path):
     cal.add('version', '2.0')  # type: ignore
     
     today = datetime.date.today()
-    lookahead_days = [30, 21, 14, 7, 4]
     
-    for day_offset in range(31):
-        target_date = today + datetime.timedelta(days=day_offset)
-        date_str = target_date.strftime("%Y-%m-%d")
-        
-        routes_data = None
-        for attempt_days in lookahead_days:
-            if target_date > today + datetime.timedelta(days=attempt_days):
-                continue
-                
-            try:
-                routes_data = get_train_schedule(origin_id, dest_id, date_str)
-                break
-            except Exception as e:
-                logging.warning(f"Failed to fetch for {date_str} with {attempt_days} days fallback: {e}")
-                if attempt_days == 4:
-                    logging.error(f"Critical error: Could not fetch schedules for {date_str} even at 4 days lookahead.")
-        
-        if not routes_data:
+    # Process all 31 days concurrently
+    tasks = [
+        process_day_for_route(session, origin_id, dest_id, day_offset, semaphore, today)
+        for day_offset in range(31)
+    ]
+    
+    results = await asyncio.gather(*tasks, return_exceptions=True)
+    
+    for routes_data in results:
+        if isinstance(routes_data, Exception) or not routes_data:
             continue
             
         first_train = routes_data[0]
@@ -221,6 +253,53 @@ def process_route(route: RouteConfig, output_dir: Path):
     out_file.write_bytes(cal.to_ical())
     logging.info(f"Successfully generated {out_file}")
 
+def get_active_routes() -> List[RouteConfig]:
+    config_file = Path("stations_config.json")
+    if not config_file.exists():
+        logging.error("stations_config.json not found")
+        return []
+        
+    try:
+        config = json.loads(config_file.read_text(encoding="utf-8"))
+    except Exception as e:
+        logging.error(f"Failed to parse stations_config.json: {e}")
+        return []
+        
+    active_stations = [name for name, is_active in config.items() if is_active]
+    
+    routes = []
+    # Generate all directional permutations for active stations (where origin != dest)
+    for origin, destination in itertools.permutations(active_stations, 2):
+        safe_origin = origin.lower().replace(" ", "_").replace("-", "_").replace("/", "_").replace("'", "")
+        safe_dest = destination.lower().replace(" ", "_").replace("-", "_").replace("/", "_").replace("'", "")
+        
+        routes.append(RouteConfig(
+            origin=origin,
+            destination=destination,
+            filename=f"{safe_origin}_to_{safe_dest}.ics"
+        ))
+    return routes
+
+async def main_async(output_dir: Path):
+    routes = get_active_routes()
+    if not routes:
+        logging.info("No active routes to process.")
+        return
+        
+    logging.info(f"Generating calendars for {len(routes)} routes...")
+    
+    # Restrict concurrent API requests to 20 to prevent DDOS / IP bans
+    semaphore = asyncio.Semaphore(20)
+    
+    # Increase the connector limit so it doesn't bottleneck before the semaphore
+    connector = aiohttp.TCPConnector(limit=50)
+    async with aiohttp.ClientSession(headers=HEADERS, connector=connector) as session:
+        tasks = [
+            process_route(route, output_dir, session, semaphore)
+            for route in routes
+        ]
+        await asyncio.gather(*tasks)
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--output-dir", default="calendars", help="Directory to save the .ics files")
@@ -229,20 +308,7 @@ def main():
     output_dir = Path(args.output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
     
-    routes_file = Path("routes.json")
-    if not routes_file.exists():
-        logging.error("routes.json not found")
-        return
-        
-    try:
-        raw_routes = json.loads(routes_file.read_text())
-        routes = [RouteConfig.model_validate(r) for r in raw_routes]
-    except Exception as e:
-        logging.error(f"Failed to parse routes.json: {e}")
-        return
-        
-    for r in routes:
-        process_route(r, output_dir)
+    asyncio.run(main_async(output_dir))
 
 if __name__ == "__main__":
     main()
