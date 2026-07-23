@@ -253,12 +253,14 @@ async def process_route(
     dest_id = STATION_IDS[route.destination]
     
     cal_first_last = Calendar()
-    cal_first_last.add('prodid', '-//Israel Railways Calendar Generator (First/Last)//')  # type: ignore
-    cal_first_last.add('version', '2.0')  # type: ignore
+    cal_first_last["prodid"] = vText('-//Israel Railways Calendar Generator (First/Last)//')
+    cal_first_last["version"] = vText('2.0')
+    cal_first_last["X-WR-CALNAME"] = vText(f"{route.origin} to {route.destination} (First & Last Trains)")
     
     cal_all = Calendar()
-    cal_all.add('prodid', '-//Israel Railways Calendar Generator (All Trains)//')  # type: ignore
-    cal_all.add('version', '2.0')  # type: ignore
+    cal_all["prodid"] = vText('-//Israel Railways Calendar Generator (All Trains)//')
+    cal_all["version"] = vText('2.0')
+    cal_all["X-WR-CALNAME"] = vText(f"{route.origin} to {route.destination} (All Trains)")
     
     today = datetime.date.today()
     update_time = datetime.datetime.now(pytz.timezone("Asia/Jerusalem")).strftime("%Y-%m-%d %H:%M:%S")
