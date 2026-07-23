@@ -1,117 +1,178 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Israel Rail Calendar Generator</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" type="image/png" href="favicon.png">
-    
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+
     <!-- Open Graph Meta Tags for WhatsApp and Social Media Previews -->
     <meta property="og:title" content="Israel Rail Calendar" />
-    <meta property="og:description" content="Select your route to generate real-time calendar subscription links." />
-    <meta property="og:image" content="https://ben-sembira-1.github.io/israeli-rail-realtime-calendar/og_train_logo.png" />
+    <meta
+      property="og:description"
+      content="Select your route to generate real-time calendar subscription links."
+    />
+    <meta
+      property="og:image"
+      content="https://ben-sembira-1.github.io/israeli-rail-realtime-calendar/og_train_logo.png"
+    />
     <meta property="og:image:width" content="480" />
     <meta property="og:image:height" content="480" />
-    <meta property="og:url" content="https://ben-sembira-1.github.io/israeli-rail-realtime-calendar/" />
+    <meta
+      property="og:url"
+      content="https://ben-sembira-1.github.io/israeli-rail-realtime-calendar/"
+    />
     <meta property="og:type" content="website" />
-</head>
-<body>
+  </head>
+  <body>
     <div class="background-anim"></div>
     <main class="container">
-        <header>
-            <div class="logo">🚂</div>
-            <h1>Israel Rail Calendar</h1>
-            <p>Select your route to generate real-time calendar subscription links.</p>
-        </header>
+      <header>
+        <div class="logo">🚂</div>
+        <h1>Israel Rail Calendar</h1>
+        <p>
+          Select your route to generate real-time calendar subscription links.
+        </p>
+      </header>
 
-        <section class="glass-card">
-            <div class="form-group">
-                <label for="origin">Origin Station</label>
-                <div class="select-wrapper">
-                    <select id="origin">
-                        <option value="" disabled selected>Select origin...</option>
-                    </select>
-                </div>
+      <section class="glass-card">
+        <div class="form-group">
+          <label for="origin">Origin Station</label>
+          <div class="select-wrapper">
+            <select id="origin">
+              <option value="" disabled selected>Select origin...</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="destination">Destination Station</label>
+          <div class="select-wrapper">
+            <select id="destination" disabled>
+              <option value="" disabled selected>Select destination...</option>
+            </select>
+          </div>
+        </div>
+
+        <div id="results" class="results hidden">
+          <h2 class="route-title">Outbound Trip</h2>
+          <div class="url-card">
+            <div class="url-header">
+              <h3>All Trains</h3>
+              <span class="badge">Comprehensive</span>
             </div>
-            
-            <div class="form-group">
-                <label for="destination">Destination Station</label>
-                <div class="select-wrapper">
-                    <select id="destination" disabled>
-                        <option value="" disabled selected>Select destination...</option>
-                    </select>
-                </div>
+            <div class="input-group">
+              <input type="text" id="all-url" readonly />
+              <button class="copy-btn" data-target="all-url">Copy</button>
+            </div>
+            <div class="action-buttons">
+              <a
+                href="#"
+                id="all-google-btn"
+                target="_blank"
+                class="calendar-btn google-btn"
+                >Add to Google Calendar</a
+              >
+              <a href="#" id="all-default-btn" class="calendar-btn default-btn"
+                >Add to Apple/Outlook</a
+              >
+            </div>
+          </div>
+
+          <div class="url-card">
+            <div class="url-header">
+              <h3>First & Last Trains</h3>
+              <span class="badge warning">Crucial</span>
+            </div>
+            <div class="input-group">
+              <input type="text" id="first-last-url" readonly />
+              <button class="copy-btn" data-target="first-last-url">
+                Copy
+              </button>
+            </div>
+            <div class="action-buttons">
+              <a
+                href="#"
+                id="first-last-google-btn"
+                target="_blank"
+                class="calendar-btn google-btn"
+                >Add to Google Calendar</a
+              >
+              <a
+                href="#"
+                id="first-last-default-btn"
+                class="calendar-btn default-btn"
+                >Add to Apple/Outlook</a
+              >
+            </div>
+          </div>
+
+          <div id="return-section">
+            <h2 class="route-title return-title">Return Trip</h2>
+            <div class="url-card">
+              <div class="url-header">
+                <h3>All Trains</h3>
+                <span class="badge">Comprehensive</span>
+              </div>
+              <div class="input-group">
+                <input type="text" id="return-all-url" readonly />
+                <button class="copy-btn" data-target="return-all-url">
+                  Copy
+                </button>
+              </div>
+              <div class="action-buttons">
+                <a
+                  href="#"
+                  id="return-all-google-btn"
+                  target="_blank"
+                  class="calendar-btn google-btn"
+                  >Add to Google Calendar</a
+                >
+                <a
+                  href="#"
+                  id="return-all-default-btn"
+                  class="calendar-btn default-btn"
+                  >Add to Apple/Outlook</a
+                >
+              </div>
             </div>
 
-            <div id="results" class="results hidden">
-                <h2 class="route-title">Outbound Trip</h2>
-                <div class="url-card">
-                    <div class="url-header">
-                        <h3>All Trains</h3>
-                        <span class="badge">Comprehensive</span>
-                    </div>
-                    <div class="input-group">
-                        <input type="text" id="all-url" readonly>
-                        <button class="copy-btn" data-target="all-url">Copy</button>
-                    </div>
-                    <div class="action-buttons">
-                        <a href="#" id="all-google-btn" target="_blank" class="calendar-btn google-btn">Add to Google Calendar</a>
-                        <a href="#" id="all-default-btn" class="calendar-btn default-btn">Add to Apple/Outlook</a>
-                    </div>
-                </div>
-
-                <div class="url-card">
-                    <div class="url-header">
-                        <h3>First & Last Trains</h3>
-                        <span class="badge warning">Crucial</span>
-                    </div>
-                    <div class="input-group">
-                        <input type="text" id="first-last-url" readonly>
-                        <button class="copy-btn" data-target="first-last-url">Copy</button>
-                    </div>
-                    <div class="action-buttons">
-                        <a href="#" id="first-last-google-btn" target="_blank" class="calendar-btn google-btn">Add to Google Calendar</a>
-                        <a href="#" id="first-last-default-btn" class="calendar-btn default-btn">Add to Apple/Outlook</a>
-                    </div>
-                </div>
-
-                <div id="return-section">
-                    <h2 class="route-title return-title">Return Trip</h2>
-                    <div class="url-card">
-                        <div class="url-header">
-                            <h3>All Trains</h3>
-                            <span class="badge">Comprehensive</span>
-                        </div>
-                        <div class="input-group">
-                            <input type="text" id="return-all-url" readonly>
-                            <button class="copy-btn" data-target="return-all-url">Copy</button>
-                        </div>
-                        <div class="action-buttons">
-                            <a href="#" id="return-all-google-btn" target="_blank" class="calendar-btn google-btn">Add to Google Calendar</a>
-                            <a href="#" id="return-all-default-btn" class="calendar-btn default-btn">Add to Apple/Outlook</a>
-                        </div>
-                    </div>
-
-                    <div class="url-card">
-                        <div class="url-header">
-                            <h3>First & Last Trains</h3>
-                            <span class="badge warning">Crucial</span>
-                        </div>
-                        <div class="input-group">
-                            <input type="text" id="return-first-last-url" readonly>
-                            <button class="copy-btn" data-target="return-first-last-url">Copy</button>
-                        </div>
-                        <div class="action-buttons">
-                            <a href="#" id="return-first-last-google-btn" target="_blank" class="calendar-btn google-btn">Add to Google Calendar</a>
-                            <a href="#" id="return-first-last-default-btn" class="calendar-btn default-btn">Add to Apple/Outlook</a>
-                        </div>
-                    </div>
-                </div>
+            <div class="url-card">
+              <div class="url-header">
+                <h3>First & Last Trains</h3>
+                <span class="badge warning">Crucial</span>
+              </div>
+              <div class="input-group">
+                <input type="text" id="return-first-last-url" readonly />
+                <button class="copy-btn" data-target="return-first-last-url">
+                  Copy
+                </button>
+              </div>
+              <div class="action-buttons">
+                <a
+                  href="#"
+                  id="return-first-last-google-btn"
+                  target="_blank"
+                  class="calendar-btn google-btn"
+                  >Add to Google Calendar</a
+                >
+                <a
+                  href="#"
+                  id="return-first-last-default-btn"
+                  class="calendar-btn default-btn"
+                  >Add to Apple/Outlook</a
+                >
+              </div>
             </div>
-        </section>
+          </div>
+        </div>
+      </section>
     </main>
     <script src="app.js"></script>
-</body>
+  </body>
 </html>
