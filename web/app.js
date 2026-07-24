@@ -85,14 +85,22 @@ document.addEventListener("DOMContentLoaded", async () => {
         "webcal://",
       );
 
+      const isAppleDevice =
+        /iPad|iPhone|iPod|Mac/.test(navigator.userAgent) ||
+        (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+      const googleCalAllUrl = isAppleDevice ? webcalAllUrl : allUrl;
+      const googleCalFirstLastUrl = isAppleDevice
+        ? webcalFirstLastUrl
+        : firstLastUrl;
+
       // Google Calendar subscription links
       document.getElementById("all-google-btn").href =
         `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(
-          webcalAllUrl,
+          googleCalAllUrl,
         )}`;
       document.getElementById("first-last-google-btn").href =
         `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(
-          webcalFirstLastUrl,
+          googleCalFirstLastUrl,
         )}`;
 
       // Default Calendar (webcal links)
@@ -124,13 +132,20 @@ document.addEventListener("DOMContentLoaded", async () => {
           "webcal://",
         );
 
+        const returnGoogleCalAllUrl = isAppleDevice
+          ? returnWebcalAllUrl
+          : returnAllUrl;
+        const returnGoogleCalFirstLastUrl = isAppleDevice
+          ? returnWebcalFirstLastUrl
+          : returnFirstLastUrl;
+
         document.getElementById("return-all-google-btn").href =
           `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(
-            returnWebcalAllUrl,
+            returnGoogleCalAllUrl,
           )}`;
         document.getElementById("return-first-last-google-btn").href =
           `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(
-            returnWebcalFirstLastUrl,
+            returnGoogleCalFirstLastUrl,
           )}`;
 
         document.getElementById("return-all-default-btn").href =
