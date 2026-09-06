@@ -1,0 +1,771 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Israel Railways Calendar Generator (First/Last)//
+X-WR-CALNAME:Tel Aviv-Savidor Center to Tel Aviv-HaShalom (First & Last Tr
+ ains)
+BEGIN:VEVENT
+SUMMARY:[0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260906T000400
+DTEND;TZID=Asia/Jerusalem:20260906T000400
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 7509:\n- 00:04 Tel A
+ viv-Savidor Center (Platform 4)\n- 00:06 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  7509:<br>- 00:04 Tel Aviv-Savidor Center (Platform 4)<br>- 00:06 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260906T235600
+DTEND;TZID=Asia/Jerusalem:20260906T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260907T003900
+DTEND;TZID=Asia/Jerusalem:20260907T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260907T235600
+DTEND;TZID=Asia/Jerusalem:20260907T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260908T003900
+DTEND;TZID=Asia/Jerusalem:20260908T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260908T235600
+DTEND;TZID=Asia/Jerusalem:20260908T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260909T003900
+DTEND;TZID=Asia/Jerusalem:20260909T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260909T235600
+DTEND;TZID=Asia/Jerusalem:20260909T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260910T003900
+DTEND;TZID=Asia/Jerusalem:20260910T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260910T235600
+DTEND;TZID=Asia/Jerusalem:20260910T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260911T003900
+DTEND;TZID=Asia/Jerusalem:20260911T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260911T155600
+DTEND;TZID=Asia/Jerusalem:20260911T155600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 6521:\n- 15:56 Tel A
+ viv-Savidor Center (Platform 4)\n- 15:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  6521:<br>- 15:56 Tel Aviv-Savidor Center (Platform 4)<br>- 15:58 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260913T204100
+DTEND;TZID=Asia/Jerusalem:20260913T204100
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 7717:\n- 20:41 Tel A
+ viv-Savidor Center (Platform 4)\n- 20:43 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  7717:<br>- 20:41 Tel Aviv-Savidor Center (Platform 4)<br>- 20:43 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260913T234900
+DTEND;TZID=Asia/Jerusalem:20260913T234900
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 7025:\n- 23:49 Tel A
+ viv-Savidor Center (Platform 2)\n- 23:52 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  7025:<br>- 23:49 Tel Aviv-Savidor Center (Platform 2)<br>- 23:52 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260913T204100
+DTEND;TZID=Asia/Jerusalem:20260913T204100
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 7717:\n- 20:41 Tel A
+ viv-Savidor Center (Platform 4)\n- 20:43 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  7717:<br>- 20:41 Tel Aviv-Savidor Center (Platform 4)<br>- 20:43 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260913T234900
+DTEND;TZID=Asia/Jerusalem:20260913T234900
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 7025:\n- 23:49 Tel A
+ viv-Savidor Center (Platform 2)\n- 23:52 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  7025:<br>- 23:49 Tel Aviv-Savidor Center (Platform 2)<br>- 23:52 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260914T000400
+DTEND;TZID=Asia/Jerusalem:20260914T000400
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 7509:\n- 00:04 Tel A
+ viv-Savidor Center (Platform 4)\n- 00:06 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  7509:<br>- 00:04 Tel Aviv-Savidor Center (Platform 4)<br>- 00:06 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260914T235600
+DTEND;TZID=Asia/Jerusalem:20260914T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260915T003900
+DTEND;TZID=Asia/Jerusalem:20260915T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260915T235600
+DTEND;TZID=Asia/Jerusalem:20260915T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260916T003900
+DTEND;TZID=Asia/Jerusalem:20260916T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260916T235600
+DTEND;TZID=Asia/Jerusalem:20260916T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260917T003900
+DTEND;TZID=Asia/Jerusalem:20260917T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260917T235600
+DTEND;TZID=Asia/Jerusalem:20260917T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260918T003900
+DTEND;TZID=Asia/Jerusalem:20260918T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260918T155600
+DTEND;TZID=Asia/Jerusalem:20260918T155600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 6521:\n- 15:56 Tel A
+ viv-Savidor Center (Platform 4)\n- 15:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  6521:<br>- 15:56 Tel Aviv-Savidor Center (Platform 4)<br>- 15:58 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260919T204100
+DTEND;TZID=Asia/Jerusalem:20260919T204100
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 7717:\n- 20:41 Tel A
+ viv-Savidor Center (Platform 4)\n- 20:43 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  7717:<br>- 20:41 Tel Aviv-Savidor Center (Platform 4)<br>- 20:43 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260919T234900
+DTEND;TZID=Asia/Jerusalem:20260919T234900
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 7025:\n- 23:49 Tel A
+ viv-Savidor Center (Platform 2)\n- 23:52 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  7025:<br>- 23:49 Tel Aviv-Savidor Center (Platform 2)<br>- 23:52 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260920T000400
+DTEND;TZID=Asia/Jerusalem:20260920T000400
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 7509:\n- 00:04 Tel A
+ viv-Savidor Center (Platform 0)\n- 00:06 Tel Aviv-HaShalom (Platform 0)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  7509:<br>- 00:04 Tel Aviv-Savidor Center (Platform 0)<br>- 00:06 Tel Aviv
+ -HaShalom (Platform 0)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260920T155600
+DTEND;TZID=Asia/Jerusalem:20260920T155600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 6521:\n- 15:56 Tel A
+ viv-Savidor Center (Platform 4)\n- 15:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  6521:<br>- 15:56 Tel Aviv-Savidor Center (Platform 4)<br>- 15:58 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260921T204100
+DTEND;TZID=Asia/Jerusalem:20260921T204100
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 7717:\n- 20:41 Tel A
+ viv-Savidor Center (Platform 4)\n- 20:43 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  7717:<br>- 20:41 Tel Aviv-Savidor Center (Platform 4)<br>- 20:43 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260921T234900
+DTEND;TZID=Asia/Jerusalem:20260921T234900
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 7025:\n- 23:49 Tel A
+ viv-Savidor Center (Platform 2)\n- 23:52 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  7025:<br>- 23:49 Tel Aviv-Savidor Center (Platform 2)<br>- 23:52 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260922T000400
+DTEND;TZID=Asia/Jerusalem:20260922T000400
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 7509:\n- 00:04 Tel A
+ viv-Savidor Center (Platform 4)\n- 00:06 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  7509:<br>- 00:04 Tel Aviv-Savidor Center (Platform 4)<br>- 00:06 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260922T235600
+DTEND;TZID=Asia/Jerusalem:20260922T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260923T003900
+DTEND;TZID=Asia/Jerusalem:20260923T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260923T235600
+DTEND;TZID=Asia/Jerusalem:20260923T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260924T003900
+DTEND;TZID=Asia/Jerusalem:20260924T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260924T235600
+DTEND;TZID=Asia/Jerusalem:20260924T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260925T003900
+DTEND;TZID=Asia/Jerusalem:20260925T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260925T155600
+DTEND;TZID=Asia/Jerusalem:20260925T155600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 6521:\n- 15:56 Tel A
+ viv-Savidor Center (Platform 4)\n- 15:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  6521:<br>- 15:56 Tel Aviv-Savidor Center (Platform 4)<br>- 15:58 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260926T204100
+DTEND;TZID=Asia/Jerusalem:20260926T204100
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 7717:\n- 20:41 Tel A
+ viv-Savidor Center (Platform 4)\n- 20:43 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  7717:<br>- 20:41 Tel Aviv-Savidor Center (Platform 4)<br>- 20:43 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260926T234900
+DTEND;TZID=Asia/Jerusalem:20260926T234900
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 7025:\n- 23:49 Tel A
+ viv-Savidor Center (Platform 2)\n- 23:52 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  7025:<br>- 23:49 Tel Aviv-Savidor Center (Platform 2)<br>- 23:52 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260927T000400
+DTEND;TZID=Asia/Jerusalem:20260927T000400
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 7509:\n- 00:04 Tel A
+ viv-Savidor Center (Platform 4)\n- 00:06 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  7509:<br>- 00:04 Tel Aviv-Savidor Center (Platform 4)<br>- 00:06 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260927T235600
+DTEND;TZID=Asia/Jerusalem:20260927T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260928T003900
+DTEND;TZID=Asia/Jerusalem:20260928T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260928T235600
+DTEND;TZID=Asia/Jerusalem:20260928T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260929T003900
+DTEND;TZID=Asia/Jerusalem:20260929T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260929T235600
+DTEND;TZID=Asia/Jerusalem:20260929T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20260930T003900
+DTEND;TZID=Asia/Jerusalem:20260930T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20260930T235600
+DTEND;TZID=Asia/Jerusalem:20260930T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261001T003900
+DTEND;TZID=Asia/Jerusalem:20261001T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20261001T235600
+DTEND;TZID=Asia/Jerusalem:20261001T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261002T003900
+DTEND;TZID=Asia/Jerusalem:20261002T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20261002T155600
+DTEND;TZID=Asia/Jerusalem:20261002T155600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 6521:\n- 15:56 Tel A
+ viv-Savidor Center (Platform 4)\n- 15:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  6521:<br>- 15:56 Tel Aviv-Savidor Center (Platform 4)<br>- 15:58 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261003T204100
+DTEND;TZID=Asia/Jerusalem:20261003T204100
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 7717:\n- 20:41 Tel A
+ viv-Savidor Center (Platform 4)\n- 20:43 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  7717:<br>- 20:41 Tel Aviv-Savidor Center (Platform 4)<br>- 20:43 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20261003T234900
+DTEND;TZID=Asia/Jerusalem:20261003T234900
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 7025:\n- 23:49 Tel A
+ viv-Savidor Center (Platform 2)\n- 23:52 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  7025:<br>- 23:49 Tel Aviv-Savidor Center (Platform 2)<br>- 23:52 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261004T000400
+DTEND;TZID=Asia/Jerusalem:20261004T000400
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 7509:\n- 00:04 Tel A
+ viv-Savidor Center (Platform 4)\n- 00:06 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  7509:<br>- 00:04 Tel Aviv-Savidor Center (Platform 4)<br>- 00:06 Tel Aviv
+ -HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20261004T235600
+DTEND;TZID=Asia/Jerusalem:20261004T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261005T003900
+DTEND;TZID=Asia/Jerusalem:20261005T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20261005T235600
+DTEND;TZID=Asia/Jerusalem:20261005T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261006T003900
+DTEND;TZID=Asia/Jerusalem:20261006T003900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -09-07 00:48:30\n\nTrain 137:\n- 00:39 Tel Aviv-Savidor Center (Platform 4
+ )\n- 00:42 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-09-07 00:48:30<br><br>Train 137:<br>- 00:39 Tel A
+ viv-Savidor Center (Platform 4)<br>- 00:42 Tel Aviv-HaShalom (Platform 2)<
+ br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:02h] to Tel Aviv-HaShalom (from Tel Aviv-Savidor Ce
+ nter)
+DTSTART;TZID=Asia/Jerusalem:20261006T235600
+DTEND;TZID=Asia/Jerusalem:20261006T235600
+DESCRIPTION:Last update: 2026-09-07 00:48:30\n\nTrain 291:\n- 23:56 Tel Av
+ iv-Savidor Center (Platform 4)\n- 23:58 Tel Aviv-HaShalom (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-07 00:48:30<br><br>Train
+  291:<br>- 23:56 Tel Aviv-Savidor Center (Platform 4)<br>- 23:58 Tel Aviv-
+ HaShalom (Platform 2)<br><br>
+END:VEVENT
+END:VCALENDAR
