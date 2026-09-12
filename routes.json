@@ -1,0 +1,294 @@
+{
+  "stations": [
+    "Be'er Sheva-Center",
+    "Be'er Sheva-North/University",
+    "Bet Yehoshu'a",
+    "Haifa-Bat Galim",
+    "Tel Aviv-HaHagana",
+    "Tel Aviv-HaShalom",
+    "Tel Aviv-Savidor Center",
+    "Tel Aviv-University"
+  ],
+  "routes": [
+    {
+      "origin": "Tel Aviv-Savidor Center",
+      "destination": "Bet Yehoshu'a",
+      "filename": "tel_aviv_savidor_center_to_bet_yehoshua.ics"
+    },
+    {
+      "origin": "Tel Aviv-Savidor Center",
+      "destination": "Haifa-Bat Galim",
+      "filename": "tel_aviv_savidor_center_to_haifa_bat_galim.ics"
+    },
+    {
+      "origin": "Tel Aviv-Savidor Center",
+      "destination": "Be'er Sheva-North/University",
+      "filename": "tel_aviv_savidor_center_to_beer_sheva_north_university.ics"
+    },
+    {
+      "origin": "Tel Aviv-Savidor Center",
+      "destination": "Tel Aviv-HaShalom",
+      "filename": "tel_aviv_savidor_center_to_tel_aviv_hashalom.ics"
+    },
+    {
+      "origin": "Tel Aviv-Savidor Center",
+      "destination": "Tel Aviv-University",
+      "filename": "tel_aviv_savidor_center_to_tel_aviv_university.ics"
+    },
+    {
+      "origin": "Tel Aviv-Savidor Center",
+      "destination": "Be'er Sheva-Center",
+      "filename": "tel_aviv_savidor_center_to_beer_sheva_center.ics"
+    },
+    {
+      "origin": "Tel Aviv-Savidor Center",
+      "destination": "Tel Aviv-HaHagana",
+      "filename": "tel_aviv_savidor_center_to_tel_aviv_hahagana.ics"
+    },
+    {
+      "origin": "Bet Yehoshu'a",
+      "destination": "Tel Aviv-Savidor Center",
+      "filename": "bet_yehoshua_to_tel_aviv_savidor_center.ics"
+    },
+    {
+      "origin": "Bet Yehoshu'a",
+      "destination": "Haifa-Bat Galim",
+      "filename": "bet_yehoshua_to_haifa_bat_galim.ics"
+    },
+    {
+      "origin": "Bet Yehoshu'a",
+      "destination": "Be'er Sheva-North/University",
+      "filename": "bet_yehoshua_to_beer_sheva_north_university.ics"
+    },
+    {
+      "origin": "Bet Yehoshu'a",
+      "destination": "Tel Aviv-HaShalom",
+      "filename": "bet_yehoshua_to_tel_aviv_hashalom.ics"
+    },
+    {
+      "origin": "Bet Yehoshu'a",
+      "destination": "Tel Aviv-University",
+      "filename": "bet_yehoshua_to_tel_aviv_university.ics"
+    },
+    {
+      "origin": "Bet Yehoshu'a",
+      "destination": "Be'er Sheva-Center",
+      "filename": "bet_yehoshua_to_beer_sheva_center.ics"
+    },
+    {
+      "origin": "Bet Yehoshu'a",
+      "destination": "Tel Aviv-HaHagana",
+      "filename": "bet_yehoshua_to_tel_aviv_hahagana.ics"
+    },
+    {
+      "origin": "Haifa-Bat Galim",
+      "destination": "Tel Aviv-Savidor Center",
+      "filename": "haifa_bat_galim_to_tel_aviv_savidor_center.ics"
+    },
+    {
+      "origin": "Haifa-Bat Galim",
+      "destination": "Bet Yehoshu'a",
+      "filename": "haifa_bat_galim_to_bet_yehoshua.ics"
+    },
+    {
+      "origin": "Haifa-Bat Galim",
+      "destination": "Be'er Sheva-North/University",
+      "filename": "haifa_bat_galim_to_beer_sheva_north_university.ics"
+    },
+    {
+      "origin": "Haifa-Bat Galim",
+      "destination": "Tel Aviv-HaShalom",
+      "filename": "haifa_bat_galim_to_tel_aviv_hashalom.ics"
+    },
+    {
+      "origin": "Haifa-Bat Galim",
+      "destination": "Tel Aviv-University",
+      "filename": "haifa_bat_galim_to_tel_aviv_university.ics"
+    },
+    {
+      "origin": "Haifa-Bat Galim",
+      "destination": "Be'er Sheva-Center",
+      "filename": "haifa_bat_galim_to_beer_sheva_center.ics"
+    },
+    {
+      "origin": "Haifa-Bat Galim",
+      "destination": "Tel Aviv-HaHagana",
+      "filename": "haifa_bat_galim_to_tel_aviv_hahagana.ics"
+    },
+    {
+      "origin": "Be'er Sheva-North/University",
+      "destination": "Tel Aviv-Savidor Center",
+      "filename": "beer_sheva_north_university_to_tel_aviv_savidor_center.ics"
+    },
+    {
+      "origin": "Be'er Sheva-North/University",
+      "destination": "Bet Yehoshu'a",
+      "filename": "beer_sheva_north_university_to_bet_yehoshua.ics"
+    },
+    {
+      "origin": "Be'er Sheva-North/University",
+      "destination": "Haifa-Bat Galim",
+      "filename": "beer_sheva_north_university_to_haifa_bat_galim.ics"
+    },
+    {
+      "origin": "Be'er Sheva-North/University",
+      "destination": "Tel Aviv-HaShalom",
+      "filename": "beer_sheva_north_university_to_tel_aviv_hashalom.ics"
+    },
+    {
+      "origin": "Be'er Sheva-North/University",
+      "destination": "Tel Aviv-University",
+      "filename": "beer_sheva_north_university_to_tel_aviv_university.ics"
+    },
+    {
+      "origin": "Be'er Sheva-North/University",
+      "destination": "Be'er Sheva-Center",
+      "filename": "beer_sheva_north_university_to_beer_sheva_center.ics"
+    },
+    {
+      "origin": "Be'er Sheva-North/University",
+      "destination": "Tel Aviv-HaHagana",
+      "filename": "beer_sheva_north_university_to_tel_aviv_hahagana.ics"
+    },
+    {
+      "origin": "Tel Aviv-HaShalom",
+      "destination": "Tel Aviv-Savidor Center",
+      "filename": "tel_aviv_hashalom_to_tel_aviv_savidor_center.ics"
+    },
+    {
+      "origin": "Tel Aviv-HaShalom",
+      "destination": "Bet Yehoshu'a",
+      "filename": "tel_aviv_hashalom_to_bet_yehoshua.ics"
+    },
+    {
+      "origin": "Tel Aviv-HaShalom",
+      "destination": "Haifa-Bat Galim",
+      "filename": "tel_aviv_hashalom_to_haifa_bat_galim.ics"
+    },
+    {
+      "origin": "Tel Aviv-HaShalom",
+      "destination": "Be'er Sheva-North/University",
+      "filename": "tel_aviv_hashalom_to_beer_sheva_north_university.ics"
+    },
+    {
+      "origin": "Tel Aviv-HaShalom",
+      "destination": "Tel Aviv-University",
+      "filename": "tel_aviv_hashalom_to_tel_aviv_university.ics"
+    },
+    {
+      "origin": "Tel Aviv-HaShalom",
+      "destination": "Be'er Sheva-Center",
+      "filename": "tel_aviv_hashalom_to_beer_sheva_center.ics"
+    },
+    {
+      "origin": "Tel Aviv-HaShalom",
+      "destination": "Tel Aviv-HaHagana",
+      "filename": "tel_aviv_hashalom_to_tel_aviv_hahagana.ics"
+    },
+    {
+      "origin": "Tel Aviv-University",
+      "destination": "Tel Aviv-Savidor Center",
+      "filename": "tel_aviv_university_to_tel_aviv_savidor_center.ics"
+    },
+    {
+      "origin": "Tel Aviv-University",
+      "destination": "Bet Yehoshu'a",
+      "filename": "tel_aviv_university_to_bet_yehoshua.ics"
+    },
+    {
+      "origin": "Tel Aviv-University",
+      "destination": "Haifa-Bat Galim",
+      "filename": "tel_aviv_university_to_haifa_bat_galim.ics"
+    },
+    {
+      "origin": "Tel Aviv-University",
+      "destination": "Be'er Sheva-North/University",
+      "filename": "tel_aviv_university_to_beer_sheva_north_university.ics"
+    },
+    {
+      "origin": "Tel Aviv-University",
+      "destination": "Tel Aviv-HaShalom",
+      "filename": "tel_aviv_university_to_tel_aviv_hashalom.ics"
+    },
+    {
+      "origin": "Tel Aviv-University",
+      "destination": "Be'er Sheva-Center",
+      "filename": "tel_aviv_university_to_beer_sheva_center.ics"
+    },
+    {
+      "origin": "Tel Aviv-University",
+      "destination": "Tel Aviv-HaHagana",
+      "filename": "tel_aviv_university_to_tel_aviv_hahagana.ics"
+    },
+    {
+      "origin": "Be'er Sheva-Center",
+      "destination": "Tel Aviv-Savidor Center",
+      "filename": "beer_sheva_center_to_tel_aviv_savidor_center.ics"
+    },
+    {
+      "origin": "Be'er Sheva-Center",
+      "destination": "Bet Yehoshu'a",
+      "filename": "beer_sheva_center_to_bet_yehoshua.ics"
+    },
+    {
+      "origin": "Be'er Sheva-Center",
+      "destination": "Haifa-Bat Galim",
+      "filename": "beer_sheva_center_to_haifa_bat_galim.ics"
+    },
+    {
+      "origin": "Be'er Sheva-Center",
+      "destination": "Be'er Sheva-North/University",
+      "filename": "beer_sheva_center_to_beer_sheva_north_university.ics"
+    },
+    {
+      "origin": "Be'er Sheva-Center",
+      "destination": "Tel Aviv-HaShalom",
+      "filename": "beer_sheva_center_to_tel_aviv_hashalom.ics"
+    },
+    {
+      "origin": "Be'er Sheva-Center",
+      "destination": "Tel Aviv-University",
+      "filename": "beer_sheva_center_to_tel_aviv_university.ics"
+    },
+    {
+      "origin": "Be'er Sheva-Center",
+      "destination": "Tel Aviv-HaHagana",
+      "filename": "beer_sheva_center_to_tel_aviv_hahagana.ics"
+    },
+    {
+      "origin": "Tel Aviv-HaHagana",
+      "destination": "Tel Aviv-Savidor Center",
+      "filename": "tel_aviv_hahagana_to_tel_aviv_savidor_center.ics"
+    },
+    {
+      "origin": "Tel Aviv-HaHagana",
+      "destination": "Bet Yehoshu'a",
+      "filename": "tel_aviv_hahagana_to_bet_yehoshua.ics"
+    },
+    {
+      "origin": "Tel Aviv-HaHagana",
+      "destination": "Haifa-Bat Galim",
+      "filename": "tel_aviv_hahagana_to_haifa_bat_galim.ics"
+    },
+    {
+      "origin": "Tel Aviv-HaHagana",
+      "destination": "Be'er Sheva-North/University",
+      "filename": "tel_aviv_hahagana_to_beer_sheva_north_university.ics"
+    },
+    {
+      "origin": "Tel Aviv-HaHagana",
+      "destination": "Tel Aviv-HaShalom",
+      "filename": "tel_aviv_hahagana_to_tel_aviv_hashalom.ics"
+    },
+    {
+      "origin": "Tel Aviv-HaHagana",
+      "destination": "Tel Aviv-University",
+      "filename": "tel_aviv_hahagana_to_tel_aviv_university.ics"
+    },
+    {
+      "origin": "Tel Aviv-HaHagana",
+      "destination": "Be'er Sheva-Center",
+      "filename": "tel_aviv_hahagana_to_beer_sheva_center.ics"
+    }
+  ]
+}
