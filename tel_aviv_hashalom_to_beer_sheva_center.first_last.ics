@@ -1,0 +1,1375 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Israel Railways Calendar Generator (First/Last)//
+X-WR-CALNAME:Tel Aviv-HaShalom to Be'er Sheva-Center (First & Last Trains)
+BEGIN:VEVENT
+SUMMARY:[1:34h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20260926T205200
+DTEND;TZID=Asia/Jerusalem:20260926T205200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 7019:\n- 20:52 Tel A
+ viv-HaShalom (Platform 2)\n- 20:57 Tel Aviv-HaHagana (Platform 3)\n- 21:11
+  Lod (Platform 1)\n- 21:17 Ramla (Platform 2)\n- 21:26 Mazkeret Batya (Pla
+ tform 2)\n- 21:35 Kiryat Malakhi – Yoav (Platform 2)\n- 21:47 Kiryat Gat
+  (Platform 3)\n- 22:07 Lehavim-Rahat (Platform 1)\n- 22:17 Be'er Sheva-Nor
+ th/University (Platform 3)\n- 22:26 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  7019:<br>- 20:52 Tel Aviv-HaShalom (Platform 2)<br>- 20:57 Tel Aviv-HaHag
+ ana (Platform 3)<br>- 21:11 Lod (Platform 1)<br>- 21:17 Ramla (Platform 2)
+ <br>- 21:26 Mazkeret Batya (Platform 2)<br>- 21:35 Kiryat Malakhi – Yoav
+  (Platform 2)<br>- 21:47 Kiryat Gat (Platform 3)<br>- 22:07 Lehavim-Rahat 
+ (Platform 1)<br>- 22:17 Be'er Sheva-North/University (Platform 3)<br>- 22:
+ 26 Be'er Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:15h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20260926T235400
+DTEND;TZID=Asia/Jerusalem:20260926T235400
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 7616:\n- 23:54 Tel A
+ viv-HaShalom (Platform 3)\n- 23:57 Tel Aviv-Savidor Center (Platform 5)\n\
+ nTrain 7619:\n- 00:23 Tel Aviv-Savidor Center (Platform 6)\n- 00:25 Tel Av
+ iv-HaShalom (Platform 3)\n- 00:30 Tel Aviv-HaHagana (Platform 5)\n- 00:38 
+ Holon-Wolfson (Platform 2)\n- 00:42 Bat Yam-Yoseftal (Platform 2)\n- 00:48
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:57 Yavne-West (Platform 1)
+ \n- 01:07 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 01:17 Ashkelon (P
+ latform 2)\n- 01:29 Sderot (Platform 1)\n- 01:37 Netivot (Platform 2)\n- 0
+ 1:46 Ofakim (Platform 2)\n- 02:00 Be'er Sheva-North/University (Platform 3
+ )\n- 02:09 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  7616:<br>- 23:54 Tel Aviv-HaShalom (Platform 3)<br>- 23:57 Tel Aviv-Savid
+ or Center (Platform 5)<br><br>Train 7619:<br>- 00:23 Tel Aviv-Savidor Cent
+ er (Platform 6)<br>- 00:25 Tel Aviv-HaShalom (Platform 3)<br>- 00:30 Tel A
+ viv-HaHagana (Platform 5)<br>- 00:38 Holon-Wolfson (Platform 2)<br>- 00:42
+  Bat Yam-Yoseftal (Platform 2)<br>- 00:48 Rishon LeTsiyon-Moshe Dayan (Pla
+ tform 1)<br>- 00:57 Yavne-West (Platform 1)<br>- 01:07 Ashdod-Ad Halom (M.
+ Bar Kochva) (Platform 3)<br>- 01:17 Ashkelon (Platform 2)<br>- 01:29 Sdero
+ t (Platform 1)<br>- 01:37 Netivot (Platform 2)<br>- 01:46 Ofakim (Platform
+  2)<br>- 02:00 Be'er Sheva-North/University (Platform 3)<br>- 02:09 Be'er 
+ Sheva-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:44h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20260927T002500
+DTEND;TZID=Asia/Jerusalem:20260927T002500
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 7619:\n- 00:25 Tel A
+ viv-HaShalom (Platform 3)\n- 00:30 Tel Aviv-HaHagana (Platform 5)\n- 00:38
+  Holon-Wolfson (Platform 2)\n- 00:42 Bat Yam-Yoseftal (Platform 2)\n- 00:4
+ 8 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:57 Yavne-West (Platform 1
+ )\n- 01:07 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 01:17 Ashkelon (
+ Platform 2)\n- 01:29 Sderot (Platform 1)\n- 01:37 Netivot (Platform 2)\n- 
+ 01:46 Ofakim (Platform 2)\n- 02:00 Be'er Sheva-North/University (Platform 
+ 3)\n- 02:09 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  7619:<br>- 00:25 Tel Aviv-HaShalom (Platform 3)<br>- 00:30 Tel Aviv-HaHag
+ ana (Platform 5)<br>- 00:38 Holon-Wolfson (Platform 2)<br>- 00:42 Bat Yam-
+ Yoseftal (Platform 2)<br>- 00:48 Rishon LeTsiyon-Moshe Dayan (Platform 1)<
+ br>- 00:57 Yavne-West (Platform 1)<br>- 01:07 Ashdod-Ad Halom (M.Bar Kochv
+ a) (Platform 3)<br>- 01:17 Ashkelon (Platform 2)<br>- 01:29 Sderot (Platfo
+ rm 1)<br>- 01:37 Netivot (Platform 2)<br>- 01:46 Ofakim (Platform 2)<br>- 
+ 02:00 Be'er Sheva-North/University (Platform 3)<br>- 02:09 Be'er Sheva-Cen
+ ter (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20260927T234200
+DTEND;TZID=Asia/Jerusalem:20260927T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:40h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20260928T054100
+DTEND;TZID=Asia/Jerusalem:20260928T054100
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 611:\n- 05:41 Tel Av
+ iv-HaShalom (Platform 3)\n- 05:45 Tel Aviv-HaHagana (Platform 5)\n- 05:50 
+ Holon-Wolfson (Platform 2)\n- 05:52 Bat Yam-Yoseftal (Platform 2)\n- 05:56
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 06:05 Yavne-West (Platform 1)
+ \n- 06:16 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 06:26 Ashkelon (P
+ latform 2)\n- 06:38 Sderot (Platform 1)\n- 06:47 Netivot (Platform 2)\n- 0
+ 6:56 Ofakim (Platform 2)\n- 07:12 Be'er Sheva-North/University (Platform 3
+ )\n- 07:21 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  611:<br>- 05:41 Tel Aviv-HaShalom (Platform 3)<br>- 05:45 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 05:50 Holon-Wolfson (Platform 2)<br>- 05:52 Bat Yam-Y
+ oseftal (Platform 2)<br>- 05:56 Rishon LeTsiyon-Moshe Dayan (Platform 1)<b
+ r>- 06:05 Yavne-West (Platform 1)<br>- 06:16 Ashdod-Ad Halom (M.Bar Kochva
+ ) (Platform 3)<br>- 06:26 Ashkelon (Platform 2)<br>- 06:38 Sderot (Platfor
+ m 1)<br>- 06:47 Netivot (Platform 2)<br>- 06:56 Ofakim (Platform 2)<br>- 0
+ 7:12 Be'er Sheva-North/University (Platform 3)<br>- 07:21 Be'er Sheva-Cent
+ er (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20260928T234200
+DTEND;TZID=Asia/Jerusalem:20260928T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:40h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20260929T054100
+DTEND;TZID=Asia/Jerusalem:20260929T054100
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 611:\n- 05:41 Tel Av
+ iv-HaShalom (Platform 3)\n- 05:45 Tel Aviv-HaHagana (Platform 5)\n- 05:50 
+ Holon-Wolfson (Platform 2)\n- 05:52 Bat Yam-Yoseftal (Platform 2)\n- 05:56
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 06:05 Yavne-West (Platform 1)
+ \n- 06:16 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 06:26 Ashkelon (P
+ latform 2)\n- 06:38 Sderot (Platform 1)\n- 06:47 Netivot (Platform 2)\n- 0
+ 6:56 Ofakim (Platform 2)\n- 07:12 Be'er Sheva-North/University (Platform 3
+ )\n- 07:21 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  611:<br>- 05:41 Tel Aviv-HaShalom (Platform 3)<br>- 05:45 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 05:50 Holon-Wolfson (Platform 2)<br>- 05:52 Bat Yam-Y
+ oseftal (Platform 2)<br>- 05:56 Rishon LeTsiyon-Moshe Dayan (Platform 1)<b
+ r>- 06:05 Yavne-West (Platform 1)<br>- 06:16 Ashdod-Ad Halom (M.Bar Kochva
+ ) (Platform 3)<br>- 06:26 Ashkelon (Platform 2)<br>- 06:38 Sderot (Platfor
+ m 1)<br>- 06:47 Netivot (Platform 2)<br>- 06:56 Ofakim (Platform 2)<br>- 0
+ 7:12 Be'er Sheva-North/University (Platform 3)<br>- 07:21 Be'er Sheva-Cent
+ er (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20260929T234200
+DTEND;TZID=Asia/Jerusalem:20260929T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:40h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20260930T054100
+DTEND;TZID=Asia/Jerusalem:20260930T054100
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 611:\n- 05:41 Tel Av
+ iv-HaShalom (Platform 3)\n- 05:45 Tel Aviv-HaHagana (Platform 5)\n- 05:50 
+ Holon-Wolfson (Platform 2)\n- 05:52 Bat Yam-Yoseftal (Platform 2)\n- 05:56
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 06:05 Yavne-West (Platform 1)
+ \n- 06:16 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 06:26 Ashkelon (P
+ latform 2)\n- 06:38 Sderot (Platform 1)\n- 06:47 Netivot (Platform 2)\n- 0
+ 6:56 Ofakim (Platform 2)\n- 07:12 Be'er Sheva-North/University (Platform 3
+ )\n- 07:21 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  611:<br>- 05:41 Tel Aviv-HaShalom (Platform 3)<br>- 05:45 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 05:50 Holon-Wolfson (Platform 2)<br>- 05:52 Bat Yam-Y
+ oseftal (Platform 2)<br>- 05:56 Rishon LeTsiyon-Moshe Dayan (Platform 1)<b
+ r>- 06:05 Yavne-West (Platform 1)<br>- 06:16 Ashdod-Ad Halom (M.Bar Kochva
+ ) (Platform 3)<br>- 06:26 Ashkelon (Platform 2)<br>- 06:38 Sderot (Platfor
+ m 1)<br>- 06:47 Netivot (Platform 2)<br>- 06:56 Ofakim (Platform 2)<br>- 0
+ 7:12 Be'er Sheva-North/University (Platform 3)<br>- 07:21 Be'er Sheva-Cent
+ er (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20260930T234200
+DTEND;TZID=Asia/Jerusalem:20260930T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:40h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261001T054100
+DTEND;TZID=Asia/Jerusalem:20261001T054100
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 611:\n- 05:41 Tel Av
+ iv-HaShalom (Platform 3)\n- 05:45 Tel Aviv-HaHagana (Platform 5)\n- 05:50 
+ Holon-Wolfson (Platform 2)\n- 05:52 Bat Yam-Yoseftal (Platform 2)\n- 05:56
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 06:05 Yavne-West (Platform 1)
+ \n- 06:16 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 06:26 Ashkelon (P
+ latform 2)\n- 06:38 Sderot (Platform 1)\n- 06:47 Netivot (Platform 2)\n- 0
+ 6:56 Ofakim (Platform 2)\n- 07:12 Be'er Sheva-North/University (Platform 3
+ )\n- 07:21 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  611:<br>- 05:41 Tel Aviv-HaShalom (Platform 3)<br>- 05:45 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 05:50 Holon-Wolfson (Platform 2)<br>- 05:52 Bat Yam-Y
+ oseftal (Platform 2)<br>- 05:56 Rishon LeTsiyon-Moshe Dayan (Platform 1)<b
+ r>- 06:05 Yavne-West (Platform 1)<br>- 06:16 Ashdod-Ad Halom (M.Bar Kochva
+ ) (Platform 3)<br>- 06:26 Ashkelon (Platform 2)<br>- 06:38 Sderot (Platfor
+ m 1)<br>- 06:47 Netivot (Platform 2)<br>- 06:56 Ofakim (Platform 2)<br>- 0
+ 7:12 Be'er Sheva-North/University (Platform 3)<br>- 07:21 Be'er Sheva-Cent
+ er (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261001T234200
+DTEND;TZID=Asia/Jerusalem:20261001T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:42h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261002T052000
+DTEND;TZID=Asia/Jerusalem:20261002T052000
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 6019:\n- 05:20 Tel A
+ viv-HaShalom (Platform 2)\n- 05:26 Tel Aviv-HaHagana (Platform 3)\n- 05:40
+  Lod (Platform 3)\n- 05:47 Ramla (Platform 2)\n- 05:57 Mazkeret Batya (Pla
+ tform 2)\n- 06:08 Kiryat Malakhi – Yoav (Platform 2)\n- 06:22 Kiryat Gat
+  (Platform 3)\n- 06:43 Lehavim-Rahat (Platform 1)\n- 06:53 Be'er Sheva-Nor
+ th/University (Platform 3)\n- 07:02 Be'er Sheva-Center (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  6019:<br>- 05:20 Tel Aviv-HaShalom (Platform 2)<br>- 05:26 Tel Aviv-HaHag
+ ana (Platform 3)<br>- 05:40 Lod (Platform 3)<br>- 05:47 Ramla (Platform 2)
+ <br>- 05:57 Mazkeret Batya (Platform 2)<br>- 06:08 Kiryat Malakhi – Yoav
+  (Platform 2)<br>- 06:22 Kiryat Gat (Platform 3)<br>- 06:43 Lehavim-Rahat 
+ (Platform 1)<br>- 06:53 Be'er Sheva-North/University (Platform 3)<br>- 07:
+ 02 Be'er Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:35h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261002T142000
+DTEND;TZID=Asia/Jerusalem:20261002T142000
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 6037:\n- 14:20 Tel A
+ viv-HaShalom (Platform 2)\n- 14:26 Tel Aviv-HaHagana (Platform 3)\n- 14:40
+  Lod (Platform 1)\n- 14:46 Ramla (Platform 2)\n- 14:55 Mazkeret Batya (Pla
+ tform 2)\n- 15:04 Kiryat Malakhi – Yoav (Platform 2)\n- 15:16 Kiryat Gat
+  (Platform 3)\n- 15:35 Lehavim-Rahat (Platform 1)\n- 15:45 Be'er Sheva-Nor
+ th/University (Platform 3)\n- 15:55 Be'er Sheva-Center (Platform 5)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  6037:<br>- 14:20 Tel Aviv-HaShalom (Platform 2)<br>- 14:26 Tel Aviv-HaHag
+ ana (Platform 3)<br>- 14:40 Lod (Platform 1)<br>- 14:46 Ramla (Platform 2)
+ <br>- 14:55 Mazkeret Batya (Platform 2)<br>- 15:04 Kiryat Malakhi – Yoav
+  (Platform 2)<br>- 15:16 Kiryat Gat (Platform 3)<br>- 15:35 Lehavim-Rahat 
+ (Platform 1)<br>- 15:45 Be'er Sheva-North/University (Platform 3)<br>- 15:
+ 55 Be'er Sheva-Center (Platform 5)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:34h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261003T205200
+DTEND;TZID=Asia/Jerusalem:20261003T205200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 7019:\n- 20:52 Tel A
+ viv-HaShalom (Platform 2)\n- 20:57 Tel Aviv-HaHagana (Platform 3)\n- 21:11
+  Lod (Platform 1)\n- 21:17 Ramla (Platform 2)\n- 21:26 Mazkeret Batya (Pla
+ tform 2)\n- 21:35 Kiryat Malakhi – Yoav (Platform 2)\n- 21:47 Kiryat Gat
+  (Platform 3)\n- 22:07 Lehavim-Rahat (Platform 1)\n- 22:17 Be'er Sheva-Nor
+ th/University (Platform 3)\n- 22:26 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  7019:<br>- 20:52 Tel Aviv-HaShalom (Platform 2)<br>- 20:57 Tel Aviv-HaHag
+ ana (Platform 3)<br>- 21:11 Lod (Platform 1)<br>- 21:17 Ramla (Platform 2)
+ <br>- 21:26 Mazkeret Batya (Platform 2)<br>- 21:35 Kiryat Malakhi – Yoav
+  (Platform 2)<br>- 21:47 Kiryat Gat (Platform 3)<br>- 22:07 Lehavim-Rahat 
+ (Platform 1)<br>- 22:17 Be'er Sheva-North/University (Platform 3)<br>- 22:
+ 26 Be'er Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:15h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261003T235400
+DTEND;TZID=Asia/Jerusalem:20261003T235400
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 7616:\n- 23:54 Tel A
+ viv-HaShalom (Platform 3)\n- 23:57 Tel Aviv-Savidor Center (Platform 5)\n\
+ nTrain 7619:\n- 00:23 Tel Aviv-Savidor Center (Platform 6)\n- 00:25 Tel Av
+ iv-HaShalom (Platform 3)\n- 00:30 Tel Aviv-HaHagana (Platform 5)\n- 00:38 
+ Holon-Wolfson (Platform 2)\n- 00:42 Bat Yam-Yoseftal (Platform 2)\n- 00:48
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:57 Yavne-West (Platform 1)
+ \n- 01:07 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 01:17 Ashkelon (P
+ latform 2)\n- 01:29 Sderot (Platform 1)\n- 01:37 Netivot (Platform 2)\n- 0
+ 1:46 Ofakim (Platform 2)\n- 02:00 Be'er Sheva-North/University (Platform 3
+ )\n- 02:09 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  7616:<br>- 23:54 Tel Aviv-HaShalom (Platform 3)<br>- 23:57 Tel Aviv-Savid
+ or Center (Platform 5)<br><br>Train 7619:<br>- 00:23 Tel Aviv-Savidor Cent
+ er (Platform 6)<br>- 00:25 Tel Aviv-HaShalom (Platform 3)<br>- 00:30 Tel A
+ viv-HaHagana (Platform 5)<br>- 00:38 Holon-Wolfson (Platform 2)<br>- 00:42
+  Bat Yam-Yoseftal (Platform 2)<br>- 00:48 Rishon LeTsiyon-Moshe Dayan (Pla
+ tform 1)<br>- 00:57 Yavne-West (Platform 1)<br>- 01:07 Ashdod-Ad Halom (M.
+ Bar Kochva) (Platform 3)<br>- 01:17 Ashkelon (Platform 2)<br>- 01:29 Sdero
+ t (Platform 1)<br>- 01:37 Netivot (Platform 2)<br>- 01:46 Ofakim (Platform
+  2)<br>- 02:00 Be'er Sheva-North/University (Platform 3)<br>- 02:09 Be'er 
+ Sheva-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:44h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261004T002500
+DTEND;TZID=Asia/Jerusalem:20261004T002500
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 7619:\n- 00:25 Tel A
+ viv-HaShalom (Platform 3)\n- 00:30 Tel Aviv-HaHagana (Platform 5)\n- 00:38
+  Holon-Wolfson (Platform 2)\n- 00:42 Bat Yam-Yoseftal (Platform 2)\n- 00:4
+ 8 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:57 Yavne-West (Platform 1
+ )\n- 01:07 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 01:17 Ashkelon (
+ Platform 2)\n- 01:29 Sderot (Platform 1)\n- 01:37 Netivot (Platform 2)\n- 
+ 01:46 Ofakim (Platform 2)\n- 02:00 Be'er Sheva-North/University (Platform 
+ 3)\n- 02:09 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  7619:<br>- 00:25 Tel Aviv-HaShalom (Platform 3)<br>- 00:30 Tel Aviv-HaHag
+ ana (Platform 5)<br>- 00:38 Holon-Wolfson (Platform 2)<br>- 00:42 Bat Yam-
+ Yoseftal (Platform 2)<br>- 00:48 Rishon LeTsiyon-Moshe Dayan (Platform 1)<
+ br>- 00:57 Yavne-West (Platform 1)<br>- 01:07 Ashdod-Ad Halom (M.Bar Kochv
+ a) (Platform 3)<br>- 01:17 Ashkelon (Platform 2)<br>- 01:29 Sderot (Platfo
+ rm 1)<br>- 01:37 Netivot (Platform 2)<br>- 01:46 Ofakim (Platform 2)<br>- 
+ 02:00 Be'er Sheva-North/University (Platform 3)<br>- 02:09 Be'er Sheva-Cen
+ ter (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261004T234200
+DTEND;TZID=Asia/Jerusalem:20261004T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:40h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261005T054100
+DTEND;TZID=Asia/Jerusalem:20261005T054100
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 611:\n- 05:41 Tel Av
+ iv-HaShalom (Platform 3)\n- 05:45 Tel Aviv-HaHagana (Platform 5)\n- 05:50 
+ Holon-Wolfson (Platform 2)\n- 05:52 Bat Yam-Yoseftal (Platform 2)\n- 05:56
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 06:05 Yavne-West (Platform 1)
+ \n- 06:16 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 06:26 Ashkelon (P
+ latform 2)\n- 06:38 Sderot (Platform 1)\n- 06:47 Netivot (Platform 2)\n- 0
+ 6:56 Ofakim (Platform 2)\n- 07:12 Be'er Sheva-North/University (Platform 3
+ )\n- 07:21 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  611:<br>- 05:41 Tel Aviv-HaShalom (Platform 3)<br>- 05:45 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 05:50 Holon-Wolfson (Platform 2)<br>- 05:52 Bat Yam-Y
+ oseftal (Platform 2)<br>- 05:56 Rishon LeTsiyon-Moshe Dayan (Platform 1)<b
+ r>- 06:05 Yavne-West (Platform 1)<br>- 06:16 Ashdod-Ad Halom (M.Bar Kochva
+ ) (Platform 3)<br>- 06:26 Ashkelon (Platform 2)<br>- 06:38 Sderot (Platfor
+ m 1)<br>- 06:47 Netivot (Platform 2)<br>- 06:56 Ofakim (Platform 2)<br>- 0
+ 7:12 Be'er Sheva-North/University (Platform 3)<br>- 07:21 Be'er Sheva-Cent
+ er (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:43h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261005T231200
+DTEND;TZID=Asia/Jerusalem:20261005T231200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 53:\n- 23:12 Tel Avi
+ v-HaShalom (Platform 2)\n- 23:18 Tel Aviv-HaHagana (Platform 3)\n- 23:35 L
+ od (Platform 1)\n- 23:41 Ramla (Platform 2)\n- 23:50 Mazkeret Batya (Platf
+ orm 2)\n- 23:59 Kiryat Malakhi – Yoav (Platform 2)\n- 00:13 Kiryat Gat (
+ Platform 3)\n- 00:34 Lehavim-Rahat (Platform 1)\n- 00:45 Be'er Sheva-North
+ /University (Platform 3)\n- 00:55 Be'er Sheva-Center (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  53:<br>- 23:12 Tel Aviv-HaShalom (Platform 2)<br>- 23:18 Tel Aviv-HaHagan
+ a (Platform 3)<br>- 23:35 Lod (Platform 1)<br>- 23:41 Ramla (Platform 2)<b
+ r>- 23:50 Mazkeret Batya (Platform 2)<br>- 23:59 Kiryat Malakhi – Yoav (
+ Platform 2)<br>- 00:13 Kiryat Gat (Platform 3)<br>- 00:34 Lehavim-Rahat (P
+ latform 1)<br>- 00:45 Be'er Sheva-North/University (Platform 3)<br>- 00:55
+  Be'er Sheva-Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:40h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261006T054100
+DTEND;TZID=Asia/Jerusalem:20261006T054100
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 611:\n- 05:41 Tel Av
+ iv-HaShalom (Platform 3)\n- 05:45 Tel Aviv-HaHagana (Platform 5)\n- 05:50 
+ Holon-Wolfson (Platform 2)\n- 05:52 Bat Yam-Yoseftal (Platform 2)\n- 05:56
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 06:05 Yavne-West (Platform 1)
+ \n- 06:16 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 06:26 Ashkelon (P
+ latform 2)\n- 06:38 Sderot (Platform 1)\n- 06:47 Netivot (Platform 2)\n- 0
+ 6:56 Ofakim (Platform 2)\n- 07:12 Be'er Sheva-North/University (Platform 3
+ )\n- 07:21 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  611:<br>- 05:41 Tel Aviv-HaShalom (Platform 3)<br>- 05:45 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 05:50 Holon-Wolfson (Platform 2)<br>- 05:52 Bat Yam-Y
+ oseftal (Platform 2)<br>- 05:56 Rishon LeTsiyon-Moshe Dayan (Platform 1)<b
+ r>- 06:05 Yavne-West (Platform 1)<br>- 06:16 Ashdod-Ad Halom (M.Bar Kochva
+ ) (Platform 3)<br>- 06:26 Ashkelon (Platform 2)<br>- 06:38 Sderot (Platfor
+ m 1)<br>- 06:47 Netivot (Platform 2)<br>- 06:56 Ofakim (Platform 2)<br>- 0
+ 7:12 Be'er Sheva-North/University (Platform 3)<br>- 07:21 Be'er Sheva-Cent
+ er (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261006T234200
+DTEND;TZID=Asia/Jerusalem:20261006T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:40h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261007T054100
+DTEND;TZID=Asia/Jerusalem:20261007T054100
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 611:\n- 05:41 Tel Av
+ iv-HaShalom (Platform 3)\n- 05:45 Tel Aviv-HaHagana (Platform 5)\n- 05:50 
+ Holon-Wolfson (Platform 2)\n- 05:52 Bat Yam-Yoseftal (Platform 2)\n- 05:56
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 06:05 Yavne-West (Platform 1)
+ \n- 06:16 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 06:26 Ashkelon (P
+ latform 2)\n- 06:38 Sderot (Platform 1)\n- 06:47 Netivot (Platform 2)\n- 0
+ 6:56 Ofakim (Platform 2)\n- 07:12 Be'er Sheva-North/University (Platform 3
+ )\n- 07:21 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  611:<br>- 05:41 Tel Aviv-HaShalom (Platform 3)<br>- 05:45 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 05:50 Holon-Wolfson (Platform 2)<br>- 05:52 Bat Yam-Y
+ oseftal (Platform 2)<br>- 05:56 Rishon LeTsiyon-Moshe Dayan (Platform 1)<b
+ r>- 06:05 Yavne-West (Platform 1)<br>- 06:16 Ashdod-Ad Halom (M.Bar Kochva
+ ) (Platform 3)<br>- 06:26 Ashkelon (Platform 2)<br>- 06:38 Sderot (Platfor
+ m 1)<br>- 06:47 Netivot (Platform 2)<br>- 06:56 Ofakim (Platform 2)<br>- 0
+ 7:12 Be'er Sheva-North/University (Platform 3)<br>- 07:21 Be'er Sheva-Cent
+ er (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261007T234200
+DTEND;TZID=Asia/Jerusalem:20261007T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:40h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261008T054100
+DTEND;TZID=Asia/Jerusalem:20261008T054100
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 611:\n- 05:41 Tel Av
+ iv-HaShalom (Platform 3)\n- 05:45 Tel Aviv-HaHagana (Platform 5)\n- 05:50 
+ Holon-Wolfson (Platform 2)\n- 05:52 Bat Yam-Yoseftal (Platform 2)\n- 05:56
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 06:05 Yavne-West (Platform 1)
+ \n- 06:16 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 06:26 Ashkelon (P
+ latform 2)\n- 06:38 Sderot (Platform 1)\n- 06:47 Netivot (Platform 2)\n- 0
+ 6:56 Ofakim (Platform 2)\n- 07:12 Be'er Sheva-North/University (Platform 3
+ )\n- 07:21 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  611:<br>- 05:41 Tel Aviv-HaShalom (Platform 3)<br>- 05:45 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 05:50 Holon-Wolfson (Platform 2)<br>- 05:52 Bat Yam-Y
+ oseftal (Platform 2)<br>- 05:56 Rishon LeTsiyon-Moshe Dayan (Platform 1)<b
+ r>- 06:05 Yavne-West (Platform 1)<br>- 06:16 Ashdod-Ad Halom (M.Bar Kochva
+ ) (Platform 3)<br>- 06:26 Ashkelon (Platform 2)<br>- 06:38 Sderot (Platfor
+ m 1)<br>- 06:47 Netivot (Platform 2)<br>- 06:56 Ofakim (Platform 2)<br>- 0
+ 7:12 Be'er Sheva-North/University (Platform 3)<br>- 07:21 Be'er Sheva-Cent
+ er (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261008T234200
+DTEND;TZID=Asia/Jerusalem:20261008T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:42h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261009T052000
+DTEND;TZID=Asia/Jerusalem:20261009T052000
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 6019:\n- 05:20 Tel A
+ viv-HaShalom (Platform 2)\n- 05:26 Tel Aviv-HaHagana (Platform 3)\n- 05:40
+  Lod (Platform 3)\n- 05:47 Ramla (Platform 2)\n- 05:57 Mazkeret Batya (Pla
+ tform 2)\n- 06:08 Kiryat Malakhi – Yoav (Platform 2)\n- 06:22 Kiryat Gat
+  (Platform 3)\n- 06:43 Lehavim-Rahat (Platform 1)\n- 06:53 Be'er Sheva-Nor
+ th/University (Platform 3)\n- 07:02 Be'er Sheva-Center (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  6019:<br>- 05:20 Tel Aviv-HaShalom (Platform 2)<br>- 05:26 Tel Aviv-HaHag
+ ana (Platform 3)<br>- 05:40 Lod (Platform 3)<br>- 05:47 Ramla (Platform 2)
+ <br>- 05:57 Mazkeret Batya (Platform 2)<br>- 06:08 Kiryat Malakhi – Yoav
+  (Platform 2)<br>- 06:22 Kiryat Gat (Platform 3)<br>- 06:43 Lehavim-Rahat 
+ (Platform 1)<br>- 06:53 Be'er Sheva-North/University (Platform 3)<br>- 07:
+ 02 Be'er Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:35h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261009T142000
+DTEND;TZID=Asia/Jerusalem:20261009T142000
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 6037:\n- 14:20 Tel A
+ viv-HaShalom (Platform 2)\n- 14:26 Tel Aviv-HaHagana (Platform 3)\n- 14:40
+  Lod (Platform 1)\n- 14:46 Ramla (Platform 2)\n- 14:55 Mazkeret Batya (Pla
+ tform 2)\n- 15:04 Kiryat Malakhi – Yoav (Platform 2)\n- 15:16 Kiryat Gat
+  (Platform 3)\n- 15:35 Lehavim-Rahat (Platform 1)\n- 15:45 Be'er Sheva-Nor
+ th/University (Platform 3)\n- 15:55 Be'er Sheva-Center (Platform 5)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  6037:<br>- 14:20 Tel Aviv-HaShalom (Platform 2)<br>- 14:26 Tel Aviv-HaHag
+ ana (Platform 3)<br>- 14:40 Lod (Platform 1)<br>- 14:46 Ramla (Platform 2)
+ <br>- 14:55 Mazkeret Batya (Platform 2)<br>- 15:04 Kiryat Malakhi – Yoav
+  (Platform 2)<br>- 15:16 Kiryat Gat (Platform 3)<br>- 15:35 Lehavim-Rahat 
+ (Platform 1)<br>- 15:45 Be'er Sheva-North/University (Platform 3)<br>- 15:
+ 55 Be'er Sheva-Center (Platform 5)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:34h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261010T205200
+DTEND;TZID=Asia/Jerusalem:20261010T205200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 7019:\n- 20:52 Tel A
+ viv-HaShalom (Platform 2)\n- 20:57 Tel Aviv-HaHagana (Platform 3)\n- 21:11
+  Lod (Platform 1)\n- 21:17 Ramla (Platform 2)\n- 21:26 Mazkeret Batya (Pla
+ tform 2)\n- 21:35 Kiryat Malakhi – Yoav (Platform 2)\n- 21:47 Kiryat Gat
+  (Platform 3)\n- 22:07 Lehavim-Rahat (Platform 1)\n- 22:17 Be'er Sheva-Nor
+ th/University (Platform 3)\n- 22:26 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  7019:<br>- 20:52 Tel Aviv-HaShalom (Platform 2)<br>- 20:57 Tel Aviv-HaHag
+ ana (Platform 3)<br>- 21:11 Lod (Platform 1)<br>- 21:17 Ramla (Platform 2)
+ <br>- 21:26 Mazkeret Batya (Platform 2)<br>- 21:35 Kiryat Malakhi – Yoav
+  (Platform 2)<br>- 21:47 Kiryat Gat (Platform 3)<br>- 22:07 Lehavim-Rahat 
+ (Platform 1)<br>- 22:17 Be'er Sheva-North/University (Platform 3)<br>- 22:
+ 26 Be'er Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:15h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261010T235400
+DTEND;TZID=Asia/Jerusalem:20261010T235400
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 7616:\n- 23:54 Tel A
+ viv-HaShalom (Platform 3)\n- 23:57 Tel Aviv-Savidor Center (Platform 5)\n\
+ nTrain 7619:\n- 00:23 Tel Aviv-Savidor Center (Platform 6)\n- 00:25 Tel Av
+ iv-HaShalom (Platform 3)\n- 00:30 Tel Aviv-HaHagana (Platform 5)\n- 00:38 
+ Holon-Wolfson (Platform 2)\n- 00:42 Bat Yam-Yoseftal (Platform 2)\n- 00:48
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:57 Yavne-West (Platform 1)
+ \n- 01:07 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 01:17 Ashkelon (P
+ latform 2)\n- 01:29 Sderot (Platform 1)\n- 01:37 Netivot (Platform 2)\n- 0
+ 1:46 Ofakim (Platform 2)\n- 02:00 Be'er Sheva-North/University (Platform 3
+ )\n- 02:09 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  7616:<br>- 23:54 Tel Aviv-HaShalom (Platform 3)<br>- 23:57 Tel Aviv-Savid
+ or Center (Platform 5)<br><br>Train 7619:<br>- 00:23 Tel Aviv-Savidor Cent
+ er (Platform 6)<br>- 00:25 Tel Aviv-HaShalom (Platform 3)<br>- 00:30 Tel A
+ viv-HaHagana (Platform 5)<br>- 00:38 Holon-Wolfson (Platform 2)<br>- 00:42
+  Bat Yam-Yoseftal (Platform 2)<br>- 00:48 Rishon LeTsiyon-Moshe Dayan (Pla
+ tform 1)<br>- 00:57 Yavne-West (Platform 1)<br>- 01:07 Ashdod-Ad Halom (M.
+ Bar Kochva) (Platform 3)<br>- 01:17 Ashkelon (Platform 2)<br>- 01:29 Sdero
+ t (Platform 1)<br>- 01:37 Netivot (Platform 2)<br>- 01:46 Ofakim (Platform
+  2)<br>- 02:00 Be'er Sheva-North/University (Platform 3)<br>- 02:09 Be'er 
+ Sheva-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:44h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261011T002500
+DTEND;TZID=Asia/Jerusalem:20261011T002500
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 7619:\n- 00:25 Tel A
+ viv-HaShalom (Platform 3)\n- 00:30 Tel Aviv-HaHagana (Platform 5)\n- 00:38
+  Holon-Wolfson (Platform 2)\n- 00:42 Bat Yam-Yoseftal (Platform 2)\n- 00:4
+ 8 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:57 Yavne-West (Platform 1
+ )\n- 01:07 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 01:17 Ashkelon (
+ Platform 2)\n- 01:29 Sderot (Platform 1)\n- 01:37 Netivot (Platform 2)\n- 
+ 01:46 Ofakim (Platform 2)\n- 02:00 Be'er Sheva-North/University (Platform 
+ 3)\n- 02:09 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  7619:<br>- 00:25 Tel Aviv-HaShalom (Platform 3)<br>- 00:30 Tel Aviv-HaHag
+ ana (Platform 5)<br>- 00:38 Holon-Wolfson (Platform 2)<br>- 00:42 Bat Yam-
+ Yoseftal (Platform 2)<br>- 00:48 Rishon LeTsiyon-Moshe Dayan (Platform 1)<
+ br>- 00:57 Yavne-West (Platform 1)<br>- 01:07 Ashdod-Ad Halom (M.Bar Kochv
+ a) (Platform 3)<br>- 01:17 Ashkelon (Platform 2)<br>- 01:29 Sderot (Platfo
+ rm 1)<br>- 01:37 Netivot (Platform 2)<br>- 01:46 Ofakim (Platform 2)<br>- 
+ 02:00 Be'er Sheva-North/University (Platform 3)<br>- 02:09 Be'er Sheva-Cen
+ ter (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261011T234200
+DTEND;TZID=Asia/Jerusalem:20261011T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:40h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261012T054100
+DTEND;TZID=Asia/Jerusalem:20261012T054100
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 611:\n- 05:41 Tel Av
+ iv-HaShalom (Platform 3)\n- 05:45 Tel Aviv-HaHagana (Platform 5)\n- 05:50 
+ Holon-Wolfson (Platform 2)\n- 05:52 Bat Yam-Yoseftal (Platform 2)\n- 05:56
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 06:05 Yavne-West (Platform 1)
+ \n- 06:16 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 06:26 Ashkelon (P
+ latform 2)\n- 06:38 Sderot (Platform 1)\n- 06:47 Netivot (Platform 2)\n- 0
+ 6:56 Ofakim (Platform 2)\n- 07:12 Be'er Sheva-North/University (Platform 3
+ )\n- 07:21 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  611:<br>- 05:41 Tel Aviv-HaShalom (Platform 3)<br>- 05:45 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 05:50 Holon-Wolfson (Platform 2)<br>- 05:52 Bat Yam-Y
+ oseftal (Platform 2)<br>- 05:56 Rishon LeTsiyon-Moshe Dayan (Platform 1)<b
+ r>- 06:05 Yavne-West (Platform 1)<br>- 06:16 Ashdod-Ad Halom (M.Bar Kochva
+ ) (Platform 3)<br>- 06:26 Ashkelon (Platform 2)<br>- 06:38 Sderot (Platfor
+ m 1)<br>- 06:47 Netivot (Platform 2)<br>- 06:56 Ofakim (Platform 2)<br>- 0
+ 7:12 Be'er Sheva-North/University (Platform 3)<br>- 07:21 Be'er Sheva-Cent
+ er (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261012T234200
+DTEND;TZID=Asia/Jerusalem:20261012T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:40h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261013T054100
+DTEND;TZID=Asia/Jerusalem:20261013T054100
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 611:\n- 05:41 Tel Av
+ iv-HaShalom (Platform 3)\n- 05:45 Tel Aviv-HaHagana (Platform 5)\n- 05:50 
+ Holon-Wolfson (Platform 2)\n- 05:52 Bat Yam-Yoseftal (Platform 2)\n- 05:56
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 06:05 Yavne-West (Platform 1)
+ \n- 06:16 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 06:26 Ashkelon (P
+ latform 2)\n- 06:38 Sderot (Platform 1)\n- 06:47 Netivot (Platform 2)\n- 0
+ 6:56 Ofakim (Platform 2)\n- 07:12 Be'er Sheva-North/University (Platform 3
+ )\n- 07:21 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  611:<br>- 05:41 Tel Aviv-HaShalom (Platform 3)<br>- 05:45 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 05:50 Holon-Wolfson (Platform 2)<br>- 05:52 Bat Yam-Y
+ oseftal (Platform 2)<br>- 05:56 Rishon LeTsiyon-Moshe Dayan (Platform 1)<b
+ r>- 06:05 Yavne-West (Platform 1)<br>- 06:16 Ashdod-Ad Halom (M.Bar Kochva
+ ) (Platform 3)<br>- 06:26 Ashkelon (Platform 2)<br>- 06:38 Sderot (Platfor
+ m 1)<br>- 06:47 Netivot (Platform 2)<br>- 06:56 Ofakim (Platform 2)<br>- 0
+ 7:12 Be'er Sheva-North/University (Platform 3)<br>- 07:21 Be'er Sheva-Cent
+ er (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261013T234200
+DTEND;TZID=Asia/Jerusalem:20261013T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:40h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261014T054100
+DTEND;TZID=Asia/Jerusalem:20261014T054100
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 611:\n- 05:41 Tel Av
+ iv-HaShalom (Platform 3)\n- 05:45 Tel Aviv-HaHagana (Platform 5)\n- 05:50 
+ Holon-Wolfson (Platform 2)\n- 05:52 Bat Yam-Yoseftal (Platform 2)\n- 05:56
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 06:05 Yavne-West (Platform 1)
+ \n- 06:16 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 06:26 Ashkelon (P
+ latform 2)\n- 06:38 Sderot (Platform 1)\n- 06:47 Netivot (Platform 2)\n- 0
+ 6:56 Ofakim (Platform 2)\n- 07:12 Be'er Sheva-North/University (Platform 3
+ )\n- 07:21 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  611:<br>- 05:41 Tel Aviv-HaShalom (Platform 3)<br>- 05:45 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 05:50 Holon-Wolfson (Platform 2)<br>- 05:52 Bat Yam-Y
+ oseftal (Platform 2)<br>- 05:56 Rishon LeTsiyon-Moshe Dayan (Platform 1)<b
+ r>- 06:05 Yavne-West (Platform 1)<br>- 06:16 Ashdod-Ad Halom (M.Bar Kochva
+ ) (Platform 3)<br>- 06:26 Ashkelon (Platform 2)<br>- 06:38 Sderot (Platfor
+ m 1)<br>- 06:47 Netivot (Platform 2)<br>- 06:56 Ofakim (Platform 2)<br>- 0
+ 7:12 Be'er Sheva-North/University (Platform 3)<br>- 07:21 Be'er Sheva-Cent
+ er (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261014T234200
+DTEND;TZID=Asia/Jerusalem:20261014T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:40h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261015T054100
+DTEND;TZID=Asia/Jerusalem:20261015T054100
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 611:\n- 05:41 Tel Av
+ iv-HaShalom (Platform 3)\n- 05:45 Tel Aviv-HaHagana (Platform 5)\n- 05:50 
+ Holon-Wolfson (Platform 2)\n- 05:52 Bat Yam-Yoseftal (Platform 2)\n- 05:56
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 06:05 Yavne-West (Platform 1)
+ \n- 06:16 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 06:26 Ashkelon (P
+ latform 2)\n- 06:38 Sderot (Platform 1)\n- 06:47 Netivot (Platform 2)\n- 0
+ 6:56 Ofakim (Platform 2)\n- 07:12 Be'er Sheva-North/University (Platform 3
+ )\n- 07:21 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  611:<br>- 05:41 Tel Aviv-HaShalom (Platform 3)<br>- 05:45 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 05:50 Holon-Wolfson (Platform 2)<br>- 05:52 Bat Yam-Y
+ oseftal (Platform 2)<br>- 05:56 Rishon LeTsiyon-Moshe Dayan (Platform 1)<b
+ r>- 06:05 Yavne-West (Platform 1)<br>- 06:16 Ashdod-Ad Halom (M.Bar Kochva
+ ) (Platform 3)<br>- 06:26 Ashkelon (Platform 2)<br>- 06:38 Sderot (Platfor
+ m 1)<br>- 06:47 Netivot (Platform 2)<br>- 06:56 Ofakim (Platform 2)<br>- 0
+ 7:12 Be'er Sheva-North/University (Platform 3)<br>- 07:21 Be'er Sheva-Cent
+ er (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261015T234200
+DTEND;TZID=Asia/Jerusalem:20261015T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:42h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261016T052000
+DTEND;TZID=Asia/Jerusalem:20261016T052000
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 6019:\n- 05:20 Tel A
+ viv-HaShalom (Platform 2)\n- 05:26 Tel Aviv-HaHagana (Platform 3)\n- 05:40
+  Lod (Platform 3)\n- 05:47 Ramla (Platform 2)\n- 05:57 Mazkeret Batya (Pla
+ tform 2)\n- 06:08 Kiryat Malakhi – Yoav (Platform 2)\n- 06:22 Kiryat Gat
+  (Platform 3)\n- 06:43 Lehavim-Rahat (Platform 1)\n- 06:53 Be'er Sheva-Nor
+ th/University (Platform 3)\n- 07:02 Be'er Sheva-Center (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  6019:<br>- 05:20 Tel Aviv-HaShalom (Platform 2)<br>- 05:26 Tel Aviv-HaHag
+ ana (Platform 3)<br>- 05:40 Lod (Platform 3)<br>- 05:47 Ramla (Platform 2)
+ <br>- 05:57 Mazkeret Batya (Platform 2)<br>- 06:08 Kiryat Malakhi – Yoav
+  (Platform 2)<br>- 06:22 Kiryat Gat (Platform 3)<br>- 06:43 Lehavim-Rahat 
+ (Platform 1)<br>- 06:53 Be'er Sheva-North/University (Platform 3)<br>- 07:
+ 02 Be'er Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:35h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261016T142000
+DTEND;TZID=Asia/Jerusalem:20261016T142000
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 6037:\n- 14:20 Tel A
+ viv-HaShalom (Platform 2)\n- 14:26 Tel Aviv-HaHagana (Platform 3)\n- 14:40
+  Lod (Platform 1)\n- 14:46 Ramla (Platform 2)\n- 14:55 Mazkeret Batya (Pla
+ tform 2)\n- 15:04 Kiryat Malakhi – Yoav (Platform 2)\n- 15:16 Kiryat Gat
+  (Platform 3)\n- 15:35 Lehavim-Rahat (Platform 1)\n- 15:45 Be'er Sheva-Nor
+ th/University (Platform 3)\n- 15:55 Be'er Sheva-Center (Platform 5)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  6037:<br>- 14:20 Tel Aviv-HaShalom (Platform 2)<br>- 14:26 Tel Aviv-HaHag
+ ana (Platform 3)<br>- 14:40 Lod (Platform 1)<br>- 14:46 Ramla (Platform 2)
+ <br>- 14:55 Mazkeret Batya (Platform 2)<br>- 15:04 Kiryat Malakhi – Yoav
+  (Platform 2)<br>- 15:16 Kiryat Gat (Platform 3)<br>- 15:35 Lehavim-Rahat 
+ (Platform 1)<br>- 15:45 Be'er Sheva-North/University (Platform 3)<br>- 15:
+ 55 Be'er Sheva-Center (Platform 5)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:34h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261017T205200
+DTEND;TZID=Asia/Jerusalem:20261017T205200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 7019:\n- 20:52 Tel A
+ viv-HaShalom (Platform 2)\n- 20:57 Tel Aviv-HaHagana (Platform 3)\n- 21:11
+  Lod (Platform 1)\n- 21:17 Ramla (Platform 2)\n- 21:26 Mazkeret Batya (Pla
+ tform 2)\n- 21:35 Kiryat Malakhi – Yoav (Platform 2)\n- 21:47 Kiryat Gat
+  (Platform 3)\n- 22:07 Lehavim-Rahat (Platform 1)\n- 22:17 Be'er Sheva-Nor
+ th/University (Platform 3)\n- 22:26 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  7019:<br>- 20:52 Tel Aviv-HaShalom (Platform 2)<br>- 20:57 Tel Aviv-HaHag
+ ana (Platform 3)<br>- 21:11 Lod (Platform 1)<br>- 21:17 Ramla (Platform 2)
+ <br>- 21:26 Mazkeret Batya (Platform 2)<br>- 21:35 Kiryat Malakhi – Yoav
+  (Platform 2)<br>- 21:47 Kiryat Gat (Platform 3)<br>- 22:07 Lehavim-Rahat 
+ (Platform 1)<br>- 22:17 Be'er Sheva-North/University (Platform 3)<br>- 22:
+ 26 Be'er Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:15h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261017T235400
+DTEND;TZID=Asia/Jerusalem:20261017T235400
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 7616:\n- 23:54 Tel A
+ viv-HaShalom (Platform 3)\n- 23:57 Tel Aviv-Savidor Center (Platform 5)\n\
+ nTrain 7619:\n- 00:23 Tel Aviv-Savidor Center (Platform 6)\n- 00:25 Tel Av
+ iv-HaShalom (Platform 3)\n- 00:30 Tel Aviv-HaHagana (Platform 5)\n- 00:38 
+ Holon-Wolfson (Platform 2)\n- 00:42 Bat Yam-Yoseftal (Platform 2)\n- 00:48
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:57 Yavne-West (Platform 1)
+ \n- 01:07 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 01:17 Ashkelon (P
+ latform 2)\n- 01:29 Sderot (Platform 1)\n- 01:37 Netivot (Platform 2)\n- 0
+ 1:46 Ofakim (Platform 2)\n- 02:00 Be'er Sheva-North/University (Platform 3
+ )\n- 02:09 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  7616:<br>- 23:54 Tel Aviv-HaShalom (Platform 3)<br>- 23:57 Tel Aviv-Savid
+ or Center (Platform 5)<br><br>Train 7619:<br>- 00:23 Tel Aviv-Savidor Cent
+ er (Platform 6)<br>- 00:25 Tel Aviv-HaShalom (Platform 3)<br>- 00:30 Tel A
+ viv-HaHagana (Platform 5)<br>- 00:38 Holon-Wolfson (Platform 2)<br>- 00:42
+  Bat Yam-Yoseftal (Platform 2)<br>- 00:48 Rishon LeTsiyon-Moshe Dayan (Pla
+ tform 1)<br>- 00:57 Yavne-West (Platform 1)<br>- 01:07 Ashdod-Ad Halom (M.
+ Bar Kochva) (Platform 3)<br>- 01:17 Ashkelon (Platform 2)<br>- 01:29 Sdero
+ t (Platform 1)<br>- 01:37 Netivot (Platform 2)<br>- 01:46 Ofakim (Platform
+  2)<br>- 02:00 Be'er Sheva-North/University (Platform 3)<br>- 02:09 Be'er 
+ Sheva-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:44h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261018T002500
+DTEND;TZID=Asia/Jerusalem:20261018T002500
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 7619:\n- 00:25 Tel A
+ viv-HaShalom (Platform 3)\n- 00:30 Tel Aviv-HaHagana (Platform 5)\n- 00:38
+  Holon-Wolfson (Platform 2)\n- 00:42 Bat Yam-Yoseftal (Platform 2)\n- 00:4
+ 8 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:57 Yavne-West (Platform 1
+ )\n- 01:07 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 01:17 Ashkelon (
+ Platform 2)\n- 01:29 Sderot (Platform 1)\n- 01:37 Netivot (Platform 2)\n- 
+ 01:46 Ofakim (Platform 2)\n- 02:00 Be'er Sheva-North/University (Platform 
+ 3)\n- 02:09 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  7619:<br>- 00:25 Tel Aviv-HaShalom (Platform 3)<br>- 00:30 Tel Aviv-HaHag
+ ana (Platform 5)<br>- 00:38 Holon-Wolfson (Platform 2)<br>- 00:42 Bat Yam-
+ Yoseftal (Platform 2)<br>- 00:48 Rishon LeTsiyon-Moshe Dayan (Platform 1)<
+ br>- 00:57 Yavne-West (Platform 1)<br>- 01:07 Ashdod-Ad Halom (M.Bar Kochv
+ a) (Platform 3)<br>- 01:17 Ashkelon (Platform 2)<br>- 01:29 Sderot (Platfo
+ rm 1)<br>- 01:37 Netivot (Platform 2)<br>- 01:46 Ofakim (Platform 2)<br>- 
+ 02:00 Be'er Sheva-North/University (Platform 3)<br>- 02:09 Be'er Sheva-Cen
+ ter (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261018T234200
+DTEND;TZID=Asia/Jerusalem:20261018T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:40h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261019T054100
+DTEND;TZID=Asia/Jerusalem:20261019T054100
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 611:\n- 05:41 Tel Av
+ iv-HaShalom (Platform 3)\n- 05:45 Tel Aviv-HaHagana (Platform 5)\n- 05:50 
+ Holon-Wolfson (Platform 2)\n- 05:52 Bat Yam-Yoseftal (Platform 2)\n- 05:56
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 06:05 Yavne-West (Platform 1)
+ \n- 06:16 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 06:26 Ashkelon (P
+ latform 2)\n- 06:38 Sderot (Platform 1)\n- 06:47 Netivot (Platform 2)\n- 0
+ 6:56 Ofakim (Platform 2)\n- 07:12 Be'er Sheva-North/University (Platform 3
+ )\n- 07:21 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  611:<br>- 05:41 Tel Aviv-HaShalom (Platform 3)<br>- 05:45 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 05:50 Holon-Wolfson (Platform 2)<br>- 05:52 Bat Yam-Y
+ oseftal (Platform 2)<br>- 05:56 Rishon LeTsiyon-Moshe Dayan (Platform 1)<b
+ r>- 06:05 Yavne-West (Platform 1)<br>- 06:16 Ashdod-Ad Halom (M.Bar Kochva
+ ) (Platform 3)<br>- 06:26 Ashkelon (Platform 2)<br>- 06:38 Sderot (Platfor
+ m 1)<br>- 06:47 Netivot (Platform 2)<br>- 06:56 Ofakim (Platform 2)<br>- 0
+ 7:12 Be'er Sheva-North/University (Platform 3)<br>- 07:21 Be'er Sheva-Cent
+ er (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261019T234200
+DTEND;TZID=Asia/Jerusalem:20261019T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:40h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261020T054100
+DTEND;TZID=Asia/Jerusalem:20261020T054100
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 611:\n- 05:41 Tel Av
+ iv-HaShalom (Platform 3)\n- 05:45 Tel Aviv-HaHagana (Platform 5)\n- 05:50 
+ Holon-Wolfson (Platform 2)\n- 05:52 Bat Yam-Yoseftal (Platform 2)\n- 05:56
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 06:05 Yavne-West (Platform 1)
+ \n- 06:16 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 06:26 Ashkelon (P
+ latform 2)\n- 06:38 Sderot (Platform 1)\n- 06:47 Netivot (Platform 2)\n- 0
+ 6:56 Ofakim (Platform 2)\n- 07:12 Be'er Sheva-North/University (Platform 3
+ )\n- 07:21 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  611:<br>- 05:41 Tel Aviv-HaShalom (Platform 3)<br>- 05:45 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 05:50 Holon-Wolfson (Platform 2)<br>- 05:52 Bat Yam-Y
+ oseftal (Platform 2)<br>- 05:56 Rishon LeTsiyon-Moshe Dayan (Platform 1)<b
+ r>- 06:05 Yavne-West (Platform 1)<br>- 06:16 Ashdod-Ad Halom (M.Bar Kochva
+ ) (Platform 3)<br>- 06:26 Ashkelon (Platform 2)<br>- 06:38 Sderot (Platfor
+ m 1)<br>- 06:47 Netivot (Platform 2)<br>- 06:56 Ofakim (Platform 2)<br>- 0
+ 7:12 Be'er Sheva-North/University (Platform 3)<br>- 07:21 Be'er Sheva-Cent
+ er (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261020T234200
+DTEND;TZID=Asia/Jerusalem:20261020T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:40h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261021T054100
+DTEND;TZID=Asia/Jerusalem:20261021T054100
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 611:\n- 05:41 Tel Av
+ iv-HaShalom (Platform 3)\n- 05:45 Tel Aviv-HaHagana (Platform 5)\n- 05:50 
+ Holon-Wolfson (Platform 2)\n- 05:52 Bat Yam-Yoseftal (Platform 2)\n- 05:56
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 06:05 Yavne-West (Platform 1)
+ \n- 06:16 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 06:26 Ashkelon (P
+ latform 2)\n- 06:38 Sderot (Platform 1)\n- 06:47 Netivot (Platform 2)\n- 0
+ 6:56 Ofakim (Platform 2)\n- 07:12 Be'er Sheva-North/University (Platform 3
+ )\n- 07:21 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  611:<br>- 05:41 Tel Aviv-HaShalom (Platform 3)<br>- 05:45 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 05:50 Holon-Wolfson (Platform 2)<br>- 05:52 Bat Yam-Y
+ oseftal (Platform 2)<br>- 05:56 Rishon LeTsiyon-Moshe Dayan (Platform 1)<b
+ r>- 06:05 Yavne-West (Platform 1)<br>- 06:16 Ashdod-Ad Halom (M.Bar Kochva
+ ) (Platform 3)<br>- 06:26 Ashkelon (Platform 2)<br>- 06:38 Sderot (Platfor
+ m 1)<br>- 06:47 Netivot (Platform 2)<br>- 06:56 Ofakim (Platform 2)<br>- 0
+ 7:12 Be'er Sheva-North/University (Platform 3)<br>- 07:21 Be'er Sheva-Cent
+ er (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261021T234200
+DTEND;TZID=Asia/Jerusalem:20261021T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:40h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261022T054100
+DTEND;TZID=Asia/Jerusalem:20261022T054100
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 611:\n- 05:41 Tel Av
+ iv-HaShalom (Platform 3)\n- 05:45 Tel Aviv-HaHagana (Platform 5)\n- 05:50 
+ Holon-Wolfson (Platform 2)\n- 05:52 Bat Yam-Yoseftal (Platform 2)\n- 05:56
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 06:05 Yavne-West (Platform 1)
+ \n- 06:16 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 06:26 Ashkelon (P
+ latform 2)\n- 06:38 Sderot (Platform 1)\n- 06:47 Netivot (Platform 2)\n- 0
+ 6:56 Ofakim (Platform 2)\n- 07:12 Be'er Sheva-North/University (Platform 3
+ )\n- 07:21 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  611:<br>- 05:41 Tel Aviv-HaShalom (Platform 3)<br>- 05:45 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 05:50 Holon-Wolfson (Platform 2)<br>- 05:52 Bat Yam-Y
+ oseftal (Platform 2)<br>- 05:56 Rishon LeTsiyon-Moshe Dayan (Platform 1)<b
+ r>- 06:05 Yavne-West (Platform 1)<br>- 06:16 Ashdod-Ad Halom (M.Bar Kochva
+ ) (Platform 3)<br>- 06:26 Ashkelon (Platform 2)<br>- 06:38 Sderot (Platfor
+ m 1)<br>- 06:47 Netivot (Platform 2)<br>- 06:56 Ofakim (Platform 2)<br>- 0
+ 7:12 Be'er Sheva-North/University (Platform 3)<br>- 07:21 Be'er Sheva-Cent
+ er (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261022T234200
+DTEND;TZID=Asia/Jerusalem:20261022T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:42h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261023T052000
+DTEND;TZID=Asia/Jerusalem:20261023T052000
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 6019:\n- 05:20 Tel A
+ viv-HaShalom (Platform 2)\n- 05:26 Tel Aviv-HaHagana (Platform 3)\n- 05:40
+  Lod (Platform 3)\n- 05:47 Ramla (Platform 2)\n- 05:57 Mazkeret Batya (Pla
+ tform 2)\n- 06:08 Kiryat Malakhi – Yoav (Platform 2)\n- 06:22 Kiryat Gat
+  (Platform 3)\n- 06:43 Lehavim-Rahat (Platform 1)\n- 06:53 Be'er Sheva-Nor
+ th/University (Platform 3)\n- 07:02 Be'er Sheva-Center (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  6019:<br>- 05:20 Tel Aviv-HaShalom (Platform 2)<br>- 05:26 Tel Aviv-HaHag
+ ana (Platform 3)<br>- 05:40 Lod (Platform 3)<br>- 05:47 Ramla (Platform 2)
+ <br>- 05:57 Mazkeret Batya (Platform 2)<br>- 06:08 Kiryat Malakhi – Yoav
+  (Platform 2)<br>- 06:22 Kiryat Gat (Platform 3)<br>- 06:43 Lehavim-Rahat 
+ (Platform 1)<br>- 06:53 Be'er Sheva-North/University (Platform 3)<br>- 07:
+ 02 Be'er Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:35h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261023T142000
+DTEND;TZID=Asia/Jerusalem:20261023T142000
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 6037:\n- 14:20 Tel A
+ viv-HaShalom (Platform 2)\n- 14:26 Tel Aviv-HaHagana (Platform 3)\n- 14:40
+  Lod (Platform 1)\n- 14:46 Ramla (Platform 2)\n- 14:55 Mazkeret Batya (Pla
+ tform 2)\n- 15:04 Kiryat Malakhi – Yoav (Platform 2)\n- 15:16 Kiryat Gat
+  (Platform 3)\n- 15:35 Lehavim-Rahat (Platform 1)\n- 15:45 Be'er Sheva-Nor
+ th/University (Platform 3)\n- 15:55 Be'er Sheva-Center (Platform 5)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  6037:<br>- 14:20 Tel Aviv-HaShalom (Platform 2)<br>- 14:26 Tel Aviv-HaHag
+ ana (Platform 3)<br>- 14:40 Lod (Platform 1)<br>- 14:46 Ramla (Platform 2)
+ <br>- 14:55 Mazkeret Batya (Platform 2)<br>- 15:04 Kiryat Malakhi – Yoav
+  (Platform 2)<br>- 15:16 Kiryat Gat (Platform 3)<br>- 15:35 Lehavim-Rahat 
+ (Platform 1)<br>- 15:45 Be'er Sheva-North/University (Platform 3)<br>- 15:
+ 55 Be'er Sheva-Center (Platform 5)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:34h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261024T205200
+DTEND;TZID=Asia/Jerusalem:20261024T205200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 7019:\n- 20:52 Tel A
+ viv-HaShalom (Platform 2)\n- 20:57 Tel Aviv-HaHagana (Platform 3)\n- 21:11
+  Lod (Platform 1)\n- 21:17 Ramla (Platform 2)\n- 21:26 Mazkeret Batya (Pla
+ tform 2)\n- 21:35 Kiryat Malakhi – Yoav (Platform 2)\n- 21:47 Kiryat Gat
+  (Platform 3)\n- 22:07 Lehavim-Rahat (Platform 1)\n- 22:17 Be'er Sheva-Nor
+ th/University (Platform 3)\n- 22:26 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  7019:<br>- 20:52 Tel Aviv-HaShalom (Platform 2)<br>- 20:57 Tel Aviv-HaHag
+ ana (Platform 3)<br>- 21:11 Lod (Platform 1)<br>- 21:17 Ramla (Platform 2)
+ <br>- 21:26 Mazkeret Batya (Platform 2)<br>- 21:35 Kiryat Malakhi – Yoav
+  (Platform 2)<br>- 21:47 Kiryat Gat (Platform 3)<br>- 22:07 Lehavim-Rahat 
+ (Platform 1)<br>- 22:17 Be'er Sheva-North/University (Platform 3)<br>- 22:
+ 26 Be'er Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:15h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261024T235400
+DTEND;TZID=Asia/Jerusalem:20261024T235400
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 7616:\n- 23:54 Tel A
+ viv-HaShalom (Platform 3)\n- 23:57 Tel Aviv-Savidor Center (Platform 5)\n\
+ nTrain 7619:\n- 00:23 Tel Aviv-Savidor Center (Platform 6)\n- 00:25 Tel Av
+ iv-HaShalom (Platform 3)\n- 00:30 Tel Aviv-HaHagana (Platform 5)\n- 00:38 
+ Holon-Wolfson (Platform 2)\n- 00:42 Bat Yam-Yoseftal (Platform 2)\n- 00:48
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:57 Yavne-West (Platform 1)
+ \n- 01:07 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 01:17 Ashkelon (P
+ latform 2)\n- 01:29 Sderot (Platform 1)\n- 01:37 Netivot (Platform 2)\n- 0
+ 1:46 Ofakim (Platform 2)\n- 02:00 Be'er Sheva-North/University (Platform 3
+ )\n- 02:09 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  7616:<br>- 23:54 Tel Aviv-HaShalom (Platform 3)<br>- 23:57 Tel Aviv-Savid
+ or Center (Platform 5)<br><br>Train 7619:<br>- 00:23 Tel Aviv-Savidor Cent
+ er (Platform 6)<br>- 00:25 Tel Aviv-HaShalom (Platform 3)<br>- 00:30 Tel A
+ viv-HaHagana (Platform 5)<br>- 00:38 Holon-Wolfson (Platform 2)<br>- 00:42
+  Bat Yam-Yoseftal (Platform 2)<br>- 00:48 Rishon LeTsiyon-Moshe Dayan (Pla
+ tform 1)<br>- 00:57 Yavne-West (Platform 1)<br>- 01:07 Ashdod-Ad Halom (M.
+ Bar Kochva) (Platform 3)<br>- 01:17 Ashkelon (Platform 2)<br>- 01:29 Sdero
+ t (Platform 1)<br>- 01:37 Netivot (Platform 2)<br>- 01:46 Ofakim (Platform
+  2)<br>- 02:00 Be'er Sheva-North/University (Platform 3)<br>- 02:09 Be'er 
+ Sheva-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:44h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261025T002500
+DTEND;TZID=Asia/Jerusalem:20261025T002500
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 7619:\n- 00:25 Tel A
+ viv-HaShalom (Platform 3)\n- 00:30 Tel Aviv-HaHagana (Platform 5)\n- 00:38
+  Holon-Wolfson (Platform 2)\n- 00:42 Bat Yam-Yoseftal (Platform 2)\n- 00:4
+ 8 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:57 Yavne-West (Platform 1
+ )\n- 01:07 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 01:17 Ashkelon (
+ Platform 2)\n- 01:29 Sderot (Platform 1)\n- 01:37 Netivot (Platform 2)\n- 
+ 01:46 Ofakim (Platform 2)\n- 02:00 Be'er Sheva-North/University (Platform 
+ 3)\n- 02:09 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  7619:<br>- 00:25 Tel Aviv-HaShalom (Platform 3)<br>- 00:30 Tel Aviv-HaHag
+ ana (Platform 5)<br>- 00:38 Holon-Wolfson (Platform 2)<br>- 00:42 Bat Yam-
+ Yoseftal (Platform 2)<br>- 00:48 Rishon LeTsiyon-Moshe Dayan (Platform 1)<
+ br>- 00:57 Yavne-West (Platform 1)<br>- 01:07 Ashdod-Ad Halom (M.Bar Kochv
+ a) (Platform 3)<br>- 01:17 Ashkelon (Platform 2)<br>- 01:29 Sderot (Platfo
+ rm 1)<br>- 01:37 Netivot (Platform 2)<br>- 01:46 Ofakim (Platform 2)<br>- 
+ 02:00 Be'er Sheva-North/University (Platform 3)<br>- 02:09 Be'er Sheva-Cen
+ ter (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261025T234200
+DTEND;TZID=Asia/Jerusalem:20261025T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:40h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261026T054100
+DTEND;TZID=Asia/Jerusalem:20261026T054100
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 611:\n- 05:41 Tel Av
+ iv-HaShalom (Platform 3)\n- 05:45 Tel Aviv-HaHagana (Platform 5)\n- 05:50 
+ Holon-Wolfson (Platform 2)\n- 05:52 Bat Yam-Yoseftal (Platform 2)\n- 05:56
+  Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 06:05 Yavne-West (Platform 1)
+ \n- 06:16 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 06:26 Ashkelon (P
+ latform 2)\n- 06:38 Sderot (Platform 1)\n- 06:47 Netivot (Platform 2)\n- 0
+ 6:56 Ofakim (Platform 2)\n- 07:12 Be'er Sheva-North/University (Platform 3
+ )\n- 07:21 Be'er Sheva-Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  611:<br>- 05:41 Tel Aviv-HaShalom (Platform 3)<br>- 05:45 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 05:50 Holon-Wolfson (Platform 2)<br>- 05:52 Bat Yam-Y
+ oseftal (Platform 2)<br>- 05:56 Rishon LeTsiyon-Moshe Dayan (Platform 1)<b
+ r>- 06:05 Yavne-West (Platform 1)<br>- 06:16 Ashdod-Ad Halom (M.Bar Kochva
+ ) (Platform 3)<br>- 06:26 Ashkelon (Platform 2)<br>- 06:38 Sderot (Platfor
+ m 1)<br>- 06:47 Netivot (Platform 2)<br>- 06:56 Ofakim (Platform 2)<br>- 0
+ 7:12 Be'er Sheva-North/University (Platform 3)<br>- 07:21 Be'er Sheva-Cent
+ er (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:46h] to Be'er Sheva-Center (from Tel Aviv-HaShalom)
+DTSTART;TZID=Asia/Jerusalem:20261026T234200
+DTEND;TZID=Asia/Jerusalem:20261026T234200
+DESCRIPTION:Last update: 2026-09-26 18:14:49\n\nTrain 683:\n- 23:42 Tel Av
+ iv-HaShalom (Platform 3)\n- 23:48 Tel Aviv-HaHagana (Platform 5)\n- 23:54 
+ Holon Junction (Platform 2)\n- 23:58 Holon-Wolfson (Platform 2)\n- 00:02 B
+ at Yam-Yoseftal (Platform 2)\n- 00:05 Bat Yam-Komemiyut (Platform 2)\n- 00
+ :08 Rishon LeTsiyon-Moshe Dayan (Platform 1)\n- 00:16 Yavne-West (Platform
+  1)\n- 00:26 Ashdod-Ad Halom (M.Bar Kochva) (Platform 3)\n- 00:36 Ashkelon
+  (Platform 2)\n- 00:48 Sderot (Platform 1)\n- 00:56 Netivot (Platform 2)\n
+ - 01:05 Ofakim (Platform 2)\n- 01:19 Be'er Sheva-North/University (Platfor
+ m 3)\n- 01:28 Be'er Sheva-Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-09-26 18:14:49<br><br>Train
+  683:<br>- 23:42 Tel Aviv-HaShalom (Platform 3)<br>- 23:48 Tel Aviv-HaHaga
+ na (Platform 5)<br>- 23:54 Holon Junction (Platform 2)<br>- 23:58 Holon-Wo
+ lfson (Platform 2)<br>- 00:02 Bat Yam-Yoseftal (Platform 2)<br>- 00:05 Bat
+  Yam-Komemiyut (Platform 2)<br>- 00:08 Rishon LeTsiyon-Moshe Dayan (Platfo
+ rm 1)<br>- 00:16 Yavne-West (Platform 1)<br>- 00:26 Ashdod-Ad Halom (M.Bar
+  Kochva) (Platform 3)<br>- 00:36 Ashkelon (Platform 2)<br>- 00:48 Sderot (
+ Platform 1)<br>- 00:56 Netivot (Platform 2)<br>- 01:05 Ofakim (Platform 2)
+ <br>- 01:19 Be'er Sheva-North/University (Platform 3)<br>- 01:28 Be'er She
+ va-Center (Platform 2)<br><br>
+END:VEVENT
+END:VCALENDAR
