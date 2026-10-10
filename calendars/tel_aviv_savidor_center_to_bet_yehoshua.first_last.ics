@@ -1,0 +1,795 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Israel Railways Calendar Generator (First/Last)//
+X-WR-CALNAME:Tel Aviv-Savidor Center to Bet Yehoshu'a (First & Last Trains
+ )
+BEGIN:VEVENT
+SUMMARY:[0:18h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261010T204800
+DTEND;TZID=Asia/Jerusalem:20261010T204800
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7218:\n- 20:48 Tel A
+ viv-Savidor Center (Platform 2)\n- 20:51 Tel Aviv-University (Platform 1)\
+ n- 20:58 Hertsliya (Platform 6)\n- 21:06 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7218:<br>- 20:48 Tel Aviv-Savidor Center (Platform 2)<br>- 20:51 Tel Aviv
+ -University (Platform 1)<br>- 20:58 Hertsliya (Platform 6)<br>- 21:06 Bet 
+ Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:18h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261010T234800
+DTEND;TZID=Asia/Jerusalem:20261010T234800
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7224:\n- 23:48 Tel A
+ viv-Savidor Center (Platform 1)\n- 23:51 Tel Aviv-University (Platform 1)\
+ n- 23:58 Hertsliya (Platform 6)\n- 00:06 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7224:<br>- 23:48 Tel Aviv-Savidor Center (Platform 1)<br>- 23:51 Tel Aviv
+ -University (Platform 1)<br>- 23:58 Hertsliya (Platform 6)<br>- 00:06 Bet 
+ Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261011T053200
+DTEND;TZID=Asia/Jerusalem:20261011T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:23h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261011T234500
+DTEND;TZID=Asia/Jerusalem:20261011T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)\n- 23:55 Hertsliya (Platform 3
+ )\n\nTrain 8162:\n- 00:00 Hertsliya (Platform 6)\n- 00:08 Bet Yehoshu'a (P
+ latform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br>- 23:55 Hertsliya (Platform 3)<br><br>Train 8162:<br>- 00:00 Hertsliy
+ a (Platform 6)<br>- 00:08 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261012T053200
+DTEND;TZID=Asia/Jerusalem:20261012T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261012T230200
+DTEND;TZID=Asia/Jerusalem:20261012T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261013T053200
+DTEND;TZID=Asia/Jerusalem:20261013T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261013T230200
+DTEND;TZID=Asia/Jerusalem:20261013T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261014T053200
+DTEND;TZID=Asia/Jerusalem:20261014T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261014T230200
+DTEND;TZID=Asia/Jerusalem:20261014T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261015T053200
+DTEND;TZID=Asia/Jerusalem:20261015T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261015T230200
+DTEND;TZID=Asia/Jerusalem:20261015T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:18h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261016T051100
+DTEND;TZID=Asia/Jerusalem:20261016T051100
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 6220:\n- 05:11 Tel A
+ viv-Savidor Center (Platform 1)\n- 05:14 Tel Aviv-University (Platform 1)\
+ n- 05:21 Hertsliya (Platform 6)\n- 05:29 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  6220:<br>- 05:11 Tel Aviv-Savidor Center (Platform 1)<br>- 05:14 Tel Aviv
+ -University (Platform 1)<br>- 05:21 Hertsliya (Platform 6)<br>- 05:29 Bet 
+ Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:19h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261016T154100
+DTEND;TZID=Asia/Jerusalem:20261016T154100
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 6518:\n- 15:41 Tel A
+ viv-Savidor Center (Platform 2)\n- 15:44 Tel Aviv-University (Platform 1)\
+ n- 15:51 Hertsliya (Platform 6)\n- 16:00 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  6518:<br>- 15:41 Tel Aviv-Savidor Center (Platform 2)<br>- 15:44 Tel Aviv
+ -University (Platform 1)<br>- 15:51 Hertsliya (Platform 6)<br>- 16:00 Bet 
+ Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:18h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261017T204800
+DTEND;TZID=Asia/Jerusalem:20261017T204800
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7218:\n- 20:48 Tel A
+ viv-Savidor Center (Platform 2)\n- 20:51 Tel Aviv-University (Platform 1)\
+ n- 20:58 Hertsliya (Platform 6)\n- 21:06 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7218:<br>- 20:48 Tel Aviv-Savidor Center (Platform 2)<br>- 20:51 Tel Aviv
+ -University (Platform 1)<br>- 20:58 Hertsliya (Platform 6)<br>- 21:06 Bet 
+ Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:18h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261017T234800
+DTEND;TZID=Asia/Jerusalem:20261017T234800
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7224:\n- 23:48 Tel A
+ viv-Savidor Center (Platform 1)\n- 23:51 Tel Aviv-University (Platform 1)\
+ n- 23:58 Hertsliya (Platform 6)\n- 00:06 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7224:<br>- 23:48 Tel Aviv-Savidor Center (Platform 1)<br>- 23:51 Tel Aviv
+ -University (Platform 1)<br>- 23:58 Hertsliya (Platform 6)<br>- 00:06 Bet 
+ Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261018T053200
+DTEND;TZID=Asia/Jerusalem:20261018T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261018T230200
+DTEND;TZID=Asia/Jerusalem:20261018T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261019T053200
+DTEND;TZID=Asia/Jerusalem:20261019T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:23h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261019T234500
+DTEND;TZID=Asia/Jerusalem:20261019T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)\n- 23:55 Hertsliya (Platform 3
+ )\n\nTrain 8162:\n- 00:00 Hertsliya (Platform 6)\n- 00:08 Bet Yehoshu'a (P
+ latform 2)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br>- 23:55 Hertsliya (Platform 3)<br><br>Train 8162:<br>- 00:00 Hertsliy
+ a (Platform 6)<br>- 00:08 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261020T053200
+DTEND;TZID=Asia/Jerusalem:20261020T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261020T230200
+DTEND;TZID=Asia/Jerusalem:20261020T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261021T053200
+DTEND;TZID=Asia/Jerusalem:20261021T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261021T230200
+DTEND;TZID=Asia/Jerusalem:20261021T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261022T053200
+DTEND;TZID=Asia/Jerusalem:20261022T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261022T230200
+DTEND;TZID=Asia/Jerusalem:20261022T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:18h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261023T051100
+DTEND;TZID=Asia/Jerusalem:20261023T051100
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 6220:\n- 05:11 Tel A
+ viv-Savidor Center (Platform 1)\n- 05:14 Tel Aviv-University (Platform 1)\
+ n- 05:21 Hertsliya (Platform 6)\n- 05:29 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  6220:<br>- 05:11 Tel Aviv-Savidor Center (Platform 1)<br>- 05:14 Tel Aviv
+ -University (Platform 1)<br>- 05:21 Hertsliya (Platform 6)<br>- 05:29 Bet 
+ Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:19h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261023T154100
+DTEND;TZID=Asia/Jerusalem:20261023T154100
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 6518:\n- 15:41 Tel A
+ viv-Savidor Center (Platform 2)\n- 15:44 Tel Aviv-University (Platform 1)\
+ n- 15:51 Hertsliya (Platform 6)\n- 16:00 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  6518:<br>- 15:41 Tel Aviv-Savidor Center (Platform 2)<br>- 15:44 Tel Aviv
+ -University (Platform 1)<br>- 15:51 Hertsliya (Platform 6)<br>- 16:00 Bet 
+ Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:18h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261024T204800
+DTEND;TZID=Asia/Jerusalem:20261024T204800
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7218:\n- 20:48 Tel A
+ viv-Savidor Center (Platform 2)\n- 20:51 Tel Aviv-University (Platform 1)\
+ n- 20:58 Hertsliya (Platform 6)\n- 21:06 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7218:<br>- 20:48 Tel Aviv-Savidor Center (Platform 2)<br>- 20:51 Tel Aviv
+ -University (Platform 1)<br>- 20:58 Hertsliya (Platform 6)<br>- 21:06 Bet 
+ Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:18h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261024T234800
+DTEND;TZID=Asia/Jerusalem:20261024T234800
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7224:\n- 23:48 Tel A
+ viv-Savidor Center (Platform 1)\n- 23:51 Tel Aviv-University (Platform 1)\
+ n- 23:58 Hertsliya (Platform 6)\n- 00:06 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7224:<br>- 23:48 Tel Aviv-Savidor Center (Platform 1)<br>- 23:51 Tel Aviv
+ -University (Platform 1)<br>- 23:58 Hertsliya (Platform 6)<br>- 00:06 Bet 
+ Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261025T053200
+DTEND;TZID=Asia/Jerusalem:20261025T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261025T230200
+DTEND;TZID=Asia/Jerusalem:20261025T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261026T053200
+DTEND;TZID=Asia/Jerusalem:20261026T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261026T230200
+DTEND;TZID=Asia/Jerusalem:20261026T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261027T053200
+DTEND;TZID=Asia/Jerusalem:20261027T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261027T230200
+DTEND;TZID=Asia/Jerusalem:20261027T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261028T053200
+DTEND;TZID=Asia/Jerusalem:20261028T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261028T230200
+DTEND;TZID=Asia/Jerusalem:20261028T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261029T053200
+DTEND;TZID=Asia/Jerusalem:20261029T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261029T230200
+DTEND;TZID=Asia/Jerusalem:20261029T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:18h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261030T051100
+DTEND;TZID=Asia/Jerusalem:20261030T051100
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 6220:\n- 05:11 Tel A
+ viv-Savidor Center (Platform 1)\n- 05:14 Tel Aviv-University (Platform 1)\
+ n- 05:21 Hertsliya (Platform 6)\n- 05:29 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  6220:<br>- 05:11 Tel Aviv-Savidor Center (Platform 1)<br>- 05:14 Tel Aviv
+ -University (Platform 1)<br>- 05:21 Hertsliya (Platform 6)<br>- 05:29 Bet 
+ Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:19h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261030T154100
+DTEND;TZID=Asia/Jerusalem:20261030T154100
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 6518:\n- 15:41 Tel A
+ viv-Savidor Center (Platform 2)\n- 15:44 Tel Aviv-University (Platform 1)\
+ n- 15:51 Hertsliya (Platform 6)\n- 16:00 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  6518:<br>- 15:41 Tel Aviv-Savidor Center (Platform 2)<br>- 15:44 Tel Aviv
+ -University (Platform 1)<br>- 15:51 Hertsliya (Platform 6)<br>- 16:00 Bet 
+ Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:18h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261031T204800
+DTEND;TZID=Asia/Jerusalem:20261031T204800
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7218:\n- 20:48 Tel A
+ viv-Savidor Center (Platform 2)\n- 20:51 Tel Aviv-University (Platform 1)\
+ n- 20:58 Hertsliya (Platform 6)\n- 21:06 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7218:<br>- 20:48 Tel Aviv-Savidor Center (Platform 2)<br>- 20:51 Tel Aviv
+ -University (Platform 1)<br>- 20:58 Hertsliya (Platform 6)<br>- 21:06 Bet 
+ Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:18h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261031T234800
+DTEND;TZID=Asia/Jerusalem:20261031T234800
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7224:\n- 23:48 Tel A
+ viv-Savidor Center (Platform 1)\n- 23:51 Tel Aviv-University (Platform 1)\
+ n- 23:58 Hertsliya (Platform 6)\n- 00:06 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7224:<br>- 23:48 Tel Aviv-Savidor Center (Platform 1)<br>- 23:51 Tel Aviv
+ -University (Platform 1)<br>- 23:58 Hertsliya (Platform 6)<br>- 00:06 Bet 
+ Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261101T053200
+DTEND;TZID=Asia/Jerusalem:20261101T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261101T230200
+DTEND;TZID=Asia/Jerusalem:20261101T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261102T053200
+DTEND;TZID=Asia/Jerusalem:20261102T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261102T230200
+DTEND;TZID=Asia/Jerusalem:20261102T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261103T053200
+DTEND;TZID=Asia/Jerusalem:20261103T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261103T230200
+DTEND;TZID=Asia/Jerusalem:20261103T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261104T053200
+DTEND;TZID=Asia/Jerusalem:20261104T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261104T230200
+DTEND;TZID=Asia/Jerusalem:20261104T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261105T053200
+DTEND;TZID=Asia/Jerusalem:20261105T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261105T230200
+DTEND;TZID=Asia/Jerusalem:20261105T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:18h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261106T051100
+DTEND;TZID=Asia/Jerusalem:20261106T051100
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 6220:\n- 05:11 Tel A
+ viv-Savidor Center (Platform 1)\n- 05:14 Tel Aviv-University (Platform 1)\
+ n- 05:21 Hertsliya (Platform 6)\n- 05:29 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  6220:<br>- 05:11 Tel Aviv-Savidor Center (Platform 1)<br>- 05:14 Tel Aviv
+ -University (Platform 1)<br>- 05:21 Hertsliya (Platform 6)<br>- 05:29 Bet 
+ Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:19h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261106T154100
+DTEND;TZID=Asia/Jerusalem:20261106T154100
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 6518:\n- 15:41 Tel A
+ viv-Savidor Center (Platform 2)\n- 15:44 Tel Aviv-University (Platform 1)\
+ n- 15:51 Hertsliya (Platform 6)\n- 16:00 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  6518:<br>- 15:41 Tel Aviv-Savidor Center (Platform 2)<br>- 15:44 Tel Aviv
+ -University (Platform 1)<br>- 15:51 Hertsliya (Platform 6)<br>- 16:00 Bet 
+ Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:18h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261107T204800
+DTEND;TZID=Asia/Jerusalem:20261107T204800
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7218:\n- 20:48 Tel A
+ viv-Savidor Center (Platform 2)\n- 20:51 Tel Aviv-University (Platform 1)\
+ n- 20:58 Hertsliya (Platform 6)\n- 21:06 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7218:<br>- 20:48 Tel Aviv-Savidor Center (Platform 2)<br>- 20:51 Tel Aviv
+ -University (Platform 1)<br>- 20:58 Hertsliya (Platform 6)<br>- 21:06 Bet 
+ Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:18h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261107T234800
+DTEND;TZID=Asia/Jerusalem:20261107T234800
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7224:\n- 23:48 Tel A
+ viv-Savidor Center (Platform 1)\n- 23:51 Tel Aviv-University (Platform 1)\
+ n- 23:58 Hertsliya (Platform 6)\n- 00:06 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7224:<br>- 23:48 Tel Aviv-Savidor Center (Platform 1)<br>- 23:51 Tel Aviv
+ -University (Platform 1)<br>- 23:58 Hertsliya (Platform 6)<br>- 00:06 Bet 
+ Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261108T053200
+DTEND;TZID=Asia/Jerusalem:20261108T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261108T230200
+DTEND;TZID=Asia/Jerusalem:20261108T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261109T053200
+DTEND;TZID=Asia/Jerusalem:20261109T053200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 220:\n- 05:32 Tel Av
+ iv-Savidor Center (Platform 1)\n- 05:35 Tel Aviv-University (Platform 1)\n
+ - 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  220:<br>- 05:32 Tel Aviv-Savidor Center (Platform 1)<br>- 05:35 Tel Aviv-
+ University (Platform 1)<br>- 05:43 Hertsliya (Platform 6)<br>- 05:52 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:20h] to Bet Yehoshu'a (from Tel Aviv-Savidor Center
+ )
+DTSTART;TZID=Asia/Jerusalem:20261109T230200
+DTEND;TZID=Asia/Jerusalem:20261109T230200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 290:\n- 23:02 Tel Av
+ iv-Savidor Center (Platform 1)\n- 23:05 Tel Aviv-University (Platform 1)\n
+ - 23:13 Hertsliya (Platform 6)\n- 23:22 Bet Yehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  290:<br>- 23:02 Tel Aviv-Savidor Center (Platform 1)<br>- 23:05 Tel Aviv-
+ University (Platform 1)<br>- 23:13 Hertsliya (Platform 6)<br>- 23:22 Bet Y
+ ehoshu'a (Platform 2)<br><br>
+END:VEVENT
+END:VCALENDAR

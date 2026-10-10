@@ -1,0 +1,845 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Israel Railways Calendar Generator (First/Last)//
+X-WR-CALNAME:Tel Aviv-HaHagana to Tel Aviv-Savidor Center (First & Last Tr
+ ains)
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261010T204200
+DTEND;TZID=Asia/Jerusalem:20261010T204200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7610:\n- 20:42 Tel A
+ viv-HaHagana (Platform 1)\n- 20:46 Tel Aviv-HaShalom (Platform 3)\n- 20:50
+  Tel Aviv-Savidor Center (Platform 5)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7610:<br>- 20:42 Tel Aviv-HaHagana (Platform 1)<br>- 20:46 Tel Aviv-HaSha
+ lom (Platform 3)<br>- 20:50 Tel Aviv-Savidor Center (Platform 5)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261011T000000
+DTEND;TZID=Asia/Jerusalem:20261011T000000
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7158:\n- 00:00 Tel A
+ viv-HaHagana (Platform 1)\n- 00:05 Tel Aviv-HaShalom (Platform 1)\n- 00:10
+  Tel Aviv-Savidor Center (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7158:<br>- 00:00 Tel Aviv-HaHagana (Platform 1)<br>- 00:05 Tel Aviv-HaSha
+ lom (Platform 1)<br>- 00:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261011T000000
+DTEND;TZID=Asia/Jerusalem:20261011T000000
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7158:\n- 00:00 Tel A
+ viv-HaHagana (Platform 1)\n- 00:05 Tel Aviv-HaShalom (Platform 1)\n- 00:10
+  Tel Aviv-Savidor Center (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7158:<br>- 00:00 Tel Aviv-HaHagana (Platform 1)<br>- 00:05 Tel Aviv-HaSha
+ lom (Platform 1)<br>- 00:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261011T235200
+DTEND;TZID=Asia/Jerusalem:20261011T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261012T000200
+DTEND;TZID=Asia/Jerusalem:20261012T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261012T235200
+DTEND;TZID=Asia/Jerusalem:20261012T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261013T000200
+DTEND;TZID=Asia/Jerusalem:20261013T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261013T235200
+DTEND;TZID=Asia/Jerusalem:20261013T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261014T000200
+DTEND;TZID=Asia/Jerusalem:20261014T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261014T235200
+DTEND;TZID=Asia/Jerusalem:20261014T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261015T000200
+DTEND;TZID=Asia/Jerusalem:20261015T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261015T235200
+DTEND;TZID=Asia/Jerusalem:20261015T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261016T000200
+DTEND;TZID=Asia/Jerusalem:20261016T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261016T231800
+DTEND;TZID=Asia/Jerusalem:20261016T231800
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 186:\n- 23:18 Tel Aviv-HaHagana (Platform 1)\n- 2
+ 3:23 Tel Aviv-HaShalom (Platform 1)\n- 23:27 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 186:<br>- 23:18 Tel A
+ viv-HaHagana (Platform 1)<br>- 23:23 Tel Aviv-HaShalom (Platform 1)<br>- 2
+ 3:27 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261017T051400
+DTEND;TZID=Asia/Jerusalem:20261017T051400
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 6012:\n- 05:14 Tel A
+ viv-HaHagana (Platform 1)\n- 05:19 Tel Aviv-HaShalom (Platform 1)\n- 05:24
+  Tel Aviv-Savidor Center (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  6012:<br>- 05:14 Tel Aviv-HaHagana (Platform 1)<br>- 05:19 Tel Aviv-HaSha
+ lom (Platform 1)<br>- 05:24 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261018T000000
+DTEND;TZID=Asia/Jerusalem:20261018T000000
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7158:\n- 00:00 Tel A
+ viv-HaHagana (Platform 1)\n- 00:05 Tel Aviv-HaShalom (Platform 1)\n- 00:10
+  Tel Aviv-Savidor Center (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7158:<br>- 00:00 Tel Aviv-HaHagana (Platform 1)<br>- 00:05 Tel Aviv-HaSha
+ lom (Platform 1)<br>- 00:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261018T000000
+DTEND;TZID=Asia/Jerusalem:20261018T000000
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7158:\n- 00:00 Tel A
+ viv-HaHagana (Platform 1)\n- 00:05 Tel Aviv-HaShalom (Platform 1)\n- 00:10
+  Tel Aviv-Savidor Center (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7158:<br>- 00:00 Tel Aviv-HaHagana (Platform 1)<br>- 00:05 Tel Aviv-HaSha
+ lom (Platform 1)<br>- 00:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261019T000000
+DTEND;TZID=Asia/Jerusalem:20261019T000000
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7158:\n- 00:00 Tel A
+ viv-HaHagana (Platform 1)\n- 00:05 Tel Aviv-HaShalom (Platform 1)\n- 00:10
+  Tel Aviv-Savidor Center (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7158:<br>- 00:00 Tel Aviv-HaHagana (Platform 1)<br>- 00:05 Tel Aviv-HaSha
+ lom (Platform 1)<br>- 00:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261019T000000
+DTEND;TZID=Asia/Jerusalem:20261019T000000
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7158:\n- 00:00 Tel A
+ viv-HaHagana (Platform 1)\n- 00:05 Tel Aviv-HaShalom (Platform 1)\n- 00:10
+  Tel Aviv-Savidor Center (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7158:<br>- 00:00 Tel Aviv-HaHagana (Platform 1)<br>- 00:05 Tel Aviv-HaSha
+ lom (Platform 1)<br>- 00:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261019T235200
+DTEND;TZID=Asia/Jerusalem:20261019T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261020T000200
+DTEND;TZID=Asia/Jerusalem:20261020T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261020T235200
+DTEND;TZID=Asia/Jerusalem:20261020T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261021T000200
+DTEND;TZID=Asia/Jerusalem:20261021T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261021T235200
+DTEND;TZID=Asia/Jerusalem:20261021T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261022T000200
+DTEND;TZID=Asia/Jerusalem:20261022T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261022T235200
+DTEND;TZID=Asia/Jerusalem:20261022T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261023T000200
+DTEND;TZID=Asia/Jerusalem:20261023T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:07h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261023T155300
+DTEND;TZID=Asia/Jerusalem:20261023T155300
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 6756:\n- 15:53 Tel A
+ viv-HaHagana (Platform 1)\n- 15:57 Tel Aviv-HaShalom (Platform 1)\n- 16:00
+  Tel Aviv-Savidor Center (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  6756:<br>- 15:53 Tel Aviv-HaHagana (Platform 1)<br>- 15:57 Tel Aviv-HaSha
+ lom (Platform 1)<br>- 16:00 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261024T204200
+DTEND;TZID=Asia/Jerusalem:20261024T204200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7610:\n- 20:42 Tel A
+ viv-HaHagana (Platform 1)\n- 20:46 Tel Aviv-HaShalom (Platform 3)\n- 20:50
+  Tel Aviv-Savidor Center (Platform 5)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7610:<br>- 20:42 Tel Aviv-HaHagana (Platform 1)<br>- 20:46 Tel Aviv-HaSha
+ lom (Platform 3)<br>- 20:50 Tel Aviv-Savidor Center (Platform 5)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261025T000000
+DTEND;TZID=Asia/Jerusalem:20261025T000000
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7158:\n- 00:00 Tel A
+ viv-HaHagana (Platform 1)\n- 00:05 Tel Aviv-HaShalom (Platform 1)\n- 00:10
+  Tel Aviv-Savidor Center (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7158:<br>- 00:00 Tel Aviv-HaHagana (Platform 1)<br>- 00:05 Tel Aviv-HaSha
+ lom (Platform 1)<br>- 00:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261025T000000
+DTEND;TZID=Asia/Jerusalem:20261025T000000
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7158:\n- 00:00 Tel A
+ viv-HaHagana (Platform 1)\n- 00:05 Tel Aviv-HaShalom (Platform 1)\n- 00:10
+  Tel Aviv-Savidor Center (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7158:<br>- 00:00 Tel Aviv-HaHagana (Platform 1)<br>- 00:05 Tel Aviv-HaSha
+ lom (Platform 1)<br>- 00:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261025T235200
+DTEND;TZID=Asia/Jerusalem:20261025T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261026T000200
+DTEND;TZID=Asia/Jerusalem:20261026T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261026T235200
+DTEND;TZID=Asia/Jerusalem:20261026T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261027T000200
+DTEND;TZID=Asia/Jerusalem:20261027T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261027T235200
+DTEND;TZID=Asia/Jerusalem:20261027T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261028T000200
+DTEND;TZID=Asia/Jerusalem:20261028T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261028T235200
+DTEND;TZID=Asia/Jerusalem:20261028T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261029T000200
+DTEND;TZID=Asia/Jerusalem:20261029T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261029T235200
+DTEND;TZID=Asia/Jerusalem:20261029T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261030T000200
+DTEND;TZID=Asia/Jerusalem:20261030T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:07h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261030T155300
+DTEND;TZID=Asia/Jerusalem:20261030T155300
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 6756:\n- 15:53 Tel A
+ viv-HaHagana (Platform 1)\n- 15:57 Tel Aviv-HaShalom (Platform 1)\n- 16:00
+  Tel Aviv-Savidor Center (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  6756:<br>- 15:53 Tel Aviv-HaHagana (Platform 1)<br>- 15:57 Tel Aviv-HaSha
+ lom (Platform 1)<br>- 16:00 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261031T204200
+DTEND;TZID=Asia/Jerusalem:20261031T204200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7610:\n- 20:42 Tel A
+ viv-HaHagana (Platform 1)\n- 20:46 Tel Aviv-HaShalom (Platform 3)\n- 20:50
+  Tel Aviv-Savidor Center (Platform 5)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7610:<br>- 20:42 Tel Aviv-HaHagana (Platform 1)<br>- 20:46 Tel Aviv-HaSha
+ lom (Platform 3)<br>- 20:50 Tel Aviv-Savidor Center (Platform 5)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261101T000000
+DTEND;TZID=Asia/Jerusalem:20261101T000000
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7158:\n- 00:00 Tel A
+ viv-HaHagana (Platform 1)\n- 00:05 Tel Aviv-HaShalom (Platform 1)\n- 00:10
+  Tel Aviv-Savidor Center (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7158:<br>- 00:00 Tel Aviv-HaHagana (Platform 1)<br>- 00:05 Tel Aviv-HaSha
+ lom (Platform 1)<br>- 00:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261101T000000
+DTEND;TZID=Asia/Jerusalem:20261101T000000
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7158:\n- 00:00 Tel A
+ viv-HaHagana (Platform 1)\n- 00:05 Tel Aviv-HaShalom (Platform 1)\n- 00:10
+  Tel Aviv-Savidor Center (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7158:<br>- 00:00 Tel Aviv-HaHagana (Platform 1)<br>- 00:05 Tel Aviv-HaSha
+ lom (Platform 1)<br>- 00:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261101T235200
+DTEND;TZID=Asia/Jerusalem:20261101T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261102T000200
+DTEND;TZID=Asia/Jerusalem:20261102T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261102T235200
+DTEND;TZID=Asia/Jerusalem:20261102T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261103T000200
+DTEND;TZID=Asia/Jerusalem:20261103T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261103T235200
+DTEND;TZID=Asia/Jerusalem:20261103T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261104T000200
+DTEND;TZID=Asia/Jerusalem:20261104T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261104T235200
+DTEND;TZID=Asia/Jerusalem:20261104T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261105T000200
+DTEND;TZID=Asia/Jerusalem:20261105T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261105T235200
+DTEND;TZID=Asia/Jerusalem:20261105T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261106T000200
+DTEND;TZID=Asia/Jerusalem:20261106T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:07h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261106T155300
+DTEND;TZID=Asia/Jerusalem:20261106T155300
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 6756:\n- 15:53 Tel A
+ viv-HaHagana (Platform 1)\n- 15:57 Tel Aviv-HaShalom (Platform 1)\n- 16:00
+  Tel Aviv-Savidor Center (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  6756:<br>- 15:53 Tel Aviv-HaHagana (Platform 1)<br>- 15:57 Tel Aviv-HaSha
+ lom (Platform 1)<br>- 16:00 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261107T204200
+DTEND;TZID=Asia/Jerusalem:20261107T204200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7610:\n- 20:42 Tel A
+ viv-HaHagana (Platform 1)\n- 20:46 Tel Aviv-HaShalom (Platform 3)\n- 20:50
+  Tel Aviv-Savidor Center (Platform 5)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7610:<br>- 20:42 Tel Aviv-HaHagana (Platform 1)<br>- 20:46 Tel Aviv-HaSha
+ lom (Platform 3)<br>- 20:50 Tel Aviv-Savidor Center (Platform 5)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261108T000000
+DTEND;TZID=Asia/Jerusalem:20261108T000000
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7158:\n- 00:00 Tel A
+ viv-HaHagana (Platform 1)\n- 00:05 Tel Aviv-HaShalom (Platform 1)\n- 00:10
+  Tel Aviv-Savidor Center (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7158:<br>- 00:00 Tel Aviv-HaHagana (Platform 1)<br>- 00:05 Tel Aviv-HaSha
+ lom (Platform 1)<br>- 00:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261108T000000
+DTEND;TZID=Asia/Jerusalem:20261108T000000
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7158:\n- 00:00 Tel A
+ viv-HaHagana (Platform 1)\n- 00:05 Tel Aviv-HaShalom (Platform 1)\n- 00:10
+  Tel Aviv-Savidor Center (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7158:<br>- 00:00 Tel Aviv-HaHagana (Platform 1)<br>- 00:05 Tel Aviv-HaSha
+ lom (Platform 1)<br>- 00:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261108T235200
+DTEND;TZID=Asia/Jerusalem:20261108T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:08h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHagana)
+DTSTART;TZID=Asia/Jerusalem:20261109T000200
+DTEND;TZID=Asia/Jerusalem:20261109T000200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 784:\n- 00:02 Tel Aviv-HaHagana (Platform 1)\n- 0
+ 0:06 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor Center (Plat
+ form 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 784:<br>- 00:02 Tel A
+ viv-HaHagana (Platform 1)<br>- 00:06 Tel Aviv-HaShalom (Platform 1)<br>- 0
+ 0:10 Tel Aviv-Savidor Center (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:10h] to Tel Aviv-Savidor Center (from Tel Aviv-HaHa
+ gana)
+DTSTART;TZID=Asia/Jerusalem:20261109T235200
+DTEND;TZID=Asia/Jerusalem:20261109T235200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 294:\n- 23:52 Tel Av
+ iv-HaHagana (Platform 1)\n- 23:57 Tel Aviv-HaShalom (Platform 1)\n- 00:02 
+ Tel Aviv-Savidor Center (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  294:<br>- 23:52 Tel Aviv-HaHagana (Platform 1)<br>- 23:57 Tel Aviv-HaShal
+ om (Platform 1)<br>- 00:02 Tel Aviv-Savidor Center (Platform 3)<br><br>
+END:VEVENT
+END:VCALENDAR

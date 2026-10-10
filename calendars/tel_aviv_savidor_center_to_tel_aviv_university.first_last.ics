@@ -1,0 +1,795 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Israel Railways Calendar Generator (First/Last)//
+X-WR-CALNAME:Tel Aviv-Savidor Center to Tel Aviv-University (First & Last 
+ Trains)
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261010T204800
+DTEND;TZID=Asia/Jerusalem:20261010T204800
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7218:\n- 20:48 Tel A
+ viv-Savidor Center (Platform 2)\n- 20:51 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7218:<br>- 20:48 Tel Aviv-Savidor Center (Platform 2)<br>- 20:51 Tel Aviv
+ -University (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261010T235900
+DTEND;TZID=Asia/Jerusalem:20261010T235900
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7616:\n- 23:59 Tel A
+ viv-Savidor Center (Platform 5)\n- 00:02 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7616:<br>- 23:59 Tel Aviv-Savidor Center (Platform 5)<br>- 00:02 Tel Aviv
+ -University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261011T001200
+DTEND;TZID=Asia/Jerusalem:20261011T001200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7158:\n- 00:12 Tel A
+ viv-Savidor Center (Platform 1)\n- 00:15 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7158:<br>- 00:12 Tel Aviv-Savidor Center (Platform 1)<br>- 00:15 Tel Aviv
+ -University (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261011T234500
+DTEND;TZID=Asia/Jerusalem:20261011T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261012T000200
+DTEND;TZID=Asia/Jerusalem:20261012T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261012T234500
+DTEND;TZID=Asia/Jerusalem:20261012T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261013T000200
+DTEND;TZID=Asia/Jerusalem:20261013T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261013T234500
+DTEND;TZID=Asia/Jerusalem:20261013T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261014T000200
+DTEND;TZID=Asia/Jerusalem:20261014T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261014T234500
+DTEND;TZID=Asia/Jerusalem:20261014T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261015T000200
+DTEND;TZID=Asia/Jerusalem:20261015T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261015T234500
+DTEND;TZID=Asia/Jerusalem:20261015T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261016T000200
+DTEND;TZID=Asia/Jerusalem:20261016T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261016T232900
+DTEND;TZID=Asia/Jerusalem:20261016T232900
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:32 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 186:<br>- 23:29 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261017T052600
+DTEND;TZID=Asia/Jerusalem:20261017T052600
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 6012:\n- 05:26 Tel A
+ viv-Savidor Center (Platform 1)\n- 05:29 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  6012:<br>- 05:26 Tel Aviv-Savidor Center (Platform 1)<br>- 05:29 Tel Aviv
+ -University (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261017T235900
+DTEND;TZID=Asia/Jerusalem:20261017T235900
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7616:\n- 23:59 Tel A
+ viv-Savidor Center (Platform 5)\n- 00:02 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7616:<br>- 23:59 Tel Aviv-Savidor Center (Platform 5)<br>- 00:02 Tel Aviv
+ -University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261018T001200
+DTEND;TZID=Asia/Jerusalem:20261018T001200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7158:\n- 00:12 Tel A
+ viv-Savidor Center (Platform 1)\n- 00:15 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7158:<br>- 00:12 Tel Aviv-Savidor Center (Platform 1)<br>- 00:15 Tel Aviv
+ -University (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261018T234500
+DTEND;TZID=Asia/Jerusalem:20261018T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261019T000200
+DTEND;TZID=Asia/Jerusalem:20261019T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261019T234500
+DTEND;TZID=Asia/Jerusalem:20261019T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261020T000200
+DTEND;TZID=Asia/Jerusalem:20261020T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261020T234500
+DTEND;TZID=Asia/Jerusalem:20261020T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261021T000200
+DTEND;TZID=Asia/Jerusalem:20261021T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261021T234500
+DTEND;TZID=Asia/Jerusalem:20261021T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261022T000200
+DTEND;TZID=Asia/Jerusalem:20261022T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261022T234500
+DTEND;TZID=Asia/Jerusalem:20261022T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261023T000200
+DTEND;TZID=Asia/Jerusalem:20261023T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261023T160200
+DTEND;TZID=Asia/Jerusalem:20261023T160200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 6756:\n- 16:02 Tel A
+ viv-Savidor Center (Platform 1)\n- 16:05 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  6756:<br>- 16:02 Tel Aviv-Savidor Center (Platform 1)<br>- 16:05 Tel Aviv
+ -University (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261024T204800
+DTEND;TZID=Asia/Jerusalem:20261024T204800
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7218:\n- 20:48 Tel A
+ viv-Savidor Center (Platform 2)\n- 20:51 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7218:<br>- 20:48 Tel Aviv-Savidor Center (Platform 2)<br>- 20:51 Tel Aviv
+ -University (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261024T235900
+DTEND;TZID=Asia/Jerusalem:20261024T235900
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7616:\n- 23:59 Tel A
+ viv-Savidor Center (Platform 5)\n- 00:02 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7616:<br>- 23:59 Tel Aviv-Savidor Center (Platform 5)<br>- 00:02 Tel Aviv
+ -University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261025T001200
+DTEND;TZID=Asia/Jerusalem:20261025T001200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7158:\n- 00:12 Tel A
+ viv-Savidor Center (Platform 1)\n- 00:15 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7158:<br>- 00:12 Tel Aviv-Savidor Center (Platform 1)<br>- 00:15 Tel Aviv
+ -University (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261025T234500
+DTEND;TZID=Asia/Jerusalem:20261025T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261026T000200
+DTEND;TZID=Asia/Jerusalem:20261026T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261026T234500
+DTEND;TZID=Asia/Jerusalem:20261026T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261027T000200
+DTEND;TZID=Asia/Jerusalem:20261027T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261027T234500
+DTEND;TZID=Asia/Jerusalem:20261027T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261028T000200
+DTEND;TZID=Asia/Jerusalem:20261028T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261028T234500
+DTEND;TZID=Asia/Jerusalem:20261028T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261029T000200
+DTEND;TZID=Asia/Jerusalem:20261029T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261029T234500
+DTEND;TZID=Asia/Jerusalem:20261029T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261030T000200
+DTEND;TZID=Asia/Jerusalem:20261030T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261030T160200
+DTEND;TZID=Asia/Jerusalem:20261030T160200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 6756:\n- 16:02 Tel A
+ viv-Savidor Center (Platform 1)\n- 16:05 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  6756:<br>- 16:02 Tel Aviv-Savidor Center (Platform 1)<br>- 16:05 Tel Aviv
+ -University (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261031T204800
+DTEND;TZID=Asia/Jerusalem:20261031T204800
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7218:\n- 20:48 Tel A
+ viv-Savidor Center (Platform 2)\n- 20:51 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7218:<br>- 20:48 Tel Aviv-Savidor Center (Platform 2)<br>- 20:51 Tel Aviv
+ -University (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261031T235900
+DTEND;TZID=Asia/Jerusalem:20261031T235900
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7616:\n- 23:59 Tel A
+ viv-Savidor Center (Platform 5)\n- 00:02 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7616:<br>- 23:59 Tel Aviv-Savidor Center (Platform 5)<br>- 00:02 Tel Aviv
+ -University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261101T001200
+DTEND;TZID=Asia/Jerusalem:20261101T001200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7158:\n- 00:12 Tel A
+ viv-Savidor Center (Platform 1)\n- 00:15 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7158:<br>- 00:12 Tel Aviv-Savidor Center (Platform 1)<br>- 00:15 Tel Aviv
+ -University (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261101T234500
+DTEND;TZID=Asia/Jerusalem:20261101T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261102T000200
+DTEND;TZID=Asia/Jerusalem:20261102T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261102T234500
+DTEND;TZID=Asia/Jerusalem:20261102T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261103T000200
+DTEND;TZID=Asia/Jerusalem:20261103T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261103T234500
+DTEND;TZID=Asia/Jerusalem:20261103T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261104T000200
+DTEND;TZID=Asia/Jerusalem:20261104T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261104T234500
+DTEND;TZID=Asia/Jerusalem:20261104T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261105T000200
+DTEND;TZID=Asia/Jerusalem:20261105T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261105T234500
+DTEND;TZID=Asia/Jerusalem:20261105T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261106T000200
+DTEND;TZID=Asia/Jerusalem:20261106T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261106T160200
+DTEND;TZID=Asia/Jerusalem:20261106T160200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 6756:\n- 16:02 Tel A
+ viv-Savidor Center (Platform 1)\n- 16:05 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  6756:<br>- 16:02 Tel Aviv-Savidor Center (Platform 1)<br>- 16:05 Tel Aviv
+ -University (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261107T204800
+DTEND;TZID=Asia/Jerusalem:20261107T204800
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7218:\n- 20:48 Tel A
+ viv-Savidor Center (Platform 2)\n- 20:51 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7218:<br>- 20:48 Tel Aviv-Savidor Center (Platform 2)<br>- 20:51 Tel Aviv
+ -University (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261107T235900
+DTEND;TZID=Asia/Jerusalem:20261107T235900
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7616:\n- 23:59 Tel A
+ viv-Savidor Center (Platform 5)\n- 00:02 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7616:<br>- 23:59 Tel Aviv-Savidor Center (Platform 5)<br>- 00:02 Tel Aviv
+ -University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261108T001200
+DTEND;TZID=Asia/Jerusalem:20261108T001200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 7158:\n- 00:12 Tel A
+ viv-Savidor Center (Platform 1)\n- 00:15 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  7158:<br>- 00:12 Tel Aviv-Savidor Center (Platform 1)<br>- 00:15 Tel Aviv
+ -University (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261108T234500
+DTEND;TZID=Asia/Jerusalem:20261108T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:03h] to Tel Aviv-University (from Tel Aviv-Savidor Center)
+DTSTART;TZID=Asia/Jerusalem:20261109T000200
+DTEND;TZID=Asia/Jerusalem:20261109T000200
+DESCRIPTION:Last update: 2026-10-11 02:01:27\n\nTrain 686:\n- 00:02 Tel Av
+ iv-Savidor Center (Platform 5)\n- 00:05 Tel Aviv-University (Platform 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-11 02:01:27<br><br>Train
+  686:<br>- 00:02 Tel Aviv-Savidor Center (Platform 5)<br>- 00:05 Tel Aviv-
+ University (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:03h] to Tel Aviv-University (from Tel Aviv-Savidor 
+ Center)
+DTSTART;TZID=Asia/Jerusalem:20261109T234500
+DTEND;TZID=Asia/Jerusalem:20261109T234500
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-11 02:01:27\n\nTrain 782:\n- 23:45 Tel Aviv-Savidor Center (Platform 1
+ )\n- 23:48 Tel Aviv-University (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-11 02:01:27<br><br>Train 782:<br>- 23:45 Tel A
+ viv-Savidor Center (Platform 1)<br>- 23:48 Tel Aviv-University (Platform 1
+ )<br><br>
+END:VEVENT
+END:VCALENDAR
