@@ -1,0 +1,912 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Israel Railways Calendar Generator (First/Last)//
+X-WR-CALNAME:Tel Aviv-University to Haifa-Bat Galim (First & Last Trains)
+BEGIN:VEVENT
+SUMMARY:[0:53h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261031T201500
+DTEND;TZID=Asia/Jerusalem:20261031T201500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7150:\n- 20:15 Tel A
+ viv-University (Platform 1)\n- 20:40 Binyamina (Platform 2)\n- 20:53 Atlit
+  (Platform 2)\n- 21:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 21:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7150:<br>- 20:15 Tel Aviv-University (Platform 1)<br>- 20:40 Binyamina (P
+ latform 2)<br>- 20:53 Atlit (Platform 2)<br>- 21:01 Haifa-Hof HaKarmel (Ra
+ zi`el) (Platform 1)<br>- 21:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:53h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261031T231500
+DTEND;TZID=Asia/Jerusalem:20261031T231500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7156:\n- 23:15 Tel A
+ viv-University (Platform 1)\n- 23:40 Binyamina (Platform 2)\n- 23:53 Atlit
+  (Platform 2)\n- 00:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 00:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7156:<br>- 23:15 Tel Aviv-University (Platform 1)<br>- 23:40 Binyamina (P
+ latform 2)<br>- 23:53 Atlit (Platform 2)<br>- 00:01 Haifa-Hof HaKarmel (Ra
+ zi`el) (Platform 1)<br>- 00:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:53h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261101T001500
+DTEND;TZID=Asia/Jerusalem:20261101T001500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7158:\n- 00:15 Tel A
+ viv-University (Platform 1)\n- 00:40 Binyamina (Platform 2)\n- 00:53 Atlit
+  (Platform 2)\n- 01:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 01:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7158:<br>- 00:15 Tel Aviv-University (Platform 1)<br>- 00:40 Binyamina (P
+ latform 2)<br>- 00:53 Atlit (Platform 2)<br>- 01:01 Haifa-Hof HaKarmel (Ra
+ zi`el) (Platform 1)<br>- 01:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261101T233200
+DTEND;TZID=Asia/Jerusalem:20261101T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:55h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261102T060100
+DTEND;TZID=Asia/Jerusalem:20261102T060100
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 100:\n- 06:01 Tel Av
+ iv-University (Platform 1)\n- 06:31 Binyamina (Platform 2)\n- 06:49 Haifa-
+ Hof HaKarmel (Razi`el) (Platform 1)\n- 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  100:<br>- 06:01 Tel Aviv-University (Platform 1)<br>- 06:31 Binyamina (Pl
+ atform 2)<br>- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 
+ Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261102T233200
+DTEND;TZID=Asia/Jerusalem:20261102T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:55h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261103T060100
+DTEND;TZID=Asia/Jerusalem:20261103T060100
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 100:\n- 06:01 Tel Av
+ iv-University (Platform 1)\n- 06:31 Binyamina (Platform 2)\n- 06:49 Haifa-
+ Hof HaKarmel (Razi`el) (Platform 1)\n- 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  100:<br>- 06:01 Tel Aviv-University (Platform 1)<br>- 06:31 Binyamina (Pl
+ atform 2)<br>- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 
+ Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261103T233200
+DTEND;TZID=Asia/Jerusalem:20261103T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:55h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261104T060100
+DTEND;TZID=Asia/Jerusalem:20261104T060100
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 100:\n- 06:01 Tel Av
+ iv-University (Platform 1)\n- 06:31 Binyamina (Platform 2)\n- 06:49 Haifa-
+ Hof HaKarmel (Razi`el) (Platform 1)\n- 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  100:<br>- 06:01 Tel Aviv-University (Platform 1)<br>- 06:31 Binyamina (Pl
+ atform 2)<br>- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 
+ Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261104T233200
+DTEND;TZID=Asia/Jerusalem:20261104T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:55h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261105T060100
+DTEND;TZID=Asia/Jerusalem:20261105T060100
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 100:\n- 06:01 Tel Av
+ iv-University (Platform 1)\n- 06:31 Binyamina (Platform 2)\n- 06:49 Haifa-
+ Hof HaKarmel (Razi`el) (Platform 1)\n- 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  100:<br>- 06:01 Tel Aviv-University (Platform 1)<br>- 06:31 Binyamina (Pl
+ atform 2)<br>- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 
+ Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261105T233200
+DTEND;TZID=Asia/Jerusalem:20261105T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:10h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261106T052900
+DTEND;TZID=Asia/Jerusalem:20261106T052900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 6012:\n- 05:29 Tel A
+ viv-University (Platform 1)\n- 05:37 Hertsliya (Platform 6)\n- 06:04 Binya
+ mina (Platform 2)\n- 06:20 Atlit (Platform 2)\n- 06:30 Haifa-Hof HaKarmel 
+ (Razi`el) (Platform 1)\n- 06:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  6012:<br>- 05:29 Tel Aviv-University (Platform 1)<br>- 05:37 Hertsliya (P
+ latform 6)<br>- 06:04 Binyamina (Platform 2)<br>- 06:20 Atlit (Platform 2)
+ <br>- 06:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:39 Haifa-Bat
+  Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:07h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261106T133200
+DTEND;TZID=Asia/Jerusalem:20261106T133200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 6034:\n- 13:32 Tel A
+ viv-University (Platform 1)\n- 13:40 Hertsliya (Platform 6)\n- 14:04 Binya
+ mina (Platform 2)\n- 14:20 Atlit (Platform 2)\n- 14:30 Haifa-Hof HaKarmel 
+ (Razi`el) (Platform 1)\n- 14:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  6034:<br>- 13:32 Tel Aviv-University (Platform 1)<br>- 13:40 Hertsliya (P
+ latform 6)<br>- 14:04 Binyamina (Platform 2)<br>- 14:20 Atlit (Platform 2)
+ <br>- 14:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 14:39 Haifa-Bat
+  Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:53h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261107T201500
+DTEND;TZID=Asia/Jerusalem:20261107T201500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7150:\n- 20:15 Tel A
+ viv-University (Platform 1)\n- 20:40 Binyamina (Platform 2)\n- 20:53 Atlit
+  (Platform 2)\n- 21:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 21:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7150:<br>- 20:15 Tel Aviv-University (Platform 1)<br>- 20:40 Binyamina (P
+ latform 2)<br>- 20:53 Atlit (Platform 2)<br>- 21:01 Haifa-Hof HaKarmel (Ra
+ zi`el) (Platform 1)<br>- 21:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:53h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261107T231500
+DTEND;TZID=Asia/Jerusalem:20261107T231500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7156:\n- 23:15 Tel A
+ viv-University (Platform 1)\n- 23:40 Binyamina (Platform 2)\n- 23:53 Atlit
+  (Platform 2)\n- 00:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 00:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7156:<br>- 23:15 Tel Aviv-University (Platform 1)<br>- 23:40 Binyamina (P
+ latform 2)<br>- 23:53 Atlit (Platform 2)<br>- 00:01 Haifa-Hof HaKarmel (Ra
+ zi`el) (Platform 1)<br>- 00:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:53h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261108T001500
+DTEND;TZID=Asia/Jerusalem:20261108T001500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7158:\n- 00:15 Tel A
+ viv-University (Platform 1)\n- 00:40 Binyamina (Platform 2)\n- 00:53 Atlit
+  (Platform 2)\n- 01:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 01:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7158:<br>- 00:15 Tel Aviv-University (Platform 1)<br>- 00:40 Binyamina (P
+ latform 2)<br>- 00:53 Atlit (Platform 2)<br>- 01:01 Haifa-Hof HaKarmel (Ra
+ zi`el) (Platform 1)<br>- 01:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261108T233200
+DTEND;TZID=Asia/Jerusalem:20261108T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:55h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261109T060100
+DTEND;TZID=Asia/Jerusalem:20261109T060100
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 100:\n- 06:01 Tel Av
+ iv-University (Platform 1)\n- 06:31 Binyamina (Platform 2)\n- 06:49 Haifa-
+ Hof HaKarmel (Razi`el) (Platform 1)\n- 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  100:<br>- 06:01 Tel Aviv-University (Platform 1)<br>- 06:31 Binyamina (Pl
+ atform 2)<br>- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 
+ Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261109T233200
+DTEND;TZID=Asia/Jerusalem:20261109T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:55h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261110T060100
+DTEND;TZID=Asia/Jerusalem:20261110T060100
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 100:\n- 06:01 Tel Av
+ iv-University (Platform 1)\n- 06:31 Binyamina (Platform 2)\n- 06:49 Haifa-
+ Hof HaKarmel (Razi`el) (Platform 1)\n- 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  100:<br>- 06:01 Tel Aviv-University (Platform 1)<br>- 06:31 Binyamina (Pl
+ atform 2)<br>- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 
+ Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261110T233200
+DTEND;TZID=Asia/Jerusalem:20261110T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:55h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261111T060100
+DTEND;TZID=Asia/Jerusalem:20261111T060100
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 100:\n- 06:01 Tel Av
+ iv-University (Platform 1)\n- 06:31 Binyamina (Platform 2)\n- 06:49 Haifa-
+ Hof HaKarmel (Razi`el) (Platform 1)\n- 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  100:<br>- 06:01 Tel Aviv-University (Platform 1)<br>- 06:31 Binyamina (Pl
+ atform 2)<br>- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 
+ Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261111T233200
+DTEND;TZID=Asia/Jerusalem:20261111T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:55h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261112T060100
+DTEND;TZID=Asia/Jerusalem:20261112T060100
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 100:\n- 06:01 Tel Av
+ iv-University (Platform 1)\n- 06:31 Binyamina (Platform 2)\n- 06:49 Haifa-
+ Hof HaKarmel (Razi`el) (Platform 1)\n- 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  100:<br>- 06:01 Tel Aviv-University (Platform 1)<br>- 06:31 Binyamina (Pl
+ atform 2)<br>- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 
+ Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261112T233200
+DTEND;TZID=Asia/Jerusalem:20261112T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:10h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261113T052900
+DTEND;TZID=Asia/Jerusalem:20261113T052900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 6012:\n- 05:29 Tel A
+ viv-University (Platform 1)\n- 05:37 Hertsliya (Platform 6)\n- 06:04 Binya
+ mina (Platform 2)\n- 06:20 Atlit (Platform 2)\n- 06:30 Haifa-Hof HaKarmel 
+ (Razi`el) (Platform 1)\n- 06:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  6012:<br>- 05:29 Tel Aviv-University (Platform 1)<br>- 05:37 Hertsliya (P
+ latform 6)<br>- 06:04 Binyamina (Platform 2)<br>- 06:20 Atlit (Platform 2)
+ <br>- 06:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:39 Haifa-Bat
+  Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:07h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261113T133200
+DTEND;TZID=Asia/Jerusalem:20261113T133200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 6034:\n- 13:32 Tel A
+ viv-University (Platform 1)\n- 13:40 Hertsliya (Platform 6)\n- 14:04 Binya
+ mina (Platform 2)\n- 14:20 Atlit (Platform 2)\n- 14:30 Haifa-Hof HaKarmel 
+ (Razi`el) (Platform 1)\n- 14:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  6034:<br>- 13:32 Tel Aviv-University (Platform 1)<br>- 13:40 Hertsliya (P
+ latform 6)<br>- 14:04 Binyamina (Platform 2)<br>- 14:20 Atlit (Platform 2)
+ <br>- 14:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 14:39 Haifa-Bat
+  Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:53h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261114T201500
+DTEND;TZID=Asia/Jerusalem:20261114T201500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7150:\n- 20:15 Tel A
+ viv-University (Platform 1)\n- 20:40 Binyamina (Platform 2)\n- 20:53 Atlit
+  (Platform 2)\n- 21:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 21:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7150:<br>- 20:15 Tel Aviv-University (Platform 1)<br>- 20:40 Binyamina (P
+ latform 2)<br>- 20:53 Atlit (Platform 2)<br>- 21:01 Haifa-Hof HaKarmel (Ra
+ zi`el) (Platform 1)<br>- 21:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:53h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261114T231500
+DTEND;TZID=Asia/Jerusalem:20261114T231500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7156:\n- 23:15 Tel A
+ viv-University (Platform 1)\n- 23:40 Binyamina (Platform 2)\n- 23:53 Atlit
+  (Platform 2)\n- 00:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 00:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7156:<br>- 23:15 Tel Aviv-University (Platform 1)<br>- 23:40 Binyamina (P
+ latform 2)<br>- 23:53 Atlit (Platform 2)<br>- 00:01 Haifa-Hof HaKarmel (Ra
+ zi`el) (Platform 1)<br>- 00:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:53h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261115T001500
+DTEND;TZID=Asia/Jerusalem:20261115T001500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7158:\n- 00:15 Tel A
+ viv-University (Platform 1)\n- 00:40 Binyamina (Platform 2)\n- 00:53 Atlit
+  (Platform 2)\n- 01:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 01:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7158:<br>- 00:15 Tel Aviv-University (Platform 1)<br>- 00:40 Binyamina (P
+ latform 2)<br>- 00:53 Atlit (Platform 2)<br>- 01:01 Haifa-Hof HaKarmel (Ra
+ zi`el) (Platform 1)<br>- 01:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261115T233200
+DTEND;TZID=Asia/Jerusalem:20261115T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:55h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261116T060100
+DTEND;TZID=Asia/Jerusalem:20261116T060100
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 100:\n- 06:01 Tel Av
+ iv-University (Platform 1)\n- 06:31 Binyamina (Platform 2)\n- 06:49 Haifa-
+ Hof HaKarmel (Razi`el) (Platform 1)\n- 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  100:<br>- 06:01 Tel Aviv-University (Platform 1)<br>- 06:31 Binyamina (Pl
+ atform 2)<br>- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 
+ Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261116T233200
+DTEND;TZID=Asia/Jerusalem:20261116T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:55h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261117T060100
+DTEND;TZID=Asia/Jerusalem:20261117T060100
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 100:\n- 06:01 Tel Av
+ iv-University (Platform 1)\n- 06:31 Binyamina (Platform 2)\n- 06:49 Haifa-
+ Hof HaKarmel (Razi`el) (Platform 1)\n- 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  100:<br>- 06:01 Tel Aviv-University (Platform 1)<br>- 06:31 Binyamina (Pl
+ atform 2)<br>- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 
+ Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261117T233200
+DTEND;TZID=Asia/Jerusalem:20261117T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:55h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261118T060100
+DTEND;TZID=Asia/Jerusalem:20261118T060100
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 100:\n- 06:01 Tel Av
+ iv-University (Platform 1)\n- 06:31 Binyamina (Platform 2)\n- 06:49 Haifa-
+ Hof HaKarmel (Razi`el) (Platform 1)\n- 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  100:<br>- 06:01 Tel Aviv-University (Platform 1)<br>- 06:31 Binyamina (Pl
+ atform 2)<br>- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 
+ Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261118T233200
+DTEND;TZID=Asia/Jerusalem:20261118T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:55h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261119T060100
+DTEND;TZID=Asia/Jerusalem:20261119T060100
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 100:\n- 06:01 Tel Av
+ iv-University (Platform 1)\n- 06:31 Binyamina (Platform 2)\n- 06:49 Haifa-
+ Hof HaKarmel (Razi`el) (Platform 1)\n- 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  100:<br>- 06:01 Tel Aviv-University (Platform 1)<br>- 06:31 Binyamina (Pl
+ atform 2)<br>- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 
+ Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261119T233200
+DTEND;TZID=Asia/Jerusalem:20261119T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:10h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261120T052900
+DTEND;TZID=Asia/Jerusalem:20261120T052900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 6012:\n- 05:29 Tel A
+ viv-University (Platform 1)\n- 05:37 Hertsliya (Platform 6)\n- 06:04 Binya
+ mina (Platform 2)\n- 06:20 Atlit (Platform 2)\n- 06:30 Haifa-Hof HaKarmel 
+ (Razi`el) (Platform 1)\n- 06:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  6012:<br>- 05:29 Tel Aviv-University (Platform 1)<br>- 05:37 Hertsliya (P
+ latform 6)<br>- 06:04 Binyamina (Platform 2)<br>- 06:20 Atlit (Platform 2)
+ <br>- 06:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:39 Haifa-Bat
+  Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:07h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261120T133200
+DTEND;TZID=Asia/Jerusalem:20261120T133200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 6034:\n- 13:32 Tel A
+ viv-University (Platform 1)\n- 13:40 Hertsliya (Platform 6)\n- 14:04 Binya
+ mina (Platform 2)\n- 14:20 Atlit (Platform 2)\n- 14:30 Haifa-Hof HaKarmel 
+ (Razi`el) (Platform 1)\n- 14:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  6034:<br>- 13:32 Tel Aviv-University (Platform 1)<br>- 13:40 Hertsliya (P
+ latform 6)<br>- 14:04 Binyamina (Platform 2)<br>- 14:20 Atlit (Platform 2)
+ <br>- 14:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 14:39 Haifa-Bat
+  Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:53h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261121T201500
+DTEND;TZID=Asia/Jerusalem:20261121T201500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7150:\n- 20:15 Tel A
+ viv-University (Platform 1)\n- 20:40 Binyamina (Platform 2)\n- 20:53 Atlit
+  (Platform 2)\n- 21:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 21:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7150:<br>- 20:15 Tel Aviv-University (Platform 1)<br>- 20:40 Binyamina (P
+ latform 2)<br>- 20:53 Atlit (Platform 2)<br>- 21:01 Haifa-Hof HaKarmel (Ra
+ zi`el) (Platform 1)<br>- 21:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:53h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261121T231500
+DTEND;TZID=Asia/Jerusalem:20261121T231500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7156:\n- 23:15 Tel A
+ viv-University (Platform 1)\n- 23:40 Binyamina (Platform 2)\n- 23:53 Atlit
+  (Platform 2)\n- 00:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 00:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7156:<br>- 23:15 Tel Aviv-University (Platform 1)<br>- 23:40 Binyamina (P
+ latform 2)<br>- 23:53 Atlit (Platform 2)<br>- 00:01 Haifa-Hof HaKarmel (Ra
+ zi`el) (Platform 1)<br>- 00:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:53h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261122T001500
+DTEND;TZID=Asia/Jerusalem:20261122T001500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7158:\n- 00:15 Tel A
+ viv-University (Platform 1)\n- 00:40 Binyamina (Platform 2)\n- 00:53 Atlit
+  (Platform 2)\n- 01:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 01:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7158:<br>- 00:15 Tel Aviv-University (Platform 1)<br>- 00:40 Binyamina (P
+ latform 2)<br>- 00:53 Atlit (Platform 2)<br>- 01:01 Haifa-Hof HaKarmel (Ra
+ zi`el) (Platform 1)<br>- 01:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261122T233200
+DTEND;TZID=Asia/Jerusalem:20261122T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:55h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261123T060100
+DTEND;TZID=Asia/Jerusalem:20261123T060100
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 100:\n- 06:01 Tel Av
+ iv-University (Platform 1)\n- 06:31 Binyamina (Platform 2)\n- 06:49 Haifa-
+ Hof HaKarmel (Razi`el) (Platform 1)\n- 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  100:<br>- 06:01 Tel Aviv-University (Platform 1)<br>- 06:31 Binyamina (Pl
+ atform 2)<br>- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 
+ Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261123T233200
+DTEND;TZID=Asia/Jerusalem:20261123T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:55h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261124T060100
+DTEND;TZID=Asia/Jerusalem:20261124T060100
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 100:\n- 06:01 Tel Av
+ iv-University (Platform 1)\n- 06:31 Binyamina (Platform 2)\n- 06:49 Haifa-
+ Hof HaKarmel (Razi`el) (Platform 1)\n- 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  100:<br>- 06:01 Tel Aviv-University (Platform 1)<br>- 06:31 Binyamina (Pl
+ atform 2)<br>- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 
+ Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261124T233200
+DTEND;TZID=Asia/Jerusalem:20261124T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:55h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261125T060100
+DTEND;TZID=Asia/Jerusalem:20261125T060100
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 100:\n- 06:01 Tel Av
+ iv-University (Platform 1)\n- 06:31 Binyamina (Platform 2)\n- 06:49 Haifa-
+ Hof HaKarmel (Razi`el) (Platform 1)\n- 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  100:<br>- 06:01 Tel Aviv-University (Platform 1)<br>- 06:31 Binyamina (Pl
+ atform 2)<br>- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 
+ Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261125T233200
+DTEND;TZID=Asia/Jerusalem:20261125T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:55h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261126T060100
+DTEND;TZID=Asia/Jerusalem:20261126T060100
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 100:\n- 06:01 Tel Av
+ iv-University (Platform 1)\n- 06:31 Binyamina (Platform 2)\n- 06:49 Haifa-
+ Hof HaKarmel (Razi`el) (Platform 1)\n- 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  100:<br>- 06:01 Tel Aviv-University (Platform 1)<br>- 06:31 Binyamina (Pl
+ atform 2)<br>- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 
+ Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261126T233200
+DTEND;TZID=Asia/Jerusalem:20261126T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:10h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261127T052900
+DTEND;TZID=Asia/Jerusalem:20261127T052900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 6012:\n- 05:29 Tel A
+ viv-University (Platform 1)\n- 05:37 Hertsliya (Platform 6)\n- 06:04 Binya
+ mina (Platform 2)\n- 06:20 Atlit (Platform 2)\n- 06:30 Haifa-Hof HaKarmel 
+ (Razi`el) (Platform 1)\n- 06:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  6012:<br>- 05:29 Tel Aviv-University (Platform 1)<br>- 05:37 Hertsliya (P
+ latform 6)<br>- 06:04 Binyamina (Platform 2)<br>- 06:20 Atlit (Platform 2)
+ <br>- 06:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:39 Haifa-Bat
+  Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:07h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261127T133200
+DTEND;TZID=Asia/Jerusalem:20261127T133200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 6034:\n- 13:32 Tel A
+ viv-University (Platform 1)\n- 13:40 Hertsliya (Platform 6)\n- 14:04 Binya
+ mina (Platform 2)\n- 14:20 Atlit (Platform 2)\n- 14:30 Haifa-Hof HaKarmel 
+ (Razi`el) (Platform 1)\n- 14:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  6034:<br>- 13:32 Tel Aviv-University (Platform 1)<br>- 13:40 Hertsliya (P
+ latform 6)<br>- 14:04 Binyamina (Platform 2)<br>- 14:20 Atlit (Platform 2)
+ <br>- 14:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 14:39 Haifa-Bat
+  Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:53h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261128T201500
+DTEND;TZID=Asia/Jerusalem:20261128T201500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7150:\n- 20:15 Tel A
+ viv-University (Platform 1)\n- 20:40 Binyamina (Platform 2)\n- 20:53 Atlit
+  (Platform 2)\n- 21:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 21:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7150:<br>- 20:15 Tel Aviv-University (Platform 1)<br>- 20:40 Binyamina (P
+ latform 2)<br>- 20:53 Atlit (Platform 2)<br>- 21:01 Haifa-Hof HaKarmel (Ra
+ zi`el) (Platform 1)<br>- 21:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:53h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261128T231500
+DTEND;TZID=Asia/Jerusalem:20261128T231500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7156:\n- 23:15 Tel A
+ viv-University (Platform 1)\n- 23:40 Binyamina (Platform 2)\n- 23:53 Atlit
+  (Platform 2)\n- 00:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 00:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7156:<br>- 23:15 Tel Aviv-University (Platform 1)<br>- 23:40 Binyamina (P
+ latform 2)<br>- 23:53 Atlit (Platform 2)<br>- 00:01 Haifa-Hof HaKarmel (Ra
+ zi`el) (Platform 1)<br>- 00:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:53h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261129T001500
+DTEND;TZID=Asia/Jerusalem:20261129T001500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7158:\n- 00:15 Tel A
+ viv-University (Platform 1)\n- 00:40 Binyamina (Platform 2)\n- 00:53 Atlit
+  (Platform 2)\n- 01:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 01:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7158:<br>- 00:15 Tel Aviv-University (Platform 1)<br>- 00:40 Binyamina (P
+ latform 2)<br>- 00:53 Atlit (Platform 2)<br>- 01:01 Haifa-Hof HaKarmel (Ra
+ zi`el) (Platform 1)<br>- 01:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261129T233200
+DTEND;TZID=Asia/Jerusalem:20261129T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:55h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261130T060100
+DTEND;TZID=Asia/Jerusalem:20261130T060100
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 100:\n- 06:01 Tel Av
+ iv-University (Platform 1)\n- 06:31 Binyamina (Platform 2)\n- 06:49 Haifa-
+ Hof HaKarmel (Razi`el) (Platform 1)\n- 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  100:<br>- 06:01 Tel Aviv-University (Platform 1)<br>- 06:31 Binyamina (Pl
+ atform 2)<br>- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 
+ Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:57h] to Haifa-Bat Galim (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261130T233200
+DTEND;TZID=Asia/Jerusalem:20261130T233200
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -10-31 18:26:01\n\nTrain 186:\n- 23:32 Tel Aviv-University (Platform 1)\n-
+  23:59 Binyamina (Platform 2)\n- 00:13 Atlit (Platform 2)\n- 00:22 Haifa-H
+ of HaKarmel (Razi`el) (Platform 1)\n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-10-31 18:26:01<br><br>Train 186:<br>- 23:32 Tel A
+ viv-University (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 A
+ tlit (Platform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>
+ - 00:29 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+END:VCALENDAR

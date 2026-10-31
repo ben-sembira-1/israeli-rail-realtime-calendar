@@ -1,0 +1,657 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Israel Railways Calendar Generator (First/Last)//
+X-WR-CALNAME:Tel Aviv-University to Tel Aviv-Savidor Center (First & Last 
+ Trains)
+BEGIN:VEVENT
+SUMMARY:[0:04h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261031T193500
+DTEND;TZID=Asia/Jerusalem:20261031T193500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7715:\n- 19:35 Tel A
+ viv-University (Platform 2)\n- 19:39 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7715:<br>- 19:35 Tel Aviv-University (Platform 2)<br>- 19:39 Tel Aviv-Sav
+ idor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261031T235700
+DTEND;TZID=Asia/Jerusalem:20261031T235700
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7509:\n- 23:57 Tel A
+ viv-University (Platform 2)\n- 00:02 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7509:<br>- 23:57 Tel Aviv-University (Platform 2)<br>- 00:02 Tel Aviv-Sav
+ idor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261101T000300
+DTEND;TZID=Asia/Jerusalem:20261101T000300
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7157:\n- 00:03 Tel A
+ viv-University (Platform 2)\n- 00:08 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7157:<br>- 00:03 Tel Aviv-University (Platform 2)<br>- 00:08 Tel Aviv-Sav
+ idor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261101T234900
+DTEND;TZID=Asia/Jerusalem:20261101T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261102T003200
+DTEND;TZID=Asia/Jerusalem:20261102T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261102T234900
+DTEND;TZID=Asia/Jerusalem:20261102T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261103T003200
+DTEND;TZID=Asia/Jerusalem:20261103T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261103T234900
+DTEND;TZID=Asia/Jerusalem:20261103T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261104T003200
+DTEND;TZID=Asia/Jerusalem:20261104T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261104T234900
+DTEND;TZID=Asia/Jerusalem:20261104T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261105T003200
+DTEND;TZID=Asia/Jerusalem:20261105T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261105T234900
+DTEND;TZID=Asia/Jerusalem:20261105T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261106T003200
+DTEND;TZID=Asia/Jerusalem:20261106T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:04h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261106T145500
+DTEND;TZID=Asia/Jerusalem:20261106T145500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 6239:\n- 14:55 Tel A
+ viv-University (Platform 2)\n- 14:59 Tel Aviv-Savidor Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  6239:<br>- 14:55 Tel Aviv-University (Platform 2)<br>- 14:59 Tel Aviv-Sav
+ idor Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:04h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261107T193500
+DTEND;TZID=Asia/Jerusalem:20261107T193500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7715:\n- 19:35 Tel A
+ viv-University (Platform 2)\n- 19:39 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7715:<br>- 19:35 Tel Aviv-University (Platform 2)<br>- 19:39 Tel Aviv-Sav
+ idor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261107T235700
+DTEND;TZID=Asia/Jerusalem:20261107T235700
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7509:\n- 23:57 Tel A
+ viv-University (Platform 2)\n- 00:02 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7509:<br>- 23:57 Tel Aviv-University (Platform 2)<br>- 00:02 Tel Aviv-Sav
+ idor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261108T000300
+DTEND;TZID=Asia/Jerusalem:20261108T000300
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7157:\n- 00:03 Tel A
+ viv-University (Platform 2)\n- 00:08 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7157:<br>- 00:03 Tel Aviv-University (Platform 2)<br>- 00:08 Tel Aviv-Sav
+ idor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261108T234900
+DTEND;TZID=Asia/Jerusalem:20261108T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261109T003200
+DTEND;TZID=Asia/Jerusalem:20261109T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261109T234900
+DTEND;TZID=Asia/Jerusalem:20261109T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261110T003200
+DTEND;TZID=Asia/Jerusalem:20261110T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261110T234900
+DTEND;TZID=Asia/Jerusalem:20261110T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261111T003200
+DTEND;TZID=Asia/Jerusalem:20261111T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261111T234900
+DTEND;TZID=Asia/Jerusalem:20261111T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261112T003200
+DTEND;TZID=Asia/Jerusalem:20261112T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261112T234900
+DTEND;TZID=Asia/Jerusalem:20261112T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261113T003200
+DTEND;TZID=Asia/Jerusalem:20261113T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:04h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261113T145500
+DTEND;TZID=Asia/Jerusalem:20261113T145500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 6239:\n- 14:55 Tel A
+ viv-University (Platform 2)\n- 14:59 Tel Aviv-Savidor Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  6239:<br>- 14:55 Tel Aviv-University (Platform 2)<br>- 14:59 Tel Aviv-Sav
+ idor Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:04h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261114T193500
+DTEND;TZID=Asia/Jerusalem:20261114T193500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7715:\n- 19:35 Tel A
+ viv-University (Platform 2)\n- 19:39 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7715:<br>- 19:35 Tel Aviv-University (Platform 2)<br>- 19:39 Tel Aviv-Sav
+ idor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261114T235700
+DTEND;TZID=Asia/Jerusalem:20261114T235700
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7509:\n- 23:57 Tel A
+ viv-University (Platform 2)\n- 00:02 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7509:<br>- 23:57 Tel Aviv-University (Platform 2)<br>- 00:02 Tel Aviv-Sav
+ idor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261115T000300
+DTEND;TZID=Asia/Jerusalem:20261115T000300
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7157:\n- 00:03 Tel A
+ viv-University (Platform 2)\n- 00:08 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7157:<br>- 00:03 Tel Aviv-University (Platform 2)<br>- 00:08 Tel Aviv-Sav
+ idor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261115T234900
+DTEND;TZID=Asia/Jerusalem:20261115T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261116T003200
+DTEND;TZID=Asia/Jerusalem:20261116T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261116T234900
+DTEND;TZID=Asia/Jerusalem:20261116T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261117T003200
+DTEND;TZID=Asia/Jerusalem:20261117T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261117T234900
+DTEND;TZID=Asia/Jerusalem:20261117T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261118T003200
+DTEND;TZID=Asia/Jerusalem:20261118T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261118T234900
+DTEND;TZID=Asia/Jerusalem:20261118T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261119T003200
+DTEND;TZID=Asia/Jerusalem:20261119T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261119T234900
+DTEND;TZID=Asia/Jerusalem:20261119T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261120T003200
+DTEND;TZID=Asia/Jerusalem:20261120T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:04h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261120T145500
+DTEND;TZID=Asia/Jerusalem:20261120T145500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 6239:\n- 14:55 Tel A
+ viv-University (Platform 2)\n- 14:59 Tel Aviv-Savidor Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  6239:<br>- 14:55 Tel Aviv-University (Platform 2)<br>- 14:59 Tel Aviv-Sav
+ idor Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:04h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261121T193500
+DTEND;TZID=Asia/Jerusalem:20261121T193500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7715:\n- 19:35 Tel A
+ viv-University (Platform 2)\n- 19:39 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7715:<br>- 19:35 Tel Aviv-University (Platform 2)<br>- 19:39 Tel Aviv-Sav
+ idor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261121T235700
+DTEND;TZID=Asia/Jerusalem:20261121T235700
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7509:\n- 23:57 Tel A
+ viv-University (Platform 2)\n- 00:02 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7509:<br>- 23:57 Tel Aviv-University (Platform 2)<br>- 00:02 Tel Aviv-Sav
+ idor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261122T000300
+DTEND;TZID=Asia/Jerusalem:20261122T000300
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7157:\n- 00:03 Tel A
+ viv-University (Platform 2)\n- 00:08 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7157:<br>- 00:03 Tel Aviv-University (Platform 2)<br>- 00:08 Tel Aviv-Sav
+ idor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261122T234900
+DTEND;TZID=Asia/Jerusalem:20261122T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261123T003200
+DTEND;TZID=Asia/Jerusalem:20261123T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261123T234900
+DTEND;TZID=Asia/Jerusalem:20261123T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261124T003200
+DTEND;TZID=Asia/Jerusalem:20261124T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261124T234900
+DTEND;TZID=Asia/Jerusalem:20261124T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261125T003200
+DTEND;TZID=Asia/Jerusalem:20261125T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261125T234900
+DTEND;TZID=Asia/Jerusalem:20261125T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261126T003200
+DTEND;TZID=Asia/Jerusalem:20261126T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261126T234900
+DTEND;TZID=Asia/Jerusalem:20261126T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261127T003200
+DTEND;TZID=Asia/Jerusalem:20261127T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:04h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261127T145500
+DTEND;TZID=Asia/Jerusalem:20261127T145500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 6239:\n- 14:55 Tel A
+ viv-University (Platform 2)\n- 14:59 Tel Aviv-Savidor Center (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  6239:<br>- 14:55 Tel Aviv-University (Platform 2)<br>- 14:59 Tel Aviv-Sav
+ idor Center (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:04h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261128T193500
+DTEND;TZID=Asia/Jerusalem:20261128T193500
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7715:\n- 19:35 Tel A
+ viv-University (Platform 2)\n- 19:39 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7715:<br>- 19:35 Tel Aviv-University (Platform 2)<br>- 19:39 Tel Aviv-Sav
+ idor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261128T235700
+DTEND;TZID=Asia/Jerusalem:20261128T235700
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7509:\n- 23:57 Tel A
+ viv-University (Platform 2)\n- 00:02 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7509:<br>- 23:57 Tel Aviv-University (Platform 2)<br>- 00:02 Tel Aviv-Sav
+ idor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261129T000300
+DTEND;TZID=Asia/Jerusalem:20261129T000300
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 7157:\n- 00:03 Tel A
+ viv-University (Platform 2)\n- 00:08 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  7157:<br>- 00:03 Tel Aviv-University (Platform 2)<br>- 00:08 Tel Aviv-Sav
+ idor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261129T234900
+DTEND;TZID=Asia/Jerusalem:20261129T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261130T003200
+DTEND;TZID=Asia/Jerusalem:20261130T003200
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 687:\n- 00:32 Tel Av
+ iv-University (Platform 4)\n- 00:37 Tel Aviv-Savidor Center (Platform 6)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  687:<br>- 00:32 Tel Aviv-University (Platform 4)<br>- 00:37 Tel Aviv-Savi
+ dor Center (Platform 6)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:05h] to Tel Aviv-Savidor Center (from Tel Aviv-Univ
+ ersity)
+DTSTART;TZID=Asia/Jerusalem:20261130T234900
+DTEND;TZID=Asia/Jerusalem:20261130T234900
+DESCRIPTION:Last update: 2026-10-31 18:26:01\n\nTrain 291:\n- 23:49 Tel Av
+ iv-University (Platform 2)\n- 23:54 Tel Aviv-Savidor Center (Platform 4)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-10-31 18:26:01<br><br>Train
+  291:<br>- 23:49 Tel Aviv-University (Platform 2)<br>- 23:54 Tel Aviv-Savi
+ dor Center (Platform 4)<br><br>
+END:VEVENT
+END:VCALENDAR
