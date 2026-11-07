@@ -1,0 +1,1709 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Israel Railways Calendar Generator (First/Last)//
+X-WR-CALNAME:Be'er Sheva-Center to Haifa-Bat Galim (First & Last Trains)
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261108T044100
+DTEND;TZID=Asia/Jerusalem:20261108T044100
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:41 Be'er S
+ heva-Center (Platform 0)\n- 04:48 Be'er Sheva-North/University (Platform 2
+ )\n- 04:59 Lehavim-Rahat (Platform 2)\n- 05:15 Kiryat Gat (Platform 2)\n- 
+ 05:27 Kiryat Malakhi – Yoav (Platform 1)\n- 05:36 Mazkeret Batya (Platfo
+ rm 1)\n- 05:46 Ramla (Platform 1)\n- 05:51 Lod (Platform 2)\n- 06:05 Tel A
+ viv-HaHagana (Platform 1)\n- 06:10 Tel Aviv-HaShalom (Platform 1)\n- 06:15
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:20 Tel Aviv-University (Platfo
+ rm 1)\n- 06:28 Hertsliya (Platform 6)\n- 07:12 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:19 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:41 Be'er Sheva-Center (Platform 0)<br>- 04:48 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:59 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 5 Kiryat Gat (Platform 2)<br>- 05:27 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:36 Mazkeret Batya (Platform 1)<br>- 05:46 Ramla (Platform 1)<br>- 
+ 05:51 Lod (Platform 2)<br>- 06:05 Tel Aviv-HaHagana (Platform 1)<br>- 06:1
+ 0 Tel Aviv-HaShalom (Platform 1)<br>- 06:15 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:20 Tel Aviv-University (Platform 1)<br>- 06:28 Hertsliya (P
+ latform 6)<br>- 07:12 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:19
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:52h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261108T213700
+DTEND;TZID=Asia/Jerusalem:20261108T213700
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:37 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:45 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:15 Kiryat Gat (Platform 2)\n- 22:27 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:36 Mazkeret Batya (Platform 1)\n- 22:47 Ramla (Platfor
+ m 1)\n- 22:52 Lod (Platform 2)\n- 23:06 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:11 Tel Aviv-HaShalom (Platform 1)\n- 23:16 Tel Aviv-Savidor Center (Pla
+ tform 2)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:37 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:45 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:15 Kiryat Gat (Platform
+  2)<br>- 22:27 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:36 Mazkeret Ba
+ tya (Platform 1)<br>- 22:47 Ramla (Platform 1)<br>- 22:52 Lod (Platform 2)
+ <br>- 23:06 Tel Aviv-HaHagana (Platform 1)<br>- 23:11 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:16 Tel Aviv-Savidor Center (Platform 2)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261108T044100
+DTEND;TZID=Asia/Jerusalem:20261108T044100
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:41 Be'er S
+ heva-Center (Platform 0)\n- 04:48 Be'er Sheva-North/University (Platform 2
+ )\n- 04:59 Lehavim-Rahat (Platform 2)\n- 05:15 Kiryat Gat (Platform 2)\n- 
+ 05:27 Kiryat Malakhi – Yoav (Platform 1)\n- 05:36 Mazkeret Batya (Platfo
+ rm 1)\n- 05:46 Ramla (Platform 1)\n- 05:51 Lod (Platform 2)\n- 06:05 Tel A
+ viv-HaHagana (Platform 1)\n- 06:10 Tel Aviv-HaShalom (Platform 1)\n- 06:15
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:20 Tel Aviv-University (Platfo
+ rm 1)\n- 06:28 Hertsliya (Platform 6)\n- 07:12 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:19 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:41 Be'er Sheva-Center (Platform 0)<br>- 04:48 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:59 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 5 Kiryat Gat (Platform 2)<br>- 05:27 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:36 Mazkeret Batya (Platform 1)<br>- 05:46 Ramla (Platform 1)<br>- 
+ 05:51 Lod (Platform 2)<br>- 06:05 Tel Aviv-HaHagana (Platform 1)<br>- 06:1
+ 0 Tel Aviv-HaShalom (Platform 1)<br>- 06:15 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:20 Tel Aviv-University (Platform 1)<br>- 06:28 Hertsliya (P
+ latform 6)<br>- 07:12 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:19
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:52h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261108T213700
+DTEND;TZID=Asia/Jerusalem:20261108T213700
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:37 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:45 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:15 Kiryat Gat (Platform 2)\n- 22:27 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:36 Mazkeret Batya (Platform 1)\n- 22:47 Ramla (Platfor
+ m 1)\n- 22:52 Lod (Platform 2)\n- 23:06 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:11 Tel Aviv-HaShalom (Platform 1)\n- 23:16 Tel Aviv-Savidor Center (Pla
+ tform 2)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:37 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:45 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:15 Kiryat Gat (Platform
+  2)<br>- 22:27 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:36 Mazkeret Ba
+ tya (Platform 1)<br>- 22:47 Ramla (Platform 1)<br>- 22:52 Lod (Platform 2)
+ <br>- 23:06 Tel Aviv-HaHagana (Platform 1)<br>- 23:11 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:16 Tel Aviv-Savidor Center (Platform 2)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261109T044100
+DTEND;TZID=Asia/Jerusalem:20261109T044100
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:41 Be'er S
+ heva-Center (Platform 0)\n- 04:48 Be'er Sheva-North/University (Platform 2
+ )\n- 04:59 Lehavim-Rahat (Platform 2)\n- 05:15 Kiryat Gat (Platform 2)\n- 
+ 05:27 Kiryat Malakhi – Yoav (Platform 1)\n- 05:36 Mazkeret Batya (Platfo
+ rm 1)\n- 05:46 Ramla (Platform 1)\n- 05:51 Lod (Platform 2)\n- 06:05 Tel A
+ viv-HaHagana (Platform 1)\n- 06:10 Tel Aviv-HaShalom (Platform 1)\n- 06:15
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:20 Tel Aviv-University (Platfo
+ rm 1)\n- 06:28 Hertsliya (Platform 6)\n- 07:12 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:19 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:41 Be'er Sheva-Center (Platform 0)<br>- 04:48 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:59 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 5 Kiryat Gat (Platform 2)<br>- 05:27 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:36 Mazkeret Batya (Platform 1)<br>- 05:46 Ramla (Platform 1)<br>- 
+ 05:51 Lod (Platform 2)<br>- 06:05 Tel Aviv-HaHagana (Platform 1)<br>- 06:1
+ 0 Tel Aviv-HaShalom (Platform 1)<br>- 06:15 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:20 Tel Aviv-University (Platform 1)<br>- 06:28 Hertsliya (P
+ latform 6)<br>- 07:12 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:19
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:52h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261109T213700
+DTEND;TZID=Asia/Jerusalem:20261109T213700
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:37 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:45 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:15 Kiryat Gat (Platform 2)\n- 22:27 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:36 Mazkeret Batya (Platform 1)\n- 22:47 Ramla (Platfor
+ m 1)\n- 22:52 Lod (Platform 2)\n- 23:06 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:11 Tel Aviv-HaShalom (Platform 1)\n- 23:16 Tel Aviv-Savidor Center (Pla
+ tform 2)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:37 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:45 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:15 Kiryat Gat (Platform
+  2)<br>- 22:27 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:36 Mazkeret Ba
+ tya (Platform 1)<br>- 22:47 Ramla (Platform 1)<br>- 22:52 Lod (Platform 2)
+ <br>- 23:06 Tel Aviv-HaHagana (Platform 1)<br>- 23:11 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:16 Tel Aviv-Savidor Center (Platform 2)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261110T044100
+DTEND;TZID=Asia/Jerusalem:20261110T044100
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:41 Be'er S
+ heva-Center (Platform 0)\n- 04:48 Be'er Sheva-North/University (Platform 2
+ )\n- 04:59 Lehavim-Rahat (Platform 2)\n- 05:15 Kiryat Gat (Platform 2)\n- 
+ 05:27 Kiryat Malakhi – Yoav (Platform 1)\n- 05:36 Mazkeret Batya (Platfo
+ rm 1)\n- 05:46 Ramla (Platform 1)\n- 05:51 Lod (Platform 2)\n- 06:05 Tel A
+ viv-HaHagana (Platform 1)\n- 06:10 Tel Aviv-HaShalom (Platform 1)\n- 06:15
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:20 Tel Aviv-University (Platfo
+ rm 1)\n- 06:28 Hertsliya (Platform 6)\n- 07:12 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:19 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:41 Be'er Sheva-Center (Platform 0)<br>- 04:48 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:59 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 5 Kiryat Gat (Platform 2)<br>- 05:27 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:36 Mazkeret Batya (Platform 1)<br>- 05:46 Ramla (Platform 1)<br>- 
+ 05:51 Lod (Platform 2)<br>- 06:05 Tel Aviv-HaHagana (Platform 1)<br>- 06:1
+ 0 Tel Aviv-HaShalom (Platform 1)<br>- 06:15 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:20 Tel Aviv-University (Platform 1)<br>- 06:28 Hertsliya (P
+ latform 6)<br>- 07:12 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:19
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:52h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261110T213700
+DTEND;TZID=Asia/Jerusalem:20261110T213700
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:37 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:45 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:15 Kiryat Gat (Platform 2)\n- 22:27 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:36 Mazkeret Batya (Platform 1)\n- 22:47 Ramla (Platfor
+ m 1)\n- 22:52 Lod (Platform 2)\n- 23:06 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:11 Tel Aviv-HaShalom (Platform 1)\n- 23:16 Tel Aviv-Savidor Center (Pla
+ tform 2)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:37 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:45 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:15 Kiryat Gat (Platform
+  2)<br>- 22:27 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:36 Mazkeret Ba
+ tya (Platform 1)<br>- 22:47 Ramla (Platform 1)<br>- 22:52 Lod (Platform 2)
+ <br>- 23:06 Tel Aviv-HaHagana (Platform 1)<br>- 23:11 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:16 Tel Aviv-Savidor Center (Platform 2)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261111T044100
+DTEND;TZID=Asia/Jerusalem:20261111T044100
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:41 Be'er S
+ heva-Center (Platform 0)\n- 04:48 Be'er Sheva-North/University (Platform 2
+ )\n- 04:59 Lehavim-Rahat (Platform 2)\n- 05:15 Kiryat Gat (Platform 2)\n- 
+ 05:27 Kiryat Malakhi – Yoav (Platform 1)\n- 05:36 Mazkeret Batya (Platfo
+ rm 1)\n- 05:46 Ramla (Platform 1)\n- 05:51 Lod (Platform 2)\n- 06:05 Tel A
+ viv-HaHagana (Platform 1)\n- 06:10 Tel Aviv-HaShalom (Platform 1)\n- 06:15
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:20 Tel Aviv-University (Platfo
+ rm 1)\n- 06:28 Hertsliya (Platform 6)\n- 07:12 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:19 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:41 Be'er Sheva-Center (Platform 0)<br>- 04:48 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:59 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 5 Kiryat Gat (Platform 2)<br>- 05:27 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:36 Mazkeret Batya (Platform 1)<br>- 05:46 Ramla (Platform 1)<br>- 
+ 05:51 Lod (Platform 2)<br>- 06:05 Tel Aviv-HaHagana (Platform 1)<br>- 06:1
+ 0 Tel Aviv-HaShalom (Platform 1)<br>- 06:15 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:20 Tel Aviv-University (Platform 1)<br>- 06:28 Hertsliya (P
+ latform 6)<br>- 07:12 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:19
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:52h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261111T213700
+DTEND;TZID=Asia/Jerusalem:20261111T213700
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:37 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:45 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:15 Kiryat Gat (Platform 2)\n- 22:27 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:36 Mazkeret Batya (Platform 1)\n- 22:47 Ramla (Platfor
+ m 1)\n- 22:52 Lod (Platform 2)\n- 23:06 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:11 Tel Aviv-HaShalom (Platform 1)\n- 23:16 Tel Aviv-Savidor Center (Pla
+ tform 2)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:37 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:45 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:15 Kiryat Gat (Platform
+  2)<br>- 22:27 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:36 Mazkeret Ba
+ tya (Platform 1)<br>- 22:47 Ramla (Platform 1)<br>- 22:52 Lod (Platform 2)
+ <br>- 23:06 Tel Aviv-HaHagana (Platform 1)<br>- 23:11 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:16 Tel Aviv-Savidor Center (Platform 2)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261112T044100
+DTEND;TZID=Asia/Jerusalem:20261112T044100
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:41 Be'er S
+ heva-Center (Platform 0)\n- 04:48 Be'er Sheva-North/University (Platform 2
+ )\n- 04:59 Lehavim-Rahat (Platform 2)\n- 05:15 Kiryat Gat (Platform 2)\n- 
+ 05:27 Kiryat Malakhi – Yoav (Platform 1)\n- 05:36 Mazkeret Batya (Platfo
+ rm 1)\n- 05:46 Ramla (Platform 1)\n- 05:51 Lod (Platform 2)\n- 06:05 Tel A
+ viv-HaHagana (Platform 1)\n- 06:10 Tel Aviv-HaShalom (Platform 1)\n- 06:15
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:20 Tel Aviv-University (Platfo
+ rm 1)\n- 06:28 Hertsliya (Platform 6)\n- 07:12 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:19 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:41 Be'er Sheva-Center (Platform 0)<br>- 04:48 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:59 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 5 Kiryat Gat (Platform 2)<br>- 05:27 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:36 Mazkeret Batya (Platform 1)<br>- 05:46 Ramla (Platform 1)<br>- 
+ 05:51 Lod (Platform 2)<br>- 06:05 Tel Aviv-HaHagana (Platform 1)<br>- 06:1
+ 0 Tel Aviv-HaShalom (Platform 1)<br>- 06:15 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:20 Tel Aviv-University (Platform 1)<br>- 06:28 Hertsliya (P
+ latform 6)<br>- 07:12 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:19
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:52h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261112T213700
+DTEND;TZID=Asia/Jerusalem:20261112T213700
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:37 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:45 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:15 Kiryat Gat (Platform 2)\n- 22:27 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:36 Mazkeret Batya (Platform 1)\n- 22:47 Ramla (Platfor
+ m 1)\n- 22:52 Lod (Platform 2)\n- 23:06 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:11 Tel Aviv-HaShalom (Platform 1)\n- 23:16 Tel Aviv-Savidor Center (Pla
+ tform 2)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:37 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:45 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:15 Kiryat Gat (Platform
+  2)<br>- 22:27 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:36 Mazkeret Ba
+ tya (Platform 1)<br>- 22:47 Ramla (Platform 1)<br>- 22:52 Lod (Platform 2)
+ <br>- 23:06 Tel Aviv-HaHagana (Platform 1)<br>- 23:11 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:16 Tel Aviv-Savidor Center (Platform 2)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:54h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261113T044500
+DTEND;TZID=Asia/Jerusalem:20261113T044500
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 6020:\n- 04:45 Be'er
+  Sheva-Center (Platform 0)\n- 04:53 Be'er Sheva-North/University (Platform
+  2)\n- 05:05 Lehavim-Rahat (Platform 2)\n- 05:22 Kiryat Gat (Platform 2)\n
+ - 05:37 Kiryat Malakhi – Yoav (Platform 1)\n- 05:48 Mazkeret Batya (Plat
+ form 1)\n- 05:58 Ramla (Platform 1)\n- 06:04 Lod (Platform 2)\n- 06:17 Tel
+  Aviv-HaHagana (Platform 1)\n- 06:22 Tel Aviv-HaShalom (Platform 1)\n- 06:
+ 27 Tel Aviv-Savidor Center (Platform 1)\n- 06:32 Tel Aviv-University (Plat
+ form 1)\n- 06:40 Hertsliya (Platform 6)\n- 07:04 Binyamina (Platform 2)\n-
+  07:20 Atlit (Platform 2)\n- 07:30 Haifa-Hof HaKarmel (Razi`el) (Platform 
+ 1)\n- 07:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  6020:<br>- 04:45 Be'er Sheva-Center (Platform 0)<br>- 04:53 Be'er Sheva-N
+ orth/University (Platform 2)<br>- 05:05 Lehavim-Rahat (Platform 2)<br>- 05
+ :22 Kiryat Gat (Platform 2)<br>- 05:37 Kiryat Malakhi – Yoav (Platform 1
+ )<br>- 05:48 Mazkeret Batya (Platform 1)<br>- 05:58 Ramla (Platform 1)<br>
+ - 06:04 Lod (Platform 2)<br>- 06:17 Tel Aviv-HaHagana (Platform 1)<br>- 06
+ :22 Tel Aviv-HaShalom (Platform 1)<br>- 06:27 Tel Aviv-Savidor Center (Pla
+ tform 1)<br>- 06:32 Tel Aviv-University (Platform 1)<br>- 06:40 Hertsliya 
+ (Platform 6)<br>- 07:04 Binyamina (Platform 2)<br>- 07:20 Atlit (Platform 
+ 2)<br>- 07:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:39 Haifa-B
+ at Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:54h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261113T114500
+DTEND;TZID=Asia/Jerusalem:20261113T114500
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 6034:\n- 11:45 Be'er
+  Sheva-Center (Platform 0)\n- 11:53 Be'er Sheva-North/University (Platform
+  2)\n- 12:05 Lehavim-Rahat (Platform 2)\n- 12:22 Kiryat Gat (Platform 2)\n
+ - 12:37 Kiryat Malakhi – Yoav (Platform 1)\n- 12:48 Mazkeret Batya (Plat
+ form 1)\n- 12:58 Ramla (Platform 1)\n- 13:04 Lod (Platform 2)\n- 13:17 Tel
+  Aviv-HaHagana (Platform 1)\n- 13:22 Tel Aviv-HaShalom (Platform 1)\n- 13:
+ 27 Tel Aviv-Savidor Center (Platform 1)\n- 13:32 Tel Aviv-University (Plat
+ form 1)\n- 13:40 Hertsliya (Platform 6)\n- 14:04 Binyamina (Platform 2)\n-
+  14:20 Atlit (Platform 2)\n- 14:30 Haifa-Hof HaKarmel (Razi`el) (Platform 
+ 1)\n- 14:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  6034:<br>- 11:45 Be'er Sheva-Center (Platform 0)<br>- 11:53 Be'er Sheva-N
+ orth/University (Platform 2)<br>- 12:05 Lehavim-Rahat (Platform 2)<br>- 12
+ :22 Kiryat Gat (Platform 2)<br>- 12:37 Kiryat Malakhi – Yoav (Platform 1
+ )<br>- 12:48 Mazkeret Batya (Platform 1)<br>- 12:58 Ramla (Platform 1)<br>
+ - 13:04 Lod (Platform 2)<br>- 13:17 Tel Aviv-HaHagana (Platform 1)<br>- 13
+ :22 Tel Aviv-HaShalom (Platform 1)<br>- 13:27 Tel Aviv-Savidor Center (Pla
+ tform 1)<br>- 13:32 Tel Aviv-University (Platform 1)<br>- 13:40 Hertsliya 
+ (Platform 6)<br>- 14:04 Binyamina (Platform 2)<br>- 14:20 Atlit (Platform 
+ 2)<br>- 14:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 14:39 Haifa-B
+ at Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:35h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261114T193300
+DTEND;TZID=Asia/Jerusalem:20261114T193300
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 7018:\n- 19:33 Be'er
+  Sheva-Center (Platform 0)\n- 19:40 Be'er Sheva-North/University (Platform
+  2)\n- 19:50 Lehavim-Rahat (Platform 2)\n- 20:05 Kiryat Gat (Platform 2)\n
+ - 20:17 Kiryat Malakhi – Yoav (Platform 1)\n- 20:26 Mazkeret Batya (Plat
+ form 1)\n- 20:35 Ramla (Platform 1)\n- 20:40 Lod (Platform 2)\n- 20:53 Tel
+  Aviv-HaHagana (Platform 1)\n- 20:58 Tel Aviv-HaShalom (Platform 1)\n- 21:
+ 03 Tel Aviv-Savidor Center (Platform 2)\n\nTrain 7152:\n- 21:12 Tel Aviv-S
+ avidor Center (Platform 1)\n- 21:15 Tel Aviv-University (Platform 1)\n- 21
+ :40 Binyamina (Platform 2)\n- 21:53 Atlit (Platform 2)\n- 22:01 Haifa-Hof 
+ HaKarmel (Razi`el) (Platform 1)\n- 22:08 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  7018:<br>- 19:33 Be'er Sheva-Center (Platform 0)<br>- 19:40 Be'er Sheva-N
+ orth/University (Platform 2)<br>- 19:50 Lehavim-Rahat (Platform 2)<br>- 20
+ :05 Kiryat Gat (Platform 2)<br>- 20:17 Kiryat Malakhi – Yoav (Platform 1
+ )<br>- 20:26 Mazkeret Batya (Platform 1)<br>- 20:35 Ramla (Platform 1)<br>
+ - 20:40 Lod (Platform 2)<br>- 20:53 Tel Aviv-HaHagana (Platform 1)<br>- 20
+ :58 Tel Aviv-HaShalom (Platform 1)<br>- 21:03 Tel Aviv-Savidor Center (Pla
+ tform 2)<br><br>Train 7152:<br>- 21:12 Tel Aviv-Savidor Center (Platform 1
+ )<br>- 21:15 Tel Aviv-University (Platform 1)<br>- 21:40 Binyamina (Platfo
+ rm 2)<br>- 21:53 Atlit (Platform 2)<br>- 22:01 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)<br>- 22:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:35h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261114T223300
+DTEND;TZID=Asia/Jerusalem:20261114T223300
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 7024:\n- 22:33 Be'er
+  Sheva-Center (Platform 0)\n- 22:40 Be'er Sheva-North/University (Platform
+  2)\n- 22:50 Lehavim-Rahat (Platform 2)\n- 23:05 Kiryat Gat (Platform 2)\n
+ - 23:17 Kiryat Malakhi – Yoav (Platform 1)\n- 23:26 Mazkeret Batya (Plat
+ form 1)\n- 23:35 Ramla (Platform 1)\n- 23:40 Lod (Platform 2)\n- 23:53 Tel
+  Aviv-HaHagana (Platform 1)\n\nTrain 7158:\n- 00:00 Tel Aviv-HaHagana (Pla
+ tform 1)\n- 00:05 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor
+  Center (Platform 1)\n- 00:15 Tel Aviv-University (Platform 1)\n- 00:40 Bi
+ nyamina (Platform 2)\n- 00:53 Atlit (Platform 2)\n- 01:01 Haifa-Hof HaKarm
+ el (Razi`el) (Platform 1)\n- 01:08 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  7024:<br>- 22:33 Be'er Sheva-Center (Platform 0)<br>- 22:40 Be'er Sheva-N
+ orth/University (Platform 2)<br>- 22:50 Lehavim-Rahat (Platform 2)<br>- 23
+ :05 Kiryat Gat (Platform 2)<br>- 23:17 Kiryat Malakhi – Yoav (Platform 1
+ )<br>- 23:26 Mazkeret Batya (Platform 1)<br>- 23:35 Ramla (Platform 1)<br>
+ - 23:40 Lod (Platform 2)<br>- 23:53 Tel Aviv-HaHagana (Platform 1)<br><br>
+ Train 7158:<br>- 00:00 Tel Aviv-HaHagana (Platform 1)<br>- 00:05 Tel Aviv-
+ HaShalom (Platform 1)<br>- 00:10 Tel Aviv-Savidor Center (Platform 1)<br>-
+  00:15 Tel Aviv-University (Platform 1)<br>- 00:40 Binyamina (Platform 2)<
+ br>- 00:53 Atlit (Platform 2)<br>- 01:01 Haifa-Hof HaKarmel (Razi`el) (Pla
+ tform 1)<br>- 01:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261115T044000
+DTEND;TZID=Asia/Jerusalem:20261115T044000
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:40 Be'er S
+ heva-Center (Platform 0)\n- 04:47 Be'er Sheva-North/University (Platform 2
+ )\n- 04:57 Lehavim-Rahat (Platform 2)\n- 05:12 Kiryat Gat (Platform 2)\n- 
+ 05:24 Kiryat Malakhi – Yoav (Platform 1)\n- 05:33 Mazkeret Batya (Platfo
+ rm 1)\n- 05:42 Ramla (Platform 1)\n- 05:47 Lod (Platform 6)\n- 06:03 Tel A
+ viv-HaHagana (Platform 1)\n- 06:08 Tel Aviv-HaShalom (Platform 1)\n- 06:13
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:18 Tel Aviv-University (Platfo
+ rm 1)\n- 06:26 Hertsliya (Platform 6)\n- 07:11 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:18 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:40 Be'er Sheva-Center (Platform 0)<br>- 04:47 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:57 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 2 Kiryat Gat (Platform 2)<br>- 05:24 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:33 Mazkeret Batya (Platform 1)<br>- 05:42 Ramla (Platform 1)<br>- 
+ 05:47 Lod (Platform 6)<br>- 06:03 Tel Aviv-HaHagana (Platform 1)<br>- 06:0
+ 8 Tel Aviv-HaShalom (Platform 1)<br>- 06:13 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:18 Tel Aviv-University (Platform 1)<br>- 06:26 Hertsliya (P
+ latform 6)<br>- 07:11 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:18
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:49h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261115T214000
+DTEND;TZID=Asia/Jerusalem:20261115T214000
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:40 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:47 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:12 Kiryat Gat (Platform 2)\n- 22:24 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:33 Mazkeret Batya (Platform 1)\n- 22:42 Ramla (Platfor
+ m 1)\n- 22:47 Lod (Platform 6)\n- 23:03 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:08 Tel Aviv-HaShalom (Platform 1)\n- 23:13 Tel Aviv-Savidor Center (Pla
+ tform 1)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:40 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:47 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:12 Kiryat Gat (Platform
+  2)<br>- 22:24 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:33 Mazkeret Ba
+ tya (Platform 1)<br>- 22:42 Ramla (Platform 1)<br>- 22:47 Lod (Platform 6)
+ <br>- 23:03 Tel Aviv-HaHagana (Platform 1)<br>- 23:08 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:13 Tel Aviv-Savidor Center (Platform 1)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261116T044000
+DTEND;TZID=Asia/Jerusalem:20261116T044000
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:40 Be'er S
+ heva-Center (Platform 0)\n- 04:47 Be'er Sheva-North/University (Platform 2
+ )\n- 04:57 Lehavim-Rahat (Platform 2)\n- 05:12 Kiryat Gat (Platform 2)\n- 
+ 05:24 Kiryat Malakhi – Yoav (Platform 1)\n- 05:33 Mazkeret Batya (Platfo
+ rm 1)\n- 05:42 Ramla (Platform 1)\n- 05:47 Lod (Platform 6)\n- 06:03 Tel A
+ viv-HaHagana (Platform 1)\n- 06:08 Tel Aviv-HaShalom (Platform 1)\n- 06:13
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:18 Tel Aviv-University (Platfo
+ rm 1)\n- 06:26 Hertsliya (Platform 6)\n- 07:11 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:18 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:40 Be'er Sheva-Center (Platform 0)<br>- 04:47 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:57 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 2 Kiryat Gat (Platform 2)<br>- 05:24 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:33 Mazkeret Batya (Platform 1)<br>- 05:42 Ramla (Platform 1)<br>- 
+ 05:47 Lod (Platform 6)<br>- 06:03 Tel Aviv-HaHagana (Platform 1)<br>- 06:0
+ 8 Tel Aviv-HaShalom (Platform 1)<br>- 06:13 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:18 Tel Aviv-University (Platform 1)<br>- 06:26 Hertsliya (P
+ latform 6)<br>- 07:11 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:18
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:49h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261116T214000
+DTEND;TZID=Asia/Jerusalem:20261116T214000
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:40 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:47 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:12 Kiryat Gat (Platform 2)\n- 22:24 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:33 Mazkeret Batya (Platform 1)\n- 22:42 Ramla (Platfor
+ m 1)\n- 22:47 Lod (Platform 6)\n- 23:03 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:08 Tel Aviv-HaShalom (Platform 1)\n- 23:13 Tel Aviv-Savidor Center (Pla
+ tform 1)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:40 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:47 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:12 Kiryat Gat (Platform
+  2)<br>- 22:24 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:33 Mazkeret Ba
+ tya (Platform 1)<br>- 22:42 Ramla (Platform 1)<br>- 22:47 Lod (Platform 6)
+ <br>- 23:03 Tel Aviv-HaHagana (Platform 1)<br>- 23:08 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:13 Tel Aviv-Savidor Center (Platform 1)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261117T044000
+DTEND;TZID=Asia/Jerusalem:20261117T044000
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:40 Be'er S
+ heva-Center (Platform 0)\n- 04:47 Be'er Sheva-North/University (Platform 2
+ )\n- 04:57 Lehavim-Rahat (Platform 2)\n- 05:12 Kiryat Gat (Platform 2)\n- 
+ 05:24 Kiryat Malakhi – Yoav (Platform 1)\n- 05:33 Mazkeret Batya (Platfo
+ rm 1)\n- 05:42 Ramla (Platform 1)\n- 05:47 Lod (Platform 6)\n- 06:03 Tel A
+ viv-HaHagana (Platform 1)\n- 06:08 Tel Aviv-HaShalom (Platform 1)\n- 06:13
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:18 Tel Aviv-University (Platfo
+ rm 1)\n- 06:26 Hertsliya (Platform 6)\n- 07:11 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:18 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:40 Be'er Sheva-Center (Platform 0)<br>- 04:47 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:57 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 2 Kiryat Gat (Platform 2)<br>- 05:24 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:33 Mazkeret Batya (Platform 1)<br>- 05:42 Ramla (Platform 1)<br>- 
+ 05:47 Lod (Platform 6)<br>- 06:03 Tel Aviv-HaHagana (Platform 1)<br>- 06:0
+ 8 Tel Aviv-HaShalom (Platform 1)<br>- 06:13 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:18 Tel Aviv-University (Platform 1)<br>- 06:26 Hertsliya (P
+ latform 6)<br>- 07:11 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:18
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:49h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261117T214000
+DTEND;TZID=Asia/Jerusalem:20261117T214000
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:40 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:47 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:12 Kiryat Gat (Platform 2)\n- 22:24 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:33 Mazkeret Batya (Platform 1)\n- 22:42 Ramla (Platfor
+ m 1)\n- 22:47 Lod (Platform 6)\n- 23:03 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:08 Tel Aviv-HaShalom (Platform 1)\n- 23:13 Tel Aviv-Savidor Center (Pla
+ tform 1)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:40 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:47 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:12 Kiryat Gat (Platform
+  2)<br>- 22:24 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:33 Mazkeret Ba
+ tya (Platform 1)<br>- 22:42 Ramla (Platform 1)<br>- 22:47 Lod (Platform 6)
+ <br>- 23:03 Tel Aviv-HaHagana (Platform 1)<br>- 23:08 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:13 Tel Aviv-Savidor Center (Platform 1)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261118T044000
+DTEND;TZID=Asia/Jerusalem:20261118T044000
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:40 Be'er S
+ heva-Center (Platform 0)\n- 04:47 Be'er Sheva-North/University (Platform 2
+ )\n- 04:57 Lehavim-Rahat (Platform 2)\n- 05:12 Kiryat Gat (Platform 2)\n- 
+ 05:24 Kiryat Malakhi – Yoav (Platform 1)\n- 05:33 Mazkeret Batya (Platfo
+ rm 1)\n- 05:42 Ramla (Platform 1)\n- 05:47 Lod (Platform 6)\n- 06:03 Tel A
+ viv-HaHagana (Platform 1)\n- 06:08 Tel Aviv-HaShalom (Platform 1)\n- 06:13
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:18 Tel Aviv-University (Platfo
+ rm 1)\n- 06:26 Hertsliya (Platform 6)\n- 07:11 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:18 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:40 Be'er Sheva-Center (Platform 0)<br>- 04:47 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:57 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 2 Kiryat Gat (Platform 2)<br>- 05:24 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:33 Mazkeret Batya (Platform 1)<br>- 05:42 Ramla (Platform 1)<br>- 
+ 05:47 Lod (Platform 6)<br>- 06:03 Tel Aviv-HaHagana (Platform 1)<br>- 06:0
+ 8 Tel Aviv-HaShalom (Platform 1)<br>- 06:13 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:18 Tel Aviv-University (Platform 1)<br>- 06:26 Hertsliya (P
+ latform 6)<br>- 07:11 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:18
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:49h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261118T214000
+DTEND;TZID=Asia/Jerusalem:20261118T214000
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:40 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:47 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:12 Kiryat Gat (Platform 2)\n- 22:24 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:33 Mazkeret Batya (Platform 1)\n- 22:42 Ramla (Platfor
+ m 1)\n- 22:47 Lod (Platform 6)\n- 23:03 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:08 Tel Aviv-HaShalom (Platform 1)\n- 23:13 Tel Aviv-Savidor Center (Pla
+ tform 1)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:40 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:47 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:12 Kiryat Gat (Platform
+  2)<br>- 22:24 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:33 Mazkeret Ba
+ tya (Platform 1)<br>- 22:42 Ramla (Platform 1)<br>- 22:47 Lod (Platform 6)
+ <br>- 23:03 Tel Aviv-HaHagana (Platform 1)<br>- 23:08 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:13 Tel Aviv-Savidor Center (Platform 1)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261119T044000
+DTEND;TZID=Asia/Jerusalem:20261119T044000
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:40 Be'er S
+ heva-Center (Platform 0)\n- 04:47 Be'er Sheva-North/University (Platform 2
+ )\n- 04:57 Lehavim-Rahat (Platform 2)\n- 05:12 Kiryat Gat (Platform 2)\n- 
+ 05:24 Kiryat Malakhi – Yoav (Platform 1)\n- 05:33 Mazkeret Batya (Platfo
+ rm 1)\n- 05:42 Ramla (Platform 1)\n- 05:47 Lod (Platform 6)\n- 06:03 Tel A
+ viv-HaHagana (Platform 1)\n- 06:08 Tel Aviv-HaShalom (Platform 1)\n- 06:13
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:18 Tel Aviv-University (Platfo
+ rm 1)\n- 06:26 Hertsliya (Platform 6)\n- 07:11 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:18 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:40 Be'er Sheva-Center (Platform 0)<br>- 04:47 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:57 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 2 Kiryat Gat (Platform 2)<br>- 05:24 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:33 Mazkeret Batya (Platform 1)<br>- 05:42 Ramla (Platform 1)<br>- 
+ 05:47 Lod (Platform 6)<br>- 06:03 Tel Aviv-HaHagana (Platform 1)<br>- 06:0
+ 8 Tel Aviv-HaShalom (Platform 1)<br>- 06:13 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:18 Tel Aviv-University (Platform 1)<br>- 06:26 Hertsliya (P
+ latform 6)<br>- 07:11 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:18
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:49h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261119T214000
+DTEND;TZID=Asia/Jerusalem:20261119T214000
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:40 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:47 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:12 Kiryat Gat (Platform 2)\n- 22:24 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:33 Mazkeret Batya (Platform 1)\n- 22:42 Ramla (Platfor
+ m 1)\n- 22:47 Lod (Platform 6)\n- 23:03 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:08 Tel Aviv-HaShalom (Platform 1)\n- 23:13 Tel Aviv-Savidor Center (Pla
+ tform 1)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:40 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:47 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:12 Kiryat Gat (Platform
+  2)<br>- 22:24 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:33 Mazkeret Ba
+ tya (Platform 1)<br>- 22:42 Ramla (Platform 1)<br>- 22:47 Lod (Platform 6)
+ <br>- 23:03 Tel Aviv-HaHagana (Platform 1)<br>- 23:08 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:13 Tel Aviv-Savidor Center (Platform 1)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:54h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261120T044500
+DTEND;TZID=Asia/Jerusalem:20261120T044500
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 6020:\n- 04:45 Be'er
+  Sheva-Center (Platform 0)\n- 04:53 Be'er Sheva-North/University (Platform
+  2)\n- 05:05 Lehavim-Rahat (Platform 2)\n- 05:22 Kiryat Gat (Platform 2)\n
+ - 05:37 Kiryat Malakhi – Yoav (Platform 1)\n- 05:48 Mazkeret Batya (Plat
+ form 1)\n- 05:58 Ramla (Platform 1)\n- 06:04 Lod (Platform 2)\n- 06:17 Tel
+  Aviv-HaHagana (Platform 1)\n- 06:22 Tel Aviv-HaShalom (Platform 1)\n- 06:
+ 27 Tel Aviv-Savidor Center (Platform 1)\n- 06:32 Tel Aviv-University (Plat
+ form 1)\n- 06:40 Hertsliya (Platform 6)\n- 07:04 Binyamina (Platform 2)\n-
+  07:20 Atlit (Platform 2)\n- 07:30 Haifa-Hof HaKarmel (Razi`el) (Platform 
+ 1)\n- 07:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  6020:<br>- 04:45 Be'er Sheva-Center (Platform 0)<br>- 04:53 Be'er Sheva-N
+ orth/University (Platform 2)<br>- 05:05 Lehavim-Rahat (Platform 2)<br>- 05
+ :22 Kiryat Gat (Platform 2)<br>- 05:37 Kiryat Malakhi – Yoav (Platform 1
+ )<br>- 05:48 Mazkeret Batya (Platform 1)<br>- 05:58 Ramla (Platform 1)<br>
+ - 06:04 Lod (Platform 2)<br>- 06:17 Tel Aviv-HaHagana (Platform 1)<br>- 06
+ :22 Tel Aviv-HaShalom (Platform 1)<br>- 06:27 Tel Aviv-Savidor Center (Pla
+ tform 1)<br>- 06:32 Tel Aviv-University (Platform 1)<br>- 06:40 Hertsliya 
+ (Platform 6)<br>- 07:04 Binyamina (Platform 2)<br>- 07:20 Atlit (Platform 
+ 2)<br>- 07:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:39 Haifa-B
+ at Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:54h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261120T114500
+DTEND;TZID=Asia/Jerusalem:20261120T114500
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 6034:\n- 11:45 Be'er
+  Sheva-Center (Platform 0)\n- 11:53 Be'er Sheva-North/University (Platform
+  2)\n- 12:05 Lehavim-Rahat (Platform 2)\n- 12:22 Kiryat Gat (Platform 2)\n
+ - 12:37 Kiryat Malakhi – Yoav (Platform 1)\n- 12:48 Mazkeret Batya (Plat
+ form 1)\n- 12:58 Ramla (Platform 1)\n- 13:04 Lod (Platform 2)\n- 13:17 Tel
+  Aviv-HaHagana (Platform 1)\n- 13:22 Tel Aviv-HaShalom (Platform 1)\n- 13:
+ 27 Tel Aviv-Savidor Center (Platform 1)\n- 13:32 Tel Aviv-University (Plat
+ form 1)\n- 13:40 Hertsliya (Platform 6)\n- 14:04 Binyamina (Platform 2)\n-
+  14:20 Atlit (Platform 2)\n- 14:30 Haifa-Hof HaKarmel (Razi`el) (Platform 
+ 1)\n- 14:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  6034:<br>- 11:45 Be'er Sheva-Center (Platform 0)<br>- 11:53 Be'er Sheva-N
+ orth/University (Platform 2)<br>- 12:05 Lehavim-Rahat (Platform 2)<br>- 12
+ :22 Kiryat Gat (Platform 2)<br>- 12:37 Kiryat Malakhi – Yoav (Platform 1
+ )<br>- 12:48 Mazkeret Batya (Platform 1)<br>- 12:58 Ramla (Platform 1)<br>
+ - 13:04 Lod (Platform 2)<br>- 13:17 Tel Aviv-HaHagana (Platform 1)<br>- 13
+ :22 Tel Aviv-HaShalom (Platform 1)<br>- 13:27 Tel Aviv-Savidor Center (Pla
+ tform 1)<br>- 13:32 Tel Aviv-University (Platform 1)<br>- 13:40 Hertsliya 
+ (Platform 6)<br>- 14:04 Binyamina (Platform 2)<br>- 14:20 Atlit (Platform 
+ 2)<br>- 14:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 14:39 Haifa-B
+ at Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:35h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261121T193300
+DTEND;TZID=Asia/Jerusalem:20261121T193300
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 7018:\n- 19:33 Be'er
+  Sheva-Center (Platform 0)\n- 19:40 Be'er Sheva-North/University (Platform
+  2)\n- 19:50 Lehavim-Rahat (Platform 2)\n- 20:05 Kiryat Gat (Platform 2)\n
+ - 20:17 Kiryat Malakhi – Yoav (Platform 1)\n- 20:26 Mazkeret Batya (Plat
+ form 1)\n- 20:35 Ramla (Platform 1)\n- 20:40 Lod (Platform 2)\n- 20:53 Tel
+  Aviv-HaHagana (Platform 1)\n- 20:58 Tel Aviv-HaShalom (Platform 1)\n- 21:
+ 03 Tel Aviv-Savidor Center (Platform 2)\n\nTrain 7152:\n- 21:12 Tel Aviv-S
+ avidor Center (Platform 1)\n- 21:15 Tel Aviv-University (Platform 1)\n- 21
+ :40 Binyamina (Platform 2)\n- 21:53 Atlit (Platform 2)\n- 22:01 Haifa-Hof 
+ HaKarmel (Razi`el) (Platform 1)\n- 22:08 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  7018:<br>- 19:33 Be'er Sheva-Center (Platform 0)<br>- 19:40 Be'er Sheva-N
+ orth/University (Platform 2)<br>- 19:50 Lehavim-Rahat (Platform 2)<br>- 20
+ :05 Kiryat Gat (Platform 2)<br>- 20:17 Kiryat Malakhi – Yoav (Platform 1
+ )<br>- 20:26 Mazkeret Batya (Platform 1)<br>- 20:35 Ramla (Platform 1)<br>
+ - 20:40 Lod (Platform 2)<br>- 20:53 Tel Aviv-HaHagana (Platform 1)<br>- 20
+ :58 Tel Aviv-HaShalom (Platform 1)<br>- 21:03 Tel Aviv-Savidor Center (Pla
+ tform 2)<br><br>Train 7152:<br>- 21:12 Tel Aviv-Savidor Center (Platform 1
+ )<br>- 21:15 Tel Aviv-University (Platform 1)<br>- 21:40 Binyamina (Platfo
+ rm 2)<br>- 21:53 Atlit (Platform 2)<br>- 22:01 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)<br>- 22:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:35h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261121T223300
+DTEND;TZID=Asia/Jerusalem:20261121T223300
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 7024:\n- 22:33 Be'er
+  Sheva-Center (Platform 0)\n- 22:40 Be'er Sheva-North/University (Platform
+  2)\n- 22:50 Lehavim-Rahat (Platform 2)\n- 23:05 Kiryat Gat (Platform 2)\n
+ - 23:17 Kiryat Malakhi – Yoav (Platform 1)\n- 23:26 Mazkeret Batya (Plat
+ form 1)\n- 23:35 Ramla (Platform 1)\n- 23:40 Lod (Platform 2)\n- 23:53 Tel
+  Aviv-HaHagana (Platform 1)\n\nTrain 7158:\n- 00:00 Tel Aviv-HaHagana (Pla
+ tform 1)\n- 00:05 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor
+  Center (Platform 1)\n- 00:15 Tel Aviv-University (Platform 1)\n- 00:40 Bi
+ nyamina (Platform 2)\n- 00:53 Atlit (Platform 2)\n- 01:01 Haifa-Hof HaKarm
+ el (Razi`el) (Platform 1)\n- 01:08 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  7024:<br>- 22:33 Be'er Sheva-Center (Platform 0)<br>- 22:40 Be'er Sheva-N
+ orth/University (Platform 2)<br>- 22:50 Lehavim-Rahat (Platform 2)<br>- 23
+ :05 Kiryat Gat (Platform 2)<br>- 23:17 Kiryat Malakhi – Yoav (Platform 1
+ )<br>- 23:26 Mazkeret Batya (Platform 1)<br>- 23:35 Ramla (Platform 1)<br>
+ - 23:40 Lod (Platform 2)<br>- 23:53 Tel Aviv-HaHagana (Platform 1)<br><br>
+ Train 7158:<br>- 00:00 Tel Aviv-HaHagana (Platform 1)<br>- 00:05 Tel Aviv-
+ HaShalom (Platform 1)<br>- 00:10 Tel Aviv-Savidor Center (Platform 1)<br>-
+  00:15 Tel Aviv-University (Platform 1)<br>- 00:40 Binyamina (Platform 2)<
+ br>- 00:53 Atlit (Platform 2)<br>- 01:01 Haifa-Hof HaKarmel (Razi`el) (Pla
+ tform 1)<br>- 01:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261122T044000
+DTEND;TZID=Asia/Jerusalem:20261122T044000
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:40 Be'er S
+ heva-Center (Platform 0)\n- 04:47 Be'er Sheva-North/University (Platform 2
+ )\n- 04:57 Lehavim-Rahat (Platform 2)\n- 05:12 Kiryat Gat (Platform 2)\n- 
+ 05:24 Kiryat Malakhi – Yoav (Platform 1)\n- 05:33 Mazkeret Batya (Platfo
+ rm 1)\n- 05:42 Ramla (Platform 1)\n- 05:47 Lod (Platform 6)\n- 06:03 Tel A
+ viv-HaHagana (Platform 1)\n- 06:08 Tel Aviv-HaShalom (Platform 1)\n- 06:13
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:18 Tel Aviv-University (Platfo
+ rm 1)\n- 06:26 Hertsliya (Platform 6)\n- 07:11 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:18 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:40 Be'er Sheva-Center (Platform 0)<br>- 04:47 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:57 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 2 Kiryat Gat (Platform 2)<br>- 05:24 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:33 Mazkeret Batya (Platform 1)<br>- 05:42 Ramla (Platform 1)<br>- 
+ 05:47 Lod (Platform 6)<br>- 06:03 Tel Aviv-HaHagana (Platform 1)<br>- 06:0
+ 8 Tel Aviv-HaShalom (Platform 1)<br>- 06:13 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:18 Tel Aviv-University (Platform 1)<br>- 06:26 Hertsliya (P
+ latform 6)<br>- 07:11 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:18
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:49h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261122T214000
+DTEND;TZID=Asia/Jerusalem:20261122T214000
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:40 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:47 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:12 Kiryat Gat (Platform 2)\n- 22:24 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:33 Mazkeret Batya (Platform 1)\n- 22:42 Ramla (Platfor
+ m 1)\n- 22:47 Lod (Platform 6)\n- 23:03 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:08 Tel Aviv-HaShalom (Platform 1)\n- 23:13 Tel Aviv-Savidor Center (Pla
+ tform 1)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:40 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:47 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:12 Kiryat Gat (Platform
+  2)<br>- 22:24 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:33 Mazkeret Ba
+ tya (Platform 1)<br>- 22:42 Ramla (Platform 1)<br>- 22:47 Lod (Platform 6)
+ <br>- 23:03 Tel Aviv-HaHagana (Platform 1)<br>- 23:08 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:13 Tel Aviv-Savidor Center (Platform 1)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261123T044000
+DTEND;TZID=Asia/Jerusalem:20261123T044000
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:40 Be'er S
+ heva-Center (Platform 0)\n- 04:47 Be'er Sheva-North/University (Platform 2
+ )\n- 04:57 Lehavim-Rahat (Platform 2)\n- 05:12 Kiryat Gat (Platform 2)\n- 
+ 05:24 Kiryat Malakhi – Yoav (Platform 1)\n- 05:33 Mazkeret Batya (Platfo
+ rm 1)\n- 05:42 Ramla (Platform 1)\n- 05:47 Lod (Platform 6)\n- 06:03 Tel A
+ viv-HaHagana (Platform 1)\n- 06:08 Tel Aviv-HaShalom (Platform 1)\n- 06:13
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:18 Tel Aviv-University (Platfo
+ rm 1)\n- 06:26 Hertsliya (Platform 6)\n- 07:11 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:18 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:40 Be'er Sheva-Center (Platform 0)<br>- 04:47 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:57 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 2 Kiryat Gat (Platform 2)<br>- 05:24 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:33 Mazkeret Batya (Platform 1)<br>- 05:42 Ramla (Platform 1)<br>- 
+ 05:47 Lod (Platform 6)<br>- 06:03 Tel Aviv-HaHagana (Platform 1)<br>- 06:0
+ 8 Tel Aviv-HaShalom (Platform 1)<br>- 06:13 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:18 Tel Aviv-University (Platform 1)<br>- 06:26 Hertsliya (P
+ latform 6)<br>- 07:11 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:18
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:49h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261123T214000
+DTEND;TZID=Asia/Jerusalem:20261123T214000
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:40 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:47 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:12 Kiryat Gat (Platform 2)\n- 22:24 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:33 Mazkeret Batya (Platform 1)\n- 22:42 Ramla (Platfor
+ m 1)\n- 22:47 Lod (Platform 6)\n- 23:03 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:08 Tel Aviv-HaShalom (Platform 1)\n- 23:13 Tel Aviv-Savidor Center (Pla
+ tform 1)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:40 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:47 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:12 Kiryat Gat (Platform
+  2)<br>- 22:24 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:33 Mazkeret Ba
+ tya (Platform 1)<br>- 22:42 Ramla (Platform 1)<br>- 22:47 Lod (Platform 6)
+ <br>- 23:03 Tel Aviv-HaHagana (Platform 1)<br>- 23:08 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:13 Tel Aviv-Savidor Center (Platform 1)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261124T044000
+DTEND;TZID=Asia/Jerusalem:20261124T044000
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:40 Be'er S
+ heva-Center (Platform 0)\n- 04:47 Be'er Sheva-North/University (Platform 2
+ )\n- 04:57 Lehavim-Rahat (Platform 2)\n- 05:12 Kiryat Gat (Platform 2)\n- 
+ 05:24 Kiryat Malakhi – Yoav (Platform 1)\n- 05:33 Mazkeret Batya (Platfo
+ rm 1)\n- 05:42 Ramla (Platform 1)\n- 05:47 Lod (Platform 6)\n- 06:03 Tel A
+ viv-HaHagana (Platform 1)\n- 06:08 Tel Aviv-HaShalom (Platform 1)\n- 06:13
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:18 Tel Aviv-University (Platfo
+ rm 1)\n- 06:26 Hertsliya (Platform 6)\n- 07:11 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:18 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:40 Be'er Sheva-Center (Platform 0)<br>- 04:47 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:57 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 2 Kiryat Gat (Platform 2)<br>- 05:24 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:33 Mazkeret Batya (Platform 1)<br>- 05:42 Ramla (Platform 1)<br>- 
+ 05:47 Lod (Platform 6)<br>- 06:03 Tel Aviv-HaHagana (Platform 1)<br>- 06:0
+ 8 Tel Aviv-HaShalom (Platform 1)<br>- 06:13 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:18 Tel Aviv-University (Platform 1)<br>- 06:26 Hertsliya (P
+ latform 6)<br>- 07:11 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:18
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:49h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261124T214000
+DTEND;TZID=Asia/Jerusalem:20261124T214000
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:40 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:47 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:12 Kiryat Gat (Platform 2)\n- 22:24 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:33 Mazkeret Batya (Platform 1)\n- 22:42 Ramla (Platfor
+ m 1)\n- 22:47 Lod (Platform 6)\n- 23:03 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:08 Tel Aviv-HaShalom (Platform 1)\n- 23:13 Tel Aviv-Savidor Center (Pla
+ tform 1)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:40 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:47 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:12 Kiryat Gat (Platform
+  2)<br>- 22:24 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:33 Mazkeret Ba
+ tya (Platform 1)<br>- 22:42 Ramla (Platform 1)<br>- 22:47 Lod (Platform 6)
+ <br>- 23:03 Tel Aviv-HaHagana (Platform 1)<br>- 23:08 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:13 Tel Aviv-Savidor Center (Platform 1)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261125T044000
+DTEND;TZID=Asia/Jerusalem:20261125T044000
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:40 Be'er S
+ heva-Center (Platform 0)\n- 04:47 Be'er Sheva-North/University (Platform 2
+ )\n- 04:57 Lehavim-Rahat (Platform 2)\n- 05:12 Kiryat Gat (Platform 2)\n- 
+ 05:24 Kiryat Malakhi – Yoav (Platform 1)\n- 05:33 Mazkeret Batya (Platfo
+ rm 1)\n- 05:42 Ramla (Platform 1)\n- 05:47 Lod (Platform 6)\n- 06:03 Tel A
+ viv-HaHagana (Platform 1)\n- 06:08 Tel Aviv-HaShalom (Platform 1)\n- 06:13
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:18 Tel Aviv-University (Platfo
+ rm 1)\n- 06:26 Hertsliya (Platform 6)\n- 07:11 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:18 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:40 Be'er Sheva-Center (Platform 0)<br>- 04:47 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:57 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 2 Kiryat Gat (Platform 2)<br>- 05:24 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:33 Mazkeret Batya (Platform 1)<br>- 05:42 Ramla (Platform 1)<br>- 
+ 05:47 Lod (Platform 6)<br>- 06:03 Tel Aviv-HaHagana (Platform 1)<br>- 06:0
+ 8 Tel Aviv-HaShalom (Platform 1)<br>- 06:13 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:18 Tel Aviv-University (Platform 1)<br>- 06:26 Hertsliya (P
+ latform 6)<br>- 07:11 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:18
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:49h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261125T214000
+DTEND;TZID=Asia/Jerusalem:20261125T214000
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:40 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:47 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:12 Kiryat Gat (Platform 2)\n- 22:24 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:33 Mazkeret Batya (Platform 1)\n- 22:42 Ramla (Platfor
+ m 1)\n- 22:47 Lod (Platform 6)\n- 23:03 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:08 Tel Aviv-HaShalom (Platform 1)\n- 23:13 Tel Aviv-Savidor Center (Pla
+ tform 1)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:40 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:47 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:12 Kiryat Gat (Platform
+  2)<br>- 22:24 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:33 Mazkeret Ba
+ tya (Platform 1)<br>- 22:42 Ramla (Platform 1)<br>- 22:47 Lod (Platform 6)
+ <br>- 23:03 Tel Aviv-HaHagana (Platform 1)<br>- 23:08 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:13 Tel Aviv-Savidor Center (Platform 1)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261126T044000
+DTEND;TZID=Asia/Jerusalem:20261126T044000
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:40 Be'er S
+ heva-Center (Platform 0)\n- 04:47 Be'er Sheva-North/University (Platform 2
+ )\n- 04:57 Lehavim-Rahat (Platform 2)\n- 05:12 Kiryat Gat (Platform 2)\n- 
+ 05:24 Kiryat Malakhi – Yoav (Platform 1)\n- 05:33 Mazkeret Batya (Platfo
+ rm 1)\n- 05:42 Ramla (Platform 1)\n- 05:47 Lod (Platform 6)\n- 06:03 Tel A
+ viv-HaHagana (Platform 1)\n- 06:08 Tel Aviv-HaShalom (Platform 1)\n- 06:13
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:18 Tel Aviv-University (Platfo
+ rm 1)\n- 06:26 Hertsliya (Platform 6)\n- 07:11 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:18 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:40 Be'er Sheva-Center (Platform 0)<br>- 04:47 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:57 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 2 Kiryat Gat (Platform 2)<br>- 05:24 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:33 Mazkeret Batya (Platform 1)<br>- 05:42 Ramla (Platform 1)<br>- 
+ 05:47 Lod (Platform 6)<br>- 06:03 Tel Aviv-HaHagana (Platform 1)<br>- 06:0
+ 8 Tel Aviv-HaShalom (Platform 1)<br>- 06:13 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:18 Tel Aviv-University (Platform 1)<br>- 06:26 Hertsliya (P
+ latform 6)<br>- 07:11 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:18
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:49h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261126T214000
+DTEND;TZID=Asia/Jerusalem:20261126T214000
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:40 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:47 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:12 Kiryat Gat (Platform 2)\n- 22:24 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:33 Mazkeret Batya (Platform 1)\n- 22:42 Ramla (Platfor
+ m 1)\n- 22:47 Lod (Platform 6)\n- 23:03 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:08 Tel Aviv-HaShalom (Platform 1)\n- 23:13 Tel Aviv-Savidor Center (Pla
+ tform 1)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:40 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:47 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:12 Kiryat Gat (Platform
+  2)<br>- 22:24 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:33 Mazkeret Ba
+ tya (Platform 1)<br>- 22:42 Ramla (Platform 1)<br>- 22:47 Lod (Platform 6)
+ <br>- 23:03 Tel Aviv-HaHagana (Platform 1)<br>- 23:08 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:13 Tel Aviv-Savidor Center (Platform 1)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:54h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261127T044500
+DTEND;TZID=Asia/Jerusalem:20261127T044500
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 6020:\n- 04:45 Be'er
+  Sheva-Center (Platform 0)\n- 04:53 Be'er Sheva-North/University (Platform
+  2)\n- 05:05 Lehavim-Rahat (Platform 2)\n- 05:22 Kiryat Gat (Platform 2)\n
+ - 05:37 Kiryat Malakhi – Yoav (Platform 1)\n- 05:48 Mazkeret Batya (Plat
+ form 1)\n- 05:58 Ramla (Platform 1)\n- 06:04 Lod (Platform 2)\n- 06:17 Tel
+  Aviv-HaHagana (Platform 1)\n- 06:22 Tel Aviv-HaShalom (Platform 1)\n- 06:
+ 27 Tel Aviv-Savidor Center (Platform 1)\n- 06:32 Tel Aviv-University (Plat
+ form 1)\n- 06:40 Hertsliya (Platform 6)\n- 07:04 Binyamina (Platform 2)\n-
+  07:20 Atlit (Platform 2)\n- 07:30 Haifa-Hof HaKarmel (Razi`el) (Platform 
+ 1)\n- 07:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  6020:<br>- 04:45 Be'er Sheva-Center (Platform 0)<br>- 04:53 Be'er Sheva-N
+ orth/University (Platform 2)<br>- 05:05 Lehavim-Rahat (Platform 2)<br>- 05
+ :22 Kiryat Gat (Platform 2)<br>- 05:37 Kiryat Malakhi – Yoav (Platform 1
+ )<br>- 05:48 Mazkeret Batya (Platform 1)<br>- 05:58 Ramla (Platform 1)<br>
+ - 06:04 Lod (Platform 2)<br>- 06:17 Tel Aviv-HaHagana (Platform 1)<br>- 06
+ :22 Tel Aviv-HaShalom (Platform 1)<br>- 06:27 Tel Aviv-Savidor Center (Pla
+ tform 1)<br>- 06:32 Tel Aviv-University (Platform 1)<br>- 06:40 Hertsliya 
+ (Platform 6)<br>- 07:04 Binyamina (Platform 2)<br>- 07:20 Atlit (Platform 
+ 2)<br>- 07:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:39 Haifa-B
+ at Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:54h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261127T114500
+DTEND;TZID=Asia/Jerusalem:20261127T114500
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 6034:\n- 11:45 Be'er
+  Sheva-Center (Platform 0)\n- 11:53 Be'er Sheva-North/University (Platform
+  2)\n- 12:05 Lehavim-Rahat (Platform 2)\n- 12:22 Kiryat Gat (Platform 2)\n
+ - 12:37 Kiryat Malakhi – Yoav (Platform 1)\n- 12:48 Mazkeret Batya (Plat
+ form 1)\n- 12:58 Ramla (Platform 1)\n- 13:04 Lod (Platform 2)\n- 13:17 Tel
+  Aviv-HaHagana (Platform 1)\n- 13:22 Tel Aviv-HaShalom (Platform 1)\n- 13:
+ 27 Tel Aviv-Savidor Center (Platform 1)\n- 13:32 Tel Aviv-University (Plat
+ form 1)\n- 13:40 Hertsliya (Platform 6)\n- 14:04 Binyamina (Platform 2)\n-
+  14:20 Atlit (Platform 2)\n- 14:30 Haifa-Hof HaKarmel (Razi`el) (Platform 
+ 1)\n- 14:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  6034:<br>- 11:45 Be'er Sheva-Center (Platform 0)<br>- 11:53 Be'er Sheva-N
+ orth/University (Platform 2)<br>- 12:05 Lehavim-Rahat (Platform 2)<br>- 12
+ :22 Kiryat Gat (Platform 2)<br>- 12:37 Kiryat Malakhi – Yoav (Platform 1
+ )<br>- 12:48 Mazkeret Batya (Platform 1)<br>- 12:58 Ramla (Platform 1)<br>
+ - 13:04 Lod (Platform 2)<br>- 13:17 Tel Aviv-HaHagana (Platform 1)<br>- 13
+ :22 Tel Aviv-HaShalom (Platform 1)<br>- 13:27 Tel Aviv-Savidor Center (Pla
+ tform 1)<br>- 13:32 Tel Aviv-University (Platform 1)<br>- 13:40 Hertsliya 
+ (Platform 6)<br>- 14:04 Binyamina (Platform 2)<br>- 14:20 Atlit (Platform 
+ 2)<br>- 14:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 14:39 Haifa-B
+ at Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:35h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261128T193300
+DTEND;TZID=Asia/Jerusalem:20261128T193300
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 7018:\n- 19:33 Be'er
+  Sheva-Center (Platform 0)\n- 19:40 Be'er Sheva-North/University (Platform
+  2)\n- 19:50 Lehavim-Rahat (Platform 2)\n- 20:05 Kiryat Gat (Platform 2)\n
+ - 20:17 Kiryat Malakhi – Yoav (Platform 1)\n- 20:26 Mazkeret Batya (Plat
+ form 1)\n- 20:35 Ramla (Platform 1)\n- 20:40 Lod (Platform 2)\n- 20:53 Tel
+  Aviv-HaHagana (Platform 1)\n- 20:58 Tel Aviv-HaShalom (Platform 1)\n- 21:
+ 03 Tel Aviv-Savidor Center (Platform 2)\n\nTrain 7152:\n- 21:12 Tel Aviv-S
+ avidor Center (Platform 1)\n- 21:15 Tel Aviv-University (Platform 1)\n- 21
+ :40 Binyamina (Platform 2)\n- 21:53 Atlit (Platform 2)\n- 22:01 Haifa-Hof 
+ HaKarmel (Razi`el) (Platform 1)\n- 22:08 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  7018:<br>- 19:33 Be'er Sheva-Center (Platform 0)<br>- 19:40 Be'er Sheva-N
+ orth/University (Platform 2)<br>- 19:50 Lehavim-Rahat (Platform 2)<br>- 20
+ :05 Kiryat Gat (Platform 2)<br>- 20:17 Kiryat Malakhi – Yoav (Platform 1
+ )<br>- 20:26 Mazkeret Batya (Platform 1)<br>- 20:35 Ramla (Platform 1)<br>
+ - 20:40 Lod (Platform 2)<br>- 20:53 Tel Aviv-HaHagana (Platform 1)<br>- 20
+ :58 Tel Aviv-HaShalom (Platform 1)<br>- 21:03 Tel Aviv-Savidor Center (Pla
+ tform 2)<br><br>Train 7152:<br>- 21:12 Tel Aviv-Savidor Center (Platform 1
+ )<br>- 21:15 Tel Aviv-University (Platform 1)<br>- 21:40 Binyamina (Platfo
+ rm 2)<br>- 21:53 Atlit (Platform 2)<br>- 22:01 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)<br>- 22:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:35h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261128T223300
+DTEND;TZID=Asia/Jerusalem:20261128T223300
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 7024:\n- 22:33 Be'er
+  Sheva-Center (Platform 0)\n- 22:40 Be'er Sheva-North/University (Platform
+  2)\n- 22:50 Lehavim-Rahat (Platform 2)\n- 23:05 Kiryat Gat (Platform 2)\n
+ - 23:17 Kiryat Malakhi – Yoav (Platform 1)\n- 23:26 Mazkeret Batya (Plat
+ form 1)\n- 23:35 Ramla (Platform 1)\n- 23:40 Lod (Platform 2)\n- 23:53 Tel
+  Aviv-HaHagana (Platform 1)\n\nTrain 7158:\n- 00:00 Tel Aviv-HaHagana (Pla
+ tform 1)\n- 00:05 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor
+  Center (Platform 1)\n- 00:15 Tel Aviv-University (Platform 1)\n- 00:40 Bi
+ nyamina (Platform 2)\n- 00:53 Atlit (Platform 2)\n- 01:01 Haifa-Hof HaKarm
+ el (Razi`el) (Platform 1)\n- 01:08 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  7024:<br>- 22:33 Be'er Sheva-Center (Platform 0)<br>- 22:40 Be'er Sheva-N
+ orth/University (Platform 2)<br>- 22:50 Lehavim-Rahat (Platform 2)<br>- 23
+ :05 Kiryat Gat (Platform 2)<br>- 23:17 Kiryat Malakhi – Yoav (Platform 1
+ )<br>- 23:26 Mazkeret Batya (Platform 1)<br>- 23:35 Ramla (Platform 1)<br>
+ - 23:40 Lod (Platform 2)<br>- 23:53 Tel Aviv-HaHagana (Platform 1)<br><br>
+ Train 7158:<br>- 00:00 Tel Aviv-HaHagana (Platform 1)<br>- 00:05 Tel Aviv-
+ HaShalom (Platform 1)<br>- 00:10 Tel Aviv-Savidor Center (Platform 1)<br>-
+  00:15 Tel Aviv-University (Platform 1)<br>- 00:40 Binyamina (Platform 2)<
+ br>- 00:53 Atlit (Platform 2)<br>- 01:01 Haifa-Hof HaKarmel (Razi`el) (Pla
+ tform 1)<br>- 01:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261129T044000
+DTEND;TZID=Asia/Jerusalem:20261129T044000
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:40 Be'er S
+ heva-Center (Platform 0)\n- 04:47 Be'er Sheva-North/University (Platform 2
+ )\n- 04:57 Lehavim-Rahat (Platform 2)\n- 05:12 Kiryat Gat (Platform 2)\n- 
+ 05:24 Kiryat Malakhi – Yoav (Platform 1)\n- 05:33 Mazkeret Batya (Platfo
+ rm 1)\n- 05:42 Ramla (Platform 1)\n- 05:47 Lod (Platform 6)\n- 06:03 Tel A
+ viv-HaHagana (Platform 1)\n- 06:08 Tel Aviv-HaShalom (Platform 1)\n- 06:13
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:18 Tel Aviv-University (Platfo
+ rm 1)\n- 06:26 Hertsliya (Platform 6)\n- 07:11 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:18 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:40 Be'er Sheva-Center (Platform 0)<br>- 04:47 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:57 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 2 Kiryat Gat (Platform 2)<br>- 05:24 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:33 Mazkeret Batya (Platform 1)<br>- 05:42 Ramla (Platform 1)<br>- 
+ 05:47 Lod (Platform 6)<br>- 06:03 Tel Aviv-HaHagana (Platform 1)<br>- 06:0
+ 8 Tel Aviv-HaShalom (Platform 1)<br>- 06:13 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:18 Tel Aviv-University (Platform 1)<br>- 06:26 Hertsliya (P
+ latform 6)<br>- 07:11 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:18
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:49h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261129T214000
+DTEND;TZID=Asia/Jerusalem:20261129T214000
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:40 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:47 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:12 Kiryat Gat (Platform 2)\n- 22:24 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:33 Mazkeret Batya (Platform 1)\n- 22:42 Ramla (Platfor
+ m 1)\n- 22:47 Lod (Platform 6)\n- 23:03 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:08 Tel Aviv-HaShalom (Platform 1)\n- 23:13 Tel Aviv-Savidor Center (Pla
+ tform 1)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:40 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:47 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:12 Kiryat Gat (Platform
+  2)<br>- 22:24 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:33 Mazkeret Ba
+ tya (Platform 1)<br>- 22:42 Ramla (Platform 1)<br>- 22:47 Lod (Platform 6)
+ <br>- 23:03 Tel Aviv-HaHagana (Platform 1)<br>- 23:08 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:13 Tel Aviv-Savidor Center (Platform 1)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261130T044000
+DTEND;TZID=Asia/Jerusalem:20261130T044000
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:40 Be'er S
+ heva-Center (Platform 0)\n- 04:47 Be'er Sheva-North/University (Platform 2
+ )\n- 04:57 Lehavim-Rahat (Platform 2)\n- 05:12 Kiryat Gat (Platform 2)\n- 
+ 05:24 Kiryat Malakhi – Yoav (Platform 1)\n- 05:33 Mazkeret Batya (Platfo
+ rm 1)\n- 05:42 Ramla (Platform 1)\n- 05:47 Lod (Platform 6)\n- 06:03 Tel A
+ viv-HaHagana (Platform 1)\n- 06:08 Tel Aviv-HaShalom (Platform 1)\n- 06:13
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:18 Tel Aviv-University (Platfo
+ rm 1)\n- 06:26 Hertsliya (Platform 6)\n- 07:11 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:18 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:40 Be'er Sheva-Center (Platform 0)<br>- 04:47 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:57 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 2 Kiryat Gat (Platform 2)<br>- 05:24 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:33 Mazkeret Batya (Platform 1)<br>- 05:42 Ramla (Platform 1)<br>- 
+ 05:47 Lod (Platform 6)<br>- 06:03 Tel Aviv-HaHagana (Platform 1)<br>- 06:0
+ 8 Tel Aviv-HaShalom (Platform 1)<br>- 06:13 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:18 Tel Aviv-University (Platform 1)<br>- 06:26 Hertsliya (P
+ latform 6)<br>- 07:11 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:18
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:49h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261130T214000
+DTEND;TZID=Asia/Jerusalem:20261130T214000
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:40 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:47 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:12 Kiryat Gat (Platform 2)\n- 22:24 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:33 Mazkeret Batya (Platform 1)\n- 22:42 Ramla (Platfor
+ m 1)\n- 22:47 Lod (Platform 6)\n- 23:03 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:08 Tel Aviv-HaShalom (Platform 1)\n- 23:13 Tel Aviv-Savidor Center (Pla
+ tform 1)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:40 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:47 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:12 Kiryat Gat (Platform
+  2)<br>- 22:24 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:33 Mazkeret Ba
+ tya (Platform 1)<br>- 22:42 Ramla (Platform 1)<br>- 22:47 Lod (Platform 6)
+ <br>- 23:03 Tel Aviv-HaHagana (Platform 1)<br>- 23:08 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:13 Tel Aviv-Savidor Center (Platform 1)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261201T044000
+DTEND;TZID=Asia/Jerusalem:20261201T044000
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:40 Be'er S
+ heva-Center (Platform 0)\n- 04:47 Be'er Sheva-North/University (Platform 2
+ )\n- 04:57 Lehavim-Rahat (Platform 2)\n- 05:12 Kiryat Gat (Platform 2)\n- 
+ 05:24 Kiryat Malakhi – Yoav (Platform 1)\n- 05:33 Mazkeret Batya (Platfo
+ rm 1)\n- 05:42 Ramla (Platform 1)\n- 05:47 Lod (Platform 6)\n- 06:03 Tel A
+ viv-HaHagana (Platform 1)\n- 06:08 Tel Aviv-HaShalom (Platform 1)\n- 06:13
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:18 Tel Aviv-University (Platfo
+ rm 1)\n- 06:26 Hertsliya (Platform 6)\n- 07:11 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:18 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:40 Be'er Sheva-Center (Platform 0)<br>- 04:47 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:57 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 2 Kiryat Gat (Platform 2)<br>- 05:24 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:33 Mazkeret Batya (Platform 1)<br>- 05:42 Ramla (Platform 1)<br>- 
+ 05:47 Lod (Platform 6)<br>- 06:03 Tel Aviv-HaHagana (Platform 1)<br>- 06:0
+ 8 Tel Aviv-HaShalom (Platform 1)<br>- 06:13 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:18 Tel Aviv-University (Platform 1)<br>- 06:26 Hertsliya (P
+ latform 6)<br>- 07:11 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:18
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:49h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261201T214000
+DTEND;TZID=Asia/Jerusalem:20261201T214000
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:40 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:47 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:12 Kiryat Gat (Platform 2)\n- 22:24 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:33 Mazkeret Batya (Platform 1)\n- 22:42 Ramla (Platfor
+ m 1)\n- 22:47 Lod (Platform 6)\n- 23:03 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:08 Tel Aviv-HaShalom (Platform 1)\n- 23:13 Tel Aviv-Savidor Center (Pla
+ tform 1)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:40 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:47 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:12 Kiryat Gat (Platform
+  2)<br>- 22:24 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:33 Mazkeret Ba
+ tya (Platform 1)<br>- 22:42 Ramla (Platform 1)<br>- 22:47 Lod (Platform 6)
+ <br>- 23:03 Tel Aviv-HaHagana (Platform 1)<br>- 23:08 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:13 Tel Aviv-Savidor Center (Platform 1)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261202T044000
+DTEND;TZID=Asia/Jerusalem:20261202T044000
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:40 Be'er S
+ heva-Center (Platform 0)\n- 04:47 Be'er Sheva-North/University (Platform 2
+ )\n- 04:57 Lehavim-Rahat (Platform 2)\n- 05:12 Kiryat Gat (Platform 2)\n- 
+ 05:24 Kiryat Malakhi – Yoav (Platform 1)\n- 05:33 Mazkeret Batya (Platfo
+ rm 1)\n- 05:42 Ramla (Platform 1)\n- 05:47 Lod (Platform 6)\n- 06:03 Tel A
+ viv-HaHagana (Platform 1)\n- 06:08 Tel Aviv-HaShalom (Platform 1)\n- 06:13
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:18 Tel Aviv-University (Platfo
+ rm 1)\n- 06:26 Hertsliya (Platform 6)\n- 07:11 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:18 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:40 Be'er Sheva-Center (Platform 0)<br>- 04:47 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:57 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 2 Kiryat Gat (Platform 2)<br>- 05:24 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:33 Mazkeret Batya (Platform 1)<br>- 05:42 Ramla (Platform 1)<br>- 
+ 05:47 Lod (Platform 6)<br>- 06:03 Tel Aviv-HaHagana (Platform 1)<br>- 06:0
+ 8 Tel Aviv-HaShalom (Platform 1)<br>- 06:13 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:18 Tel Aviv-University (Platform 1)<br>- 06:26 Hertsliya (P
+ latform 6)<br>- 07:11 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:18
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:49h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261202T214000
+DTEND;TZID=Asia/Jerusalem:20261202T214000
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:40 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:47 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:12 Kiryat Gat (Platform 2)\n- 22:24 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:33 Mazkeret Batya (Platform 1)\n- 22:42 Ramla (Platfor
+ m 1)\n- 22:47 Lod (Platform 6)\n- 23:03 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:08 Tel Aviv-HaShalom (Platform 1)\n- 23:13 Tel Aviv-Savidor Center (Pla
+ tform 1)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:40 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:47 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:12 Kiryat Gat (Platform
+  2)<br>- 22:24 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:33 Mazkeret Ba
+ tya (Platform 1)<br>- 22:42 Ramla (Platform 1)<br>- 22:47 Lod (Platform 6)
+ <br>- 23:03 Tel Aviv-HaHagana (Platform 1)<br>- 23:08 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:13 Tel Aviv-Savidor Center (Platform 1)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261203T044000
+DTEND;TZID=Asia/Jerusalem:20261203T044000
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:40 Be'er S
+ heva-Center (Platform 0)\n- 04:47 Be'er Sheva-North/University (Platform 2
+ )\n- 04:57 Lehavim-Rahat (Platform 2)\n- 05:12 Kiryat Gat (Platform 2)\n- 
+ 05:24 Kiryat Malakhi – Yoav (Platform 1)\n- 05:33 Mazkeret Batya (Platfo
+ rm 1)\n- 05:42 Ramla (Platform 1)\n- 05:47 Lod (Platform 6)\n- 06:03 Tel A
+ viv-HaHagana (Platform 1)\n- 06:08 Tel Aviv-HaShalom (Platform 1)\n- 06:13
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:18 Tel Aviv-University (Platfo
+ rm 1)\n- 06:26 Hertsliya (Platform 6)\n- 07:11 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:18 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:40 Be'er Sheva-Center (Platform 0)<br>- 04:47 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:57 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 2 Kiryat Gat (Platform 2)<br>- 05:24 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:33 Mazkeret Batya (Platform 1)<br>- 05:42 Ramla (Platform 1)<br>- 
+ 05:47 Lod (Platform 6)<br>- 06:03 Tel Aviv-HaHagana (Platform 1)<br>- 06:0
+ 8 Tel Aviv-HaShalom (Platform 1)<br>- 06:13 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:18 Tel Aviv-University (Platform 1)<br>- 06:26 Hertsliya (P
+ latform 6)<br>- 07:11 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:18
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:49h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261203T214000
+DTEND;TZID=Asia/Jerusalem:20261203T214000
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:40 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:47 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:12 Kiryat Gat (Platform 2)\n- 22:24 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:33 Mazkeret Batya (Platform 1)\n- 22:42 Ramla (Platfor
+ m 1)\n- 22:47 Lod (Platform 6)\n- 23:03 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:08 Tel Aviv-HaShalom (Platform 1)\n- 23:13 Tel Aviv-Savidor Center (Pla
+ tform 1)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:40 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:47 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:12 Kiryat Gat (Platform
+  2)<br>- 22:24 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:33 Mazkeret Ba
+ tya (Platform 1)<br>- 22:42 Ramla (Platform 1)<br>- 22:47 Lod (Platform 6)
+ <br>- 23:03 Tel Aviv-HaHagana (Platform 1)<br>- 23:08 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:13 Tel Aviv-Savidor Center (Platform 1)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:54h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261204T044500
+DTEND;TZID=Asia/Jerusalem:20261204T044500
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 6020:\n- 04:45 Be'er
+  Sheva-Center (Platform 0)\n- 04:53 Be'er Sheva-North/University (Platform
+  2)\n- 05:05 Lehavim-Rahat (Platform 2)\n- 05:22 Kiryat Gat (Platform 2)\n
+ - 05:37 Kiryat Malakhi – Yoav (Platform 1)\n- 05:48 Mazkeret Batya (Plat
+ form 1)\n- 05:58 Ramla (Platform 1)\n- 06:04 Lod (Platform 2)\n- 06:17 Tel
+  Aviv-HaHagana (Platform 1)\n- 06:22 Tel Aviv-HaShalom (Platform 1)\n- 06:
+ 27 Tel Aviv-Savidor Center (Platform 1)\n- 06:32 Tel Aviv-University (Plat
+ form 1)\n- 06:40 Hertsliya (Platform 6)\n- 07:04 Binyamina (Platform 2)\n-
+  07:20 Atlit (Platform 2)\n- 07:30 Haifa-Hof HaKarmel (Razi`el) (Platform 
+ 1)\n- 07:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  6020:<br>- 04:45 Be'er Sheva-Center (Platform 0)<br>- 04:53 Be'er Sheva-N
+ orth/University (Platform 2)<br>- 05:05 Lehavim-Rahat (Platform 2)<br>- 05
+ :22 Kiryat Gat (Platform 2)<br>- 05:37 Kiryat Malakhi – Yoav (Platform 1
+ )<br>- 05:48 Mazkeret Batya (Platform 1)<br>- 05:58 Ramla (Platform 1)<br>
+ - 06:04 Lod (Platform 2)<br>- 06:17 Tel Aviv-HaHagana (Platform 1)<br>- 06
+ :22 Tel Aviv-HaShalom (Platform 1)<br>- 06:27 Tel Aviv-Savidor Center (Pla
+ tform 1)<br>- 06:32 Tel Aviv-University (Platform 1)<br>- 06:40 Hertsliya 
+ (Platform 6)<br>- 07:04 Binyamina (Platform 2)<br>- 07:20 Atlit (Platform 
+ 2)<br>- 07:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:39 Haifa-B
+ at Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:54h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261204T114500
+DTEND;TZID=Asia/Jerusalem:20261204T114500
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 6034:\n- 11:45 Be'er
+  Sheva-Center (Platform 0)\n- 11:53 Be'er Sheva-North/University (Platform
+  2)\n- 12:05 Lehavim-Rahat (Platform 2)\n- 12:22 Kiryat Gat (Platform 2)\n
+ - 12:37 Kiryat Malakhi – Yoav (Platform 1)\n- 12:48 Mazkeret Batya (Plat
+ form 1)\n- 12:58 Ramla (Platform 1)\n- 13:04 Lod (Platform 2)\n- 13:17 Tel
+  Aviv-HaHagana (Platform 1)\n- 13:22 Tel Aviv-HaShalom (Platform 1)\n- 13:
+ 27 Tel Aviv-Savidor Center (Platform 1)\n- 13:32 Tel Aviv-University (Plat
+ form 1)\n- 13:40 Hertsliya (Platform 6)\n- 14:04 Binyamina (Platform 2)\n-
+  14:20 Atlit (Platform 2)\n- 14:30 Haifa-Hof HaKarmel (Razi`el) (Platform 
+ 1)\n- 14:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  6034:<br>- 11:45 Be'er Sheva-Center (Platform 0)<br>- 11:53 Be'er Sheva-N
+ orth/University (Platform 2)<br>- 12:05 Lehavim-Rahat (Platform 2)<br>- 12
+ :22 Kiryat Gat (Platform 2)<br>- 12:37 Kiryat Malakhi – Yoav (Platform 1
+ )<br>- 12:48 Mazkeret Batya (Platform 1)<br>- 12:58 Ramla (Platform 1)<br>
+ - 13:04 Lod (Platform 2)<br>- 13:17 Tel Aviv-HaHagana (Platform 1)<br>- 13
+ :22 Tel Aviv-HaShalom (Platform 1)<br>- 13:27 Tel Aviv-Savidor Center (Pla
+ tform 1)<br>- 13:32 Tel Aviv-University (Platform 1)<br>- 13:40 Hertsliya 
+ (Platform 6)<br>- 14:04 Binyamina (Platform 2)<br>- 14:20 Atlit (Platform 
+ 2)<br>- 14:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 14:39 Haifa-B
+ at Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:35h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261205T193300
+DTEND;TZID=Asia/Jerusalem:20261205T193300
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 7018:\n- 19:33 Be'er
+  Sheva-Center (Platform 0)\n- 19:40 Be'er Sheva-North/University (Platform
+  2)\n- 19:50 Lehavim-Rahat (Platform 2)\n- 20:05 Kiryat Gat (Platform 2)\n
+ - 20:17 Kiryat Malakhi – Yoav (Platform 1)\n- 20:26 Mazkeret Batya (Plat
+ form 1)\n- 20:35 Ramla (Platform 1)\n- 20:40 Lod (Platform 2)\n- 20:53 Tel
+  Aviv-HaHagana (Platform 1)\n- 20:58 Tel Aviv-HaShalom (Platform 1)\n- 21:
+ 03 Tel Aviv-Savidor Center (Platform 2)\n\nTrain 7152:\n- 21:12 Tel Aviv-S
+ avidor Center (Platform 1)\n- 21:15 Tel Aviv-University (Platform 1)\n- 21
+ :40 Binyamina (Platform 2)\n- 21:53 Atlit (Platform 2)\n- 22:01 Haifa-Hof 
+ HaKarmel (Razi`el) (Platform 1)\n- 22:08 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  7018:<br>- 19:33 Be'er Sheva-Center (Platform 0)<br>- 19:40 Be'er Sheva-N
+ orth/University (Platform 2)<br>- 19:50 Lehavim-Rahat (Platform 2)<br>- 20
+ :05 Kiryat Gat (Platform 2)<br>- 20:17 Kiryat Malakhi – Yoav (Platform 1
+ )<br>- 20:26 Mazkeret Batya (Platform 1)<br>- 20:35 Ramla (Platform 1)<br>
+ - 20:40 Lod (Platform 2)<br>- 20:53 Tel Aviv-HaHagana (Platform 1)<br>- 20
+ :58 Tel Aviv-HaShalom (Platform 1)<br>- 21:03 Tel Aviv-Savidor Center (Pla
+ tform 2)<br><br>Train 7152:<br>- 21:12 Tel Aviv-Savidor Center (Platform 1
+ )<br>- 21:15 Tel Aviv-University (Platform 1)<br>- 21:40 Binyamina (Platfo
+ rm 2)<br>- 21:53 Atlit (Platform 2)<br>- 22:01 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)<br>- 22:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:35h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261205T223300
+DTEND;TZID=Asia/Jerusalem:20261205T223300
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 7024:\n- 22:33 Be'er
+  Sheva-Center (Platform 0)\n- 22:40 Be'er Sheva-North/University (Platform
+  2)\n- 22:50 Lehavim-Rahat (Platform 2)\n- 23:05 Kiryat Gat (Platform 2)\n
+ - 23:17 Kiryat Malakhi – Yoav (Platform 1)\n- 23:26 Mazkeret Batya (Plat
+ form 1)\n- 23:35 Ramla (Platform 1)\n- 23:40 Lod (Platform 2)\n- 23:53 Tel
+  Aviv-HaHagana (Platform 1)\n\nTrain 7158:\n- 00:00 Tel Aviv-HaHagana (Pla
+ tform 1)\n- 00:05 Tel Aviv-HaShalom (Platform 1)\n- 00:10 Tel Aviv-Savidor
+  Center (Platform 1)\n- 00:15 Tel Aviv-University (Platform 1)\n- 00:40 Bi
+ nyamina (Platform 2)\n- 00:53 Atlit (Platform 2)\n- 01:01 Haifa-Hof HaKarm
+ el (Razi`el) (Platform 1)\n- 01:08 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  7024:<br>- 22:33 Be'er Sheva-Center (Platform 0)<br>- 22:40 Be'er Sheva-N
+ orth/University (Platform 2)<br>- 22:50 Lehavim-Rahat (Platform 2)<br>- 23
+ :05 Kiryat Gat (Platform 2)<br>- 23:17 Kiryat Malakhi – Yoav (Platform 1
+ )<br>- 23:26 Mazkeret Batya (Platform 1)<br>- 23:35 Ramla (Platform 1)<br>
+ - 23:40 Lod (Platform 2)<br>- 23:53 Tel Aviv-HaHagana (Platform 1)<br><br>
+ Train 7158:<br>- 00:00 Tel Aviv-HaHagana (Platform 1)<br>- 00:05 Tel Aviv-
+ HaShalom (Platform 1)<br>- 00:10 Tel Aviv-Savidor Center (Platform 1)<br>-
+  00:15 Tel Aviv-University (Platform 1)<br>- 00:40 Binyamina (Platform 2)<
+ br>- 00:53 Atlit (Platform 2)<br>- 01:01 Haifa-Hof HaKarmel (Razi`el) (Pla
+ tform 1)<br>- 01:08 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261206T044000
+DTEND;TZID=Asia/Jerusalem:20261206T044000
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:40 Be'er S
+ heva-Center (Platform 0)\n- 04:47 Be'er Sheva-North/University (Platform 2
+ )\n- 04:57 Lehavim-Rahat (Platform 2)\n- 05:12 Kiryat Gat (Platform 2)\n- 
+ 05:24 Kiryat Malakhi – Yoav (Platform 1)\n- 05:33 Mazkeret Batya (Platfo
+ rm 1)\n- 05:42 Ramla (Platform 1)\n- 05:47 Lod (Platform 6)\n- 06:03 Tel A
+ viv-HaHagana (Platform 1)\n- 06:08 Tel Aviv-HaShalom (Platform 1)\n- 06:13
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:18 Tel Aviv-University (Platfo
+ rm 1)\n- 06:26 Hertsliya (Platform 6)\n- 07:11 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:18 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:40 Be'er Sheva-Center (Platform 0)<br>- 04:47 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:57 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 2 Kiryat Gat (Platform 2)<br>- 05:24 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:33 Mazkeret Batya (Platform 1)<br>- 05:42 Ramla (Platform 1)<br>- 
+ 05:47 Lod (Platform 6)<br>- 06:03 Tel Aviv-HaHagana (Platform 1)<br>- 06:0
+ 8 Tel Aviv-HaShalom (Platform 1)<br>- 06:13 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:18 Tel Aviv-University (Platform 1)<br>- 06:26 Hertsliya (P
+ latform 6)<br>- 07:11 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:18
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:49h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261206T214000
+DTEND;TZID=Asia/Jerusalem:20261206T214000
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:40 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:47 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:12 Kiryat Gat (Platform 2)\n- 22:24 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:33 Mazkeret Batya (Platform 1)\n- 22:42 Ramla (Platfor
+ m 1)\n- 22:47 Lod (Platform 6)\n- 23:03 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:08 Tel Aviv-HaShalom (Platform 1)\n- 23:13 Tel Aviv-Savidor Center (Pla
+ tform 1)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:40 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:47 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:12 Kiryat Gat (Platform
+  2)<br>- 22:24 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:33 Mazkeret Ba
+ tya (Platform 1)<br>- 22:42 Ramla (Platform 1)<br>- 22:47 Lod (Platform 6)
+ <br>- 23:03 Tel Aviv-HaHagana (Platform 1)<br>- 23:08 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:13 Tel Aviv-Savidor Center (Platform 1)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[2:38h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261207T044000
+DTEND;TZID=Asia/Jerusalem:20261207T044000
+DESCRIPTION:Last update: 2026-11-07 12:45:17\n\nTrain 20:\n- 04:40 Be'er S
+ heva-Center (Platform 0)\n- 04:47 Be'er Sheva-North/University (Platform 2
+ )\n- 04:57 Lehavim-Rahat (Platform 2)\n- 05:12 Kiryat Gat (Platform 2)\n- 
+ 05:24 Kiryat Malakhi – Yoav (Platform 1)\n- 05:33 Mazkeret Batya (Platfo
+ rm 1)\n- 05:42 Ramla (Platform 1)\n- 05:47 Lod (Platform 6)\n- 06:03 Tel A
+ viv-HaHagana (Platform 1)\n- 06:08 Tel Aviv-HaShalom (Platform 1)\n- 06:13
+  Tel Aviv-Savidor Center (Platform 1)\n- 06:18 Tel Aviv-University (Platfo
+ rm 1)\n- 06:26 Hertsliya (Platform 6)\n- 07:11 Haifa-Hof HaKarmel (Razi`el
+ ) (Platform 1)\n- 07:18 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-07 12:45:17<br><br>Train
+  20:<br>- 04:40 Be'er Sheva-Center (Platform 0)<br>- 04:47 Be'er Sheva-Nor
+ th/University (Platform 2)<br>- 04:57 Lehavim-Rahat (Platform 2)<br>- 05:1
+ 2 Kiryat Gat (Platform 2)<br>- 05:24 Kiryat Malakhi – Yoav (Platform 1)<
+ br>- 05:33 Mazkeret Batya (Platform 1)<br>- 05:42 Ramla (Platform 1)<br>- 
+ 05:47 Lod (Platform 6)<br>- 06:03 Tel Aviv-HaHagana (Platform 1)<br>- 06:0
+ 8 Tel Aviv-HaShalom (Platform 1)<br>- 06:13 Tel Aviv-Savidor Center (Platf
+ orm 1)<br>- 06:18 Tel Aviv-University (Platform 1)<br>- 06:26 Hertsliya (P
+ latform 6)<br>- 07:11 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 07:18
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [2:49h] to Haifa-Bat Galim (from Be'er Sheva-Center)
+DTSTART;TZID=Asia/Jerusalem:20261207T214000
+DTEND;TZID=Asia/Jerusalem:20261207T214000
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-07 12:45:17\n\nTrain 54:\n- 21:40 Be'er Sheva-Center (Platform 0)\n- 2
+ 1:47 Be'er Sheva-North/University (Platform 2)\n- 21:57 Lehavim-Rahat (Pla
+ tform 2)\n- 22:12 Kiryat Gat (Platform 2)\n- 22:24 Kiryat Malakhi – Yoav
+  (Platform 1)\n- 22:33 Mazkeret Batya (Platform 1)\n- 22:42 Ramla (Platfor
+ m 1)\n- 22:47 Lod (Platform 6)\n- 23:03 Tel Aviv-HaHagana (Platform 1)\n- 
+ 23:08 Tel Aviv-HaShalom (Platform 1)\n- 23:13 Tel Aviv-Savidor Center (Pla
+ tform 1)\n\nTrain 186:\n- 23:29 Tel Aviv-Savidor Center (Platform 1)\n- 23
+ :32 Tel Aviv-University (Platform 1)\n- 23:59 Binyamina (Platform 2)\n- 00
+ :13 Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\
+ n- 00:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-07 12:45:17<br><br>Train 54:<br>- 21:40 Be'er 
+ Sheva-Center (Platform 0)<br>- 21:47 Be'er Sheva-North/University (Platfor
+ m 2)<br>- 21:57 Lehavim-Rahat (Platform 2)<br>- 22:12 Kiryat Gat (Platform
+  2)<br>- 22:24 Kiryat Malakhi – Yoav (Platform 1)<br>- 22:33 Mazkeret Ba
+ tya (Platform 1)<br>- 22:42 Ramla (Platform 1)<br>- 22:47 Lod (Platform 6)
+ <br>- 23:03 Tel Aviv-HaHagana (Platform 1)<br>- 23:08 Tel Aviv-HaShalom (P
+ latform 1)<br>- 23:13 Tel Aviv-Savidor Center (Platform 1)<br><br>Train 18
+ 6:<br>- 23:29 Tel Aviv-Savidor Center (Platform 1)<br>- 23:32 Tel Aviv-Uni
+ versity (Platform 1)<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (P
+ latform 2)<br>- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29
+  Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+END:VCALENDAR
