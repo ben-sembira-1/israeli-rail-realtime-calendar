@@ -1,0 +1,719 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Israel Railways Calendar Generator (First/Last)//
+X-WR-CALNAME:Be'er Sheva-North/University to Be'er Sheva-Center (First & L
+ ast Trains)
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261114T205000
+DTEND;TZID=Asia/Jerusalem:20261114T205000
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7015:\n- 20:50 Be'er
+  Sheva-North/University (Platform 3)\n- 20:59 Be'er Sheva-Center (Platform
+  5)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7015:<br>- 20:50 Be'er Sheva-North/University (Platform 3)<br>- 20:59 Be'
+ er Sheva-Center (Platform 5)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261115T000000
+DTEND;TZID=Asia/Jerusalem:20261115T000000
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7615:\n- 00:00 Be'er
+  Sheva-North/University (Platform 3)\n- 00:09 Be'er Sheva-Center (Platform
+  3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7615:<br>- 00:00 Be'er Sheva-North/University (Platform 3)<br>- 00:09 Be'
+ er Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261115T000000
+DTEND;TZID=Asia/Jerusalem:20261115T000000
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7615:\n- 00:00 Be'er
+  Sheva-North/University (Platform 3)\n- 00:09 Be'er Sheva-Center (Platform
+  3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7615:<br>- 00:00 Be'er Sheva-North/University (Platform 3)<br>- 00:09 Be'
+ er Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261115T234400
+DTEND;TZID=Asia/Jerusalem:20261115T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261116T001900
+DTEND;TZID=Asia/Jerusalem:20261116T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261116T234400
+DTEND;TZID=Asia/Jerusalem:20261116T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261117T001900
+DTEND;TZID=Asia/Jerusalem:20261117T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261117T234400
+DTEND;TZID=Asia/Jerusalem:20261117T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261118T001900
+DTEND;TZID=Asia/Jerusalem:20261118T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261118T234400
+DTEND;TZID=Asia/Jerusalem:20261118T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261119T001900
+DTEND;TZID=Asia/Jerusalem:20261119T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261119T234400
+DTEND;TZID=Asia/Jerusalem:20261119T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261120T001900
+DTEND;TZID=Asia/Jerusalem:20261120T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261120T144500
+DTEND;TZID=Asia/Jerusalem:20261120T144500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6035:\n- 14:45 Be'er
+  Sheva-North/University (Platform 3)\n- 14:54 Be'er Sheva-Center (Platform
+  3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6035:<br>- 14:45 Be'er Sheva-North/University (Platform 3)<br>- 14:54 Be'
+ er Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261121T205000
+DTEND;TZID=Asia/Jerusalem:20261121T205000
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7015:\n- 20:50 Be'er
+  Sheva-North/University (Platform 3)\n- 20:59 Be'er Sheva-Center (Platform
+  5)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7015:<br>- 20:50 Be'er Sheva-North/University (Platform 3)<br>- 20:59 Be'
+ er Sheva-Center (Platform 5)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261122T000000
+DTEND;TZID=Asia/Jerusalem:20261122T000000
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7615:\n- 00:00 Be'er
+  Sheva-North/University (Platform 3)\n- 00:09 Be'er Sheva-Center (Platform
+  3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7615:<br>- 00:00 Be'er Sheva-North/University (Platform 3)<br>- 00:09 Be'
+ er Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261122T000000
+DTEND;TZID=Asia/Jerusalem:20261122T000000
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7615:\n- 00:00 Be'er
+  Sheva-North/University (Platform 3)\n- 00:09 Be'er Sheva-Center (Platform
+  3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7615:<br>- 00:00 Be'er Sheva-North/University (Platform 3)<br>- 00:09 Be'
+ er Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261122T234400
+DTEND;TZID=Asia/Jerusalem:20261122T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261123T001900
+DTEND;TZID=Asia/Jerusalem:20261123T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261123T234400
+DTEND;TZID=Asia/Jerusalem:20261123T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261124T001900
+DTEND;TZID=Asia/Jerusalem:20261124T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261124T234400
+DTEND;TZID=Asia/Jerusalem:20261124T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261125T001900
+DTEND;TZID=Asia/Jerusalem:20261125T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261125T234400
+DTEND;TZID=Asia/Jerusalem:20261125T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261126T001900
+DTEND;TZID=Asia/Jerusalem:20261126T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261126T234400
+DTEND;TZID=Asia/Jerusalem:20261126T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261127T001900
+DTEND;TZID=Asia/Jerusalem:20261127T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261127T144500
+DTEND;TZID=Asia/Jerusalem:20261127T144500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6035:\n- 14:45 Be'er
+  Sheva-North/University (Platform 3)\n- 14:54 Be'er Sheva-Center (Platform
+  3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6035:<br>- 14:45 Be'er Sheva-North/University (Platform 3)<br>- 14:54 Be'
+ er Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261128T205000
+DTEND;TZID=Asia/Jerusalem:20261128T205000
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7015:\n- 20:50 Be'er
+  Sheva-North/University (Platform 3)\n- 20:59 Be'er Sheva-Center (Platform
+  5)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7015:<br>- 20:50 Be'er Sheva-North/University (Platform 3)<br>- 20:59 Be'
+ er Sheva-Center (Platform 5)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261129T000000
+DTEND;TZID=Asia/Jerusalem:20261129T000000
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7615:\n- 00:00 Be'er
+  Sheva-North/University (Platform 3)\n- 00:09 Be'er Sheva-Center (Platform
+  3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7615:<br>- 00:00 Be'er Sheva-North/University (Platform 3)<br>- 00:09 Be'
+ er Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261129T000000
+DTEND;TZID=Asia/Jerusalem:20261129T000000
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7615:\n- 00:00 Be'er
+  Sheva-North/University (Platform 3)\n- 00:09 Be'er Sheva-Center (Platform
+  3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7615:<br>- 00:00 Be'er Sheva-North/University (Platform 3)<br>- 00:09 Be'
+ er Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261129T234400
+DTEND;TZID=Asia/Jerusalem:20261129T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261130T001900
+DTEND;TZID=Asia/Jerusalem:20261130T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261130T234400
+DTEND;TZID=Asia/Jerusalem:20261130T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261201T001900
+DTEND;TZID=Asia/Jerusalem:20261201T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261201T234400
+DTEND;TZID=Asia/Jerusalem:20261201T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261202T001900
+DTEND;TZID=Asia/Jerusalem:20261202T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261202T234400
+DTEND;TZID=Asia/Jerusalem:20261202T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261203T001900
+DTEND;TZID=Asia/Jerusalem:20261203T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261203T234400
+DTEND;TZID=Asia/Jerusalem:20261203T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261204T001900
+DTEND;TZID=Asia/Jerusalem:20261204T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261204T144500
+DTEND;TZID=Asia/Jerusalem:20261204T144500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6035:\n- 14:45 Be'er
+  Sheva-North/University (Platform 3)\n- 14:54 Be'er Sheva-Center (Platform
+  3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6035:<br>- 14:45 Be'er Sheva-North/University (Platform 3)<br>- 14:54 Be'
+ er Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261205T205000
+DTEND;TZID=Asia/Jerusalem:20261205T205000
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7015:\n- 20:50 Be'er
+  Sheva-North/University (Platform 3)\n- 20:59 Be'er Sheva-Center (Platform
+  5)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7015:<br>- 20:50 Be'er Sheva-North/University (Platform 3)<br>- 20:59 Be'
+ er Sheva-Center (Platform 5)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261206T000000
+DTEND;TZID=Asia/Jerusalem:20261206T000000
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7615:\n- 00:00 Be'er
+  Sheva-North/University (Platform 3)\n- 00:09 Be'er Sheva-Center (Platform
+  3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7615:<br>- 00:00 Be'er Sheva-North/University (Platform 3)<br>- 00:09 Be'
+ er Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261206T000000
+DTEND;TZID=Asia/Jerusalem:20261206T000000
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7615:\n- 00:00 Be'er
+  Sheva-North/University (Platform 3)\n- 00:09 Be'er Sheva-Center (Platform
+  3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7615:<br>- 00:00 Be'er Sheva-North/University (Platform 3)<br>- 00:09 Be'
+ er Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261206T234400
+DTEND;TZID=Asia/Jerusalem:20261206T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261207T001900
+DTEND;TZID=Asia/Jerusalem:20261207T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261207T234400
+DTEND;TZID=Asia/Jerusalem:20261207T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261208T001900
+DTEND;TZID=Asia/Jerusalem:20261208T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261208T234400
+DTEND;TZID=Asia/Jerusalem:20261208T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261209T001900
+DTEND;TZID=Asia/Jerusalem:20261209T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261209T234400
+DTEND;TZID=Asia/Jerusalem:20261209T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261210T001900
+DTEND;TZID=Asia/Jerusalem:20261210T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261210T234400
+DTEND;TZID=Asia/Jerusalem:20261210T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261211T001900
+DTEND;TZID=Asia/Jerusalem:20261211T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261211T144500
+DTEND;TZID=Asia/Jerusalem:20261211T144500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6035:\n- 14:45 Be'er
+  Sheva-North/University (Platform 3)\n- 14:54 Be'er Sheva-Center (Platform
+  3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6035:<br>- 14:45 Be'er Sheva-North/University (Platform 3)<br>- 14:54 Be'
+ er Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261212T205000
+DTEND;TZID=Asia/Jerusalem:20261212T205000
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7015:\n- 20:50 Be'er
+  Sheva-North/University (Platform 3)\n- 20:59 Be'er Sheva-Center (Platform
+  5)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7015:<br>- 20:50 Be'er Sheva-North/University (Platform 3)<br>- 20:59 Be'
+ er Sheva-Center (Platform 5)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261213T000000
+DTEND;TZID=Asia/Jerusalem:20261213T000000
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7615:\n- 00:00 Be'er
+  Sheva-North/University (Platform 3)\n- 00:09 Be'er Sheva-Center (Platform
+  3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7615:<br>- 00:00 Be'er Sheva-North/University (Platform 3)<br>- 00:09 Be'
+ er Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261213T000000
+DTEND;TZID=Asia/Jerusalem:20261213T000000
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7615:\n- 00:00 Be'er
+  Sheva-North/University (Platform 3)\n- 00:09 Be'er Sheva-Center (Platform
+  3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7615:<br>- 00:00 Be'er Sheva-North/University (Platform 3)<br>- 00:09 Be'
+ er Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261213T234400
+DTEND;TZID=Asia/Jerusalem:20261213T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/University)
+DTSTART;TZID=Asia/Jerusalem:20261214T001900
+DTEND;TZID=Asia/Jerusalem:20261214T001900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 679:\n- 00:19 Be'er 
+ Sheva-North/University (Platform 3)\n- 00:28 Be'er Sheva-Center (Platform 
+ 3)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  679:<br>- 00:19 Be'er Sheva-North/University (Platform 3)<br>- 00:28 Be'e
+ r Sheva-Center (Platform 3)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:09h] to Be'er Sheva-Center (from Be'er Sheva-North/
+ University)
+DTSTART;TZID=Asia/Jerusalem:20261214T234400
+DTEND;TZID=Asia/Jerusalem:20261214T234400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 51:\n- 23:44 Be'er S
+ heva-North/University (Platform 3)\n- 23:53 Be'er Sheva-Center (Platform 4
+ )
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  51:<br>- 23:44 Be'er Sheva-North/University (Platform 3)<br>- 23:53 Be'er
+  Sheva-Center (Platform 4)<br><br>
+END:VEVENT
+END:VCALENDAR

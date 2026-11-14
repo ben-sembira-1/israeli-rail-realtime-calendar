@@ -1,0 +1,1253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Israel Railways Calendar Generator (First/Last)//
+X-WR-CALNAME:Bet Yehoshu'a to Haifa-Bat Galim (First & Last Trains)
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261114T200400
+DTEND;TZID=Asia/Jerusalem:20261114T200400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7216:\n- 20:04 Bet Y
+ ehoshu'a (Platform 2)\n- 20:09 Netanya (Platform 1)\n- 20:17 Hadera-West (
+ Platform 2)\n- 20:23 Caesarea-Pardes Hana (Platform 1)\n- 20:28 Binyamina 
+ (Platform 3)\n\nTrain 7150:\n- 20:40 Binyamina (Platform 2)\n- 20:53 Atlit
+  (Platform 2)\n- 21:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 21:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7216:<br>- 20:04 Bet Yehoshu'a (Platform 2)<br>- 20:09 Netanya (Platform 
+ 1)<br>- 20:17 Hadera-West (Platform 2)<br>- 20:23 Caesarea-Pardes Hana (Pl
+ atform 1)<br>- 20:28 Binyamina (Platform 3)<br><br>Train 7150:<br>- 20:40 
+ Binyamina (Platform 2)<br>- 20:53 Atlit (Platform 2)<br>- 21:01 Haifa-Hof 
+ HaKarmel (Razi`el) (Platform 1)<br>- 21:08 Haifa-Bat Galim (Platform 1)<br
+ ><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261114T230400
+DTEND;TZID=Asia/Jerusalem:20261114T230400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7222:\n- 23:04 Bet Y
+ ehoshu'a (Platform 2)\n- 23:09 Netanya (Platform 1)\n- 23:17 Hadera-West (
+ Platform 2)\n- 23:23 Caesarea-Pardes Hana (Platform 1)\n- 23:28 Binyamina 
+ (Platform 3)\n\nTrain 7156:\n- 23:40 Binyamina (Platform 2)\n- 23:53 Atlit
+  (Platform 2)\n- 00:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 00:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7222:<br>- 23:04 Bet Yehoshu'a (Platform 2)<br>- 23:09 Netanya (Platform 
+ 1)<br>- 23:17 Hadera-West (Platform 2)<br>- 23:23 Caesarea-Pardes Hana (Pl
+ atform 1)<br>- 23:28 Binyamina (Platform 3)<br><br>Train 7156:<br>- 23:40 
+ Binyamina (Platform 2)<br>- 23:53 Atlit (Platform 2)<br>- 00:01 Haifa-Hof 
+ HaKarmel (Razi`el) (Platform 1)<br>- 00:08 Haifa-Bat Galim (Platform 1)<br
+ ><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261115T055200
+DTEND;TZID=Asia/Jerusalem:20261115T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261115T232100
+DTEND;TZID=Asia/Jerusalem:20261115T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261116T055200
+DTEND;TZID=Asia/Jerusalem:20261116T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261116T232100
+DTEND;TZID=Asia/Jerusalem:20261116T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261117T055200
+DTEND;TZID=Asia/Jerusalem:20261117T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261117T232100
+DTEND;TZID=Asia/Jerusalem:20261117T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261118T055200
+DTEND;TZID=Asia/Jerusalem:20261118T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261118T232100
+DTEND;TZID=Asia/Jerusalem:20261118T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261119T055200
+DTEND;TZID=Asia/Jerusalem:20261119T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261119T232100
+DTEND;TZID=Asia/Jerusalem:20261119T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:10h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261120T052900
+DTEND;TZID=Asia/Jerusalem:20261120T052900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6220:\n- 05:29 Bet Y
+ ehoshu'a (Platform 2)\n- 05:33 Netanya-Sapir (Platform 2)\n- 05:38 Netanya
+  (Platform 1)\n- 05:48 Hadera-West (Platform 2)\n- 05:55 Caesarea-Pardes H
+ ana (Platform 1)\n- 06:00 Binyamina (Platform 3)\n\nTrain 6012:\n- 06:04 B
+ inyamina (Platform 2)\n- 06:20 Atlit (Platform 2)\n- 06:30 Haifa-Hof HaKar
+ mel (Razi`el) (Platform 1)\n- 06:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6220:<br>- 05:29 Bet Yehoshu'a (Platform 2)<br>- 05:33 Netanya-Sapir (Pla
+ tform 2)<br>- 05:38 Netanya (Platform 1)<br>- 05:48 Hadera-West (Platform 
+ 2)<br>- 05:55 Caesarea-Pardes Hana (Platform 1)<br>- 06:00 Binyamina (Plat
+ form 3)<br><br>Train 6012:<br>- 06:04 Binyamina (Platform 2)<br>- 06:20 At
+ lit (Platform 2)<br>- 06:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>-
+  06:39 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:10h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261120T132900
+DTEND;TZID=Asia/Jerusalem:20261120T132900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6236:\n- 13:29 Bet Y
+ ehoshu'a (Platform 2)\n- 13:33 Netanya-Sapir (Platform 2)\n- 13:38 Netanya
+  (Platform 1)\n- 13:48 Hadera-West (Platform 2)\n- 13:55 Caesarea-Pardes H
+ ana (Platform 1)\n- 14:00 Binyamina (Platform 3)\n\nTrain 6034:\n- 14:04 B
+ inyamina (Platform 2)\n- 14:20 Atlit (Platform 2)\n- 14:30 Haifa-Hof HaKar
+ mel (Razi`el) (Platform 1)\n- 14:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6236:<br>- 13:29 Bet Yehoshu'a (Platform 2)<br>- 13:33 Netanya-Sapir (Pla
+ tform 2)<br>- 13:38 Netanya (Platform 1)<br>- 13:48 Hadera-West (Platform 
+ 2)<br>- 13:55 Caesarea-Pardes Hana (Platform 1)<br>- 14:00 Binyamina (Plat
+ form 3)<br><br>Train 6034:<br>- 14:04 Binyamina (Platform 2)<br>- 14:20 At
+ lit (Platform 2)<br>- 14:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>-
+  14:39 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261121T200400
+DTEND;TZID=Asia/Jerusalem:20261121T200400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7216:\n- 20:04 Bet Y
+ ehoshu'a (Platform 2)\n- 20:09 Netanya (Platform 1)\n- 20:17 Hadera-West (
+ Platform 2)\n- 20:23 Caesarea-Pardes Hana (Platform 1)\n- 20:28 Binyamina 
+ (Platform 3)\n\nTrain 7150:\n- 20:40 Binyamina (Platform 2)\n- 20:53 Atlit
+  (Platform 2)\n- 21:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 21:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7216:<br>- 20:04 Bet Yehoshu'a (Platform 2)<br>- 20:09 Netanya (Platform 
+ 1)<br>- 20:17 Hadera-West (Platform 2)<br>- 20:23 Caesarea-Pardes Hana (Pl
+ atform 1)<br>- 20:28 Binyamina (Platform 3)<br><br>Train 7150:<br>- 20:40 
+ Binyamina (Platform 2)<br>- 20:53 Atlit (Platform 2)<br>- 21:01 Haifa-Hof 
+ HaKarmel (Razi`el) (Platform 1)<br>- 21:08 Haifa-Bat Galim (Platform 1)<br
+ ><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261121T230400
+DTEND;TZID=Asia/Jerusalem:20261121T230400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7222:\n- 23:04 Bet Y
+ ehoshu'a (Platform 2)\n- 23:09 Netanya (Platform 1)\n- 23:17 Hadera-West (
+ Platform 2)\n- 23:23 Caesarea-Pardes Hana (Platform 1)\n- 23:28 Binyamina 
+ (Platform 3)\n\nTrain 7156:\n- 23:40 Binyamina (Platform 2)\n- 23:53 Atlit
+  (Platform 2)\n- 00:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 00:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7222:<br>- 23:04 Bet Yehoshu'a (Platform 2)<br>- 23:09 Netanya (Platform 
+ 1)<br>- 23:17 Hadera-West (Platform 2)<br>- 23:23 Caesarea-Pardes Hana (Pl
+ atform 1)<br>- 23:28 Binyamina (Platform 3)<br><br>Train 7156:<br>- 23:40 
+ Binyamina (Platform 2)<br>- 23:53 Atlit (Platform 2)<br>- 00:01 Haifa-Hof 
+ HaKarmel (Razi`el) (Platform 1)<br>- 00:08 Haifa-Bat Galim (Platform 1)<br
+ ><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261122T055200
+DTEND;TZID=Asia/Jerusalem:20261122T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261122T232100
+DTEND;TZID=Asia/Jerusalem:20261122T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261123T055200
+DTEND;TZID=Asia/Jerusalem:20261123T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261123T232100
+DTEND;TZID=Asia/Jerusalem:20261123T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261124T055200
+DTEND;TZID=Asia/Jerusalem:20261124T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261124T232100
+DTEND;TZID=Asia/Jerusalem:20261124T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261125T055200
+DTEND;TZID=Asia/Jerusalem:20261125T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261125T232100
+DTEND;TZID=Asia/Jerusalem:20261125T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261126T055200
+DTEND;TZID=Asia/Jerusalem:20261126T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261126T232100
+DTEND;TZID=Asia/Jerusalem:20261126T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:10h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261127T052900
+DTEND;TZID=Asia/Jerusalem:20261127T052900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6220:\n- 05:29 Bet Y
+ ehoshu'a (Platform 2)\n- 05:33 Netanya-Sapir (Platform 2)\n- 05:38 Netanya
+  (Platform 1)\n- 05:48 Hadera-West (Platform 2)\n- 05:55 Caesarea-Pardes H
+ ana (Platform 1)\n- 06:00 Binyamina (Platform 3)\n\nTrain 6012:\n- 06:04 B
+ inyamina (Platform 2)\n- 06:20 Atlit (Platform 2)\n- 06:30 Haifa-Hof HaKar
+ mel (Razi`el) (Platform 1)\n- 06:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6220:<br>- 05:29 Bet Yehoshu'a (Platform 2)<br>- 05:33 Netanya-Sapir (Pla
+ tform 2)<br>- 05:38 Netanya (Platform 1)<br>- 05:48 Hadera-West (Platform 
+ 2)<br>- 05:55 Caesarea-Pardes Hana (Platform 1)<br>- 06:00 Binyamina (Plat
+ form 3)<br><br>Train 6012:<br>- 06:04 Binyamina (Platform 2)<br>- 06:20 At
+ lit (Platform 2)<br>- 06:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>-
+  06:39 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:10h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261127T132900
+DTEND;TZID=Asia/Jerusalem:20261127T132900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6236:\n- 13:29 Bet Y
+ ehoshu'a (Platform 2)\n- 13:33 Netanya-Sapir (Platform 2)\n- 13:38 Netanya
+  (Platform 1)\n- 13:48 Hadera-West (Platform 2)\n- 13:55 Caesarea-Pardes H
+ ana (Platform 1)\n- 14:00 Binyamina (Platform 3)\n\nTrain 6034:\n- 14:04 B
+ inyamina (Platform 2)\n- 14:20 Atlit (Platform 2)\n- 14:30 Haifa-Hof HaKar
+ mel (Razi`el) (Platform 1)\n- 14:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6236:<br>- 13:29 Bet Yehoshu'a (Platform 2)<br>- 13:33 Netanya-Sapir (Pla
+ tform 2)<br>- 13:38 Netanya (Platform 1)<br>- 13:48 Hadera-West (Platform 
+ 2)<br>- 13:55 Caesarea-Pardes Hana (Platform 1)<br>- 14:00 Binyamina (Plat
+ form 3)<br><br>Train 6034:<br>- 14:04 Binyamina (Platform 2)<br>- 14:20 At
+ lit (Platform 2)<br>- 14:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>-
+  14:39 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261128T200400
+DTEND;TZID=Asia/Jerusalem:20261128T200400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7216:\n- 20:04 Bet Y
+ ehoshu'a (Platform 2)\n- 20:09 Netanya (Platform 1)\n- 20:17 Hadera-West (
+ Platform 2)\n- 20:23 Caesarea-Pardes Hana (Platform 1)\n- 20:28 Binyamina 
+ (Platform 3)\n\nTrain 7150:\n- 20:40 Binyamina (Platform 2)\n- 20:53 Atlit
+  (Platform 2)\n- 21:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 21:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7216:<br>- 20:04 Bet Yehoshu'a (Platform 2)<br>- 20:09 Netanya (Platform 
+ 1)<br>- 20:17 Hadera-West (Platform 2)<br>- 20:23 Caesarea-Pardes Hana (Pl
+ atform 1)<br>- 20:28 Binyamina (Platform 3)<br><br>Train 7150:<br>- 20:40 
+ Binyamina (Platform 2)<br>- 20:53 Atlit (Platform 2)<br>- 21:01 Haifa-Hof 
+ HaKarmel (Razi`el) (Platform 1)<br>- 21:08 Haifa-Bat Galim (Platform 1)<br
+ ><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261128T230400
+DTEND;TZID=Asia/Jerusalem:20261128T230400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7222:\n- 23:04 Bet Y
+ ehoshu'a (Platform 2)\n- 23:09 Netanya (Platform 1)\n- 23:17 Hadera-West (
+ Platform 2)\n- 23:23 Caesarea-Pardes Hana (Platform 1)\n- 23:28 Binyamina 
+ (Platform 3)\n\nTrain 7156:\n- 23:40 Binyamina (Platform 2)\n- 23:53 Atlit
+  (Platform 2)\n- 00:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 00:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7222:<br>- 23:04 Bet Yehoshu'a (Platform 2)<br>- 23:09 Netanya (Platform 
+ 1)<br>- 23:17 Hadera-West (Platform 2)<br>- 23:23 Caesarea-Pardes Hana (Pl
+ atform 1)<br>- 23:28 Binyamina (Platform 3)<br><br>Train 7156:<br>- 23:40 
+ Binyamina (Platform 2)<br>- 23:53 Atlit (Platform 2)<br>- 00:01 Haifa-Hof 
+ HaKarmel (Razi`el) (Platform 1)<br>- 00:08 Haifa-Bat Galim (Platform 1)<br
+ ><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261129T055200
+DTEND;TZID=Asia/Jerusalem:20261129T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261129T232100
+DTEND;TZID=Asia/Jerusalem:20261129T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261130T055200
+DTEND;TZID=Asia/Jerusalem:20261130T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261130T232100
+DTEND;TZID=Asia/Jerusalem:20261130T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261201T055200
+DTEND;TZID=Asia/Jerusalem:20261201T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261201T232100
+DTEND;TZID=Asia/Jerusalem:20261201T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261202T055200
+DTEND;TZID=Asia/Jerusalem:20261202T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261202T232100
+DTEND;TZID=Asia/Jerusalem:20261202T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261203T055200
+DTEND;TZID=Asia/Jerusalem:20261203T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261203T232100
+DTEND;TZID=Asia/Jerusalem:20261203T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:10h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261204T052900
+DTEND;TZID=Asia/Jerusalem:20261204T052900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6220:\n- 05:29 Bet Y
+ ehoshu'a (Platform 2)\n- 05:33 Netanya-Sapir (Platform 2)\n- 05:38 Netanya
+  (Platform 1)\n- 05:48 Hadera-West (Platform 2)\n- 05:55 Caesarea-Pardes H
+ ana (Platform 1)\n- 06:00 Binyamina (Platform 3)\n\nTrain 6012:\n- 06:04 B
+ inyamina (Platform 2)\n- 06:20 Atlit (Platform 2)\n- 06:30 Haifa-Hof HaKar
+ mel (Razi`el) (Platform 1)\n- 06:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6220:<br>- 05:29 Bet Yehoshu'a (Platform 2)<br>- 05:33 Netanya-Sapir (Pla
+ tform 2)<br>- 05:38 Netanya (Platform 1)<br>- 05:48 Hadera-West (Platform 
+ 2)<br>- 05:55 Caesarea-Pardes Hana (Platform 1)<br>- 06:00 Binyamina (Plat
+ form 3)<br><br>Train 6012:<br>- 06:04 Binyamina (Platform 2)<br>- 06:20 At
+ lit (Platform 2)<br>- 06:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>-
+  06:39 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:10h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261204T132900
+DTEND;TZID=Asia/Jerusalem:20261204T132900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6236:\n- 13:29 Bet Y
+ ehoshu'a (Platform 2)\n- 13:33 Netanya-Sapir (Platform 2)\n- 13:38 Netanya
+  (Platform 1)\n- 13:48 Hadera-West (Platform 2)\n- 13:55 Caesarea-Pardes H
+ ana (Platform 1)\n- 14:00 Binyamina (Platform 3)\n\nTrain 6034:\n- 14:04 B
+ inyamina (Platform 2)\n- 14:20 Atlit (Platform 2)\n- 14:30 Haifa-Hof HaKar
+ mel (Razi`el) (Platform 1)\n- 14:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6236:<br>- 13:29 Bet Yehoshu'a (Platform 2)<br>- 13:33 Netanya-Sapir (Pla
+ tform 2)<br>- 13:38 Netanya (Platform 1)<br>- 13:48 Hadera-West (Platform 
+ 2)<br>- 13:55 Caesarea-Pardes Hana (Platform 1)<br>- 14:00 Binyamina (Plat
+ form 3)<br><br>Train 6034:<br>- 14:04 Binyamina (Platform 2)<br>- 14:20 At
+ lit (Platform 2)<br>- 14:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>-
+  14:39 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261205T200400
+DTEND;TZID=Asia/Jerusalem:20261205T200400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7216:\n- 20:04 Bet Y
+ ehoshu'a (Platform 2)\n- 20:09 Netanya (Platform 1)\n- 20:17 Hadera-West (
+ Platform 2)\n- 20:23 Caesarea-Pardes Hana (Platform 1)\n- 20:28 Binyamina 
+ (Platform 3)\n\nTrain 7150:\n- 20:40 Binyamina (Platform 2)\n- 20:53 Atlit
+  (Platform 2)\n- 21:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 21:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7216:<br>- 20:04 Bet Yehoshu'a (Platform 2)<br>- 20:09 Netanya (Platform 
+ 1)<br>- 20:17 Hadera-West (Platform 2)<br>- 20:23 Caesarea-Pardes Hana (Pl
+ atform 1)<br>- 20:28 Binyamina (Platform 3)<br><br>Train 7150:<br>- 20:40 
+ Binyamina (Platform 2)<br>- 20:53 Atlit (Platform 2)<br>- 21:01 Haifa-Hof 
+ HaKarmel (Razi`el) (Platform 1)<br>- 21:08 Haifa-Bat Galim (Platform 1)<br
+ ><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261205T230400
+DTEND;TZID=Asia/Jerusalem:20261205T230400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7222:\n- 23:04 Bet Y
+ ehoshu'a (Platform 2)\n- 23:09 Netanya (Platform 1)\n- 23:17 Hadera-West (
+ Platform 2)\n- 23:23 Caesarea-Pardes Hana (Platform 1)\n- 23:28 Binyamina 
+ (Platform 3)\n\nTrain 7156:\n- 23:40 Binyamina (Platform 2)\n- 23:53 Atlit
+  (Platform 2)\n- 00:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 00:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7222:<br>- 23:04 Bet Yehoshu'a (Platform 2)<br>- 23:09 Netanya (Platform 
+ 1)<br>- 23:17 Hadera-West (Platform 2)<br>- 23:23 Caesarea-Pardes Hana (Pl
+ atform 1)<br>- 23:28 Binyamina (Platform 3)<br><br>Train 7156:<br>- 23:40 
+ Binyamina (Platform 2)<br>- 23:53 Atlit (Platform 2)<br>- 00:01 Haifa-Hof 
+ HaKarmel (Razi`el) (Platform 1)<br>- 00:08 Haifa-Bat Galim (Platform 1)<br
+ ><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261206T055200
+DTEND;TZID=Asia/Jerusalem:20261206T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261206T232100
+DTEND;TZID=Asia/Jerusalem:20261206T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261207T055200
+DTEND;TZID=Asia/Jerusalem:20261207T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261207T232100
+DTEND;TZID=Asia/Jerusalem:20261207T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261208T055200
+DTEND;TZID=Asia/Jerusalem:20261208T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261208T232100
+DTEND;TZID=Asia/Jerusalem:20261208T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261209T055200
+DTEND;TZID=Asia/Jerusalem:20261209T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261209T232100
+DTEND;TZID=Asia/Jerusalem:20261209T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261210T055200
+DTEND;TZID=Asia/Jerusalem:20261210T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261210T232100
+DTEND;TZID=Asia/Jerusalem:20261210T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:10h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261211T052900
+DTEND;TZID=Asia/Jerusalem:20261211T052900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6220:\n- 05:29 Bet Y
+ ehoshu'a (Platform 2)\n- 05:33 Netanya-Sapir (Platform 2)\n- 05:38 Netanya
+  (Platform 1)\n- 05:48 Hadera-West (Platform 2)\n- 05:55 Caesarea-Pardes H
+ ana (Platform 1)\n- 06:00 Binyamina (Platform 3)\n\nTrain 6012:\n- 06:04 B
+ inyamina (Platform 2)\n- 06:20 Atlit (Platform 2)\n- 06:30 Haifa-Hof HaKar
+ mel (Razi`el) (Platform 1)\n- 06:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6220:<br>- 05:29 Bet Yehoshu'a (Platform 2)<br>- 05:33 Netanya-Sapir (Pla
+ tform 2)<br>- 05:38 Netanya (Platform 1)<br>- 05:48 Hadera-West (Platform 
+ 2)<br>- 05:55 Caesarea-Pardes Hana (Platform 1)<br>- 06:00 Binyamina (Plat
+ form 3)<br><br>Train 6012:<br>- 06:04 Binyamina (Platform 2)<br>- 06:20 At
+ lit (Platform 2)<br>- 06:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>-
+  06:39 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:10h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261211T132900
+DTEND;TZID=Asia/Jerusalem:20261211T132900
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6236:\n- 13:29 Bet Y
+ ehoshu'a (Platform 2)\n- 13:33 Netanya-Sapir (Platform 2)\n- 13:38 Netanya
+  (Platform 1)\n- 13:48 Hadera-West (Platform 2)\n- 13:55 Caesarea-Pardes H
+ ana (Platform 1)\n- 14:00 Binyamina (Platform 3)\n\nTrain 6034:\n- 14:04 B
+ inyamina (Platform 2)\n- 14:20 Atlit (Platform 2)\n- 14:30 Haifa-Hof HaKar
+ mel (Razi`el) (Platform 1)\n- 14:39 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6236:<br>- 13:29 Bet Yehoshu'a (Platform 2)<br>- 13:33 Netanya-Sapir (Pla
+ tform 2)<br>- 13:38 Netanya (Platform 1)<br>- 13:48 Hadera-West (Platform 
+ 2)<br>- 13:55 Caesarea-Pardes Hana (Platform 1)<br>- 14:00 Binyamina (Plat
+ form 3)<br><br>Train 6034:<br>- 14:04 Binyamina (Platform 2)<br>- 14:20 At
+ lit (Platform 2)<br>- 14:30 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>-
+  14:39 Haifa-Bat Galim (Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261212T200400
+DTEND;TZID=Asia/Jerusalem:20261212T200400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7216:\n- 20:04 Bet Y
+ ehoshu'a (Platform 2)\n- 20:09 Netanya (Platform 1)\n- 20:17 Hadera-West (
+ Platform 2)\n- 20:23 Caesarea-Pardes Hana (Platform 1)\n- 20:28 Binyamina 
+ (Platform 3)\n\nTrain 7150:\n- 20:40 Binyamina (Platform 2)\n- 20:53 Atlit
+  (Platform 2)\n- 21:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 21:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7216:<br>- 20:04 Bet Yehoshu'a (Platform 2)<br>- 20:09 Netanya (Platform 
+ 1)<br>- 20:17 Hadera-West (Platform 2)<br>- 20:23 Caesarea-Pardes Hana (Pl
+ atform 1)<br>- 20:28 Binyamina (Platform 3)<br><br>Train 7150:<br>- 20:40 
+ Binyamina (Platform 2)<br>- 20:53 Atlit (Platform 2)<br>- 21:01 Haifa-Hof 
+ HaKarmel (Razi`el) (Platform 1)<br>- 21:08 Haifa-Bat Galim (Platform 1)<br
+ ><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261212T230400
+DTEND;TZID=Asia/Jerusalem:20261212T230400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7222:\n- 23:04 Bet Y
+ ehoshu'a (Platform 2)\n- 23:09 Netanya (Platform 1)\n- 23:17 Hadera-West (
+ Platform 2)\n- 23:23 Caesarea-Pardes Hana (Platform 1)\n- 23:28 Binyamina 
+ (Platform 3)\n\nTrain 7156:\n- 23:40 Binyamina (Platform 2)\n- 23:53 Atlit
+  (Platform 2)\n- 00:01 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 00:08 
+ Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7222:<br>- 23:04 Bet Yehoshu'a (Platform 2)<br>- 23:09 Netanya (Platform 
+ 1)<br>- 23:17 Hadera-West (Platform 2)<br>- 23:23 Caesarea-Pardes Hana (Pl
+ atform 1)<br>- 23:28 Binyamina (Platform 3)<br><br>Train 7156:<br>- 23:40 
+ Binyamina (Platform 2)<br>- 23:53 Atlit (Platform 2)<br>- 00:01 Haifa-Hof 
+ HaKarmel (Razi`el) (Platform 1)<br>- 00:08 Haifa-Bat Galim (Platform 1)<br
+ ><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261213T055200
+DTEND;TZID=Asia/Jerusalem:20261213T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261213T232100
+DTEND;TZID=Asia/Jerusalem:20261213T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1:04h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261214T055200
+DTEND;TZID=Asia/Jerusalem:20261214T055200
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)\n- 05:56 Netanya-Sapir (Platform 2)\n- 06:01 Netanya 
+ (Platform 1)\n- 06:10 Hadera-West (Platform 2)\n- 06:18 Caesarea-Pardes Ha
+ na (Platform 1)\n- 06:23 Binyamina (Platform 3)\n\nTrain 100:\n- 06:31 Bin
+ yamina (Platform 2)\n- 06:49 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 
+ 06:56 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:52 Bet Yehoshu'a (Platform 2)<br>- 05:56 Netanya-Sapir (Plat
+ form 2)<br>- 06:01 Netanya (Platform 1)<br>- 06:10 Hadera-West (Platform 2
+ )<br>- 06:18 Caesarea-Pardes Hana (Platform 1)<br>- 06:23 Binyamina (Platf
+ orm 3)<br><br>Train 100:<br>- 06:31 Binyamina (Platform 2)<br>- 06:49 Haif
+ a-Hof HaKarmel (Razi`el) (Platform 1)<br>- 06:56 Haifa-Bat Galim (Platform
+  1)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [1:08h] to Haifa-Bat Galim (from Bet Yehoshu'a)
+DTSTART;TZID=Asia/Jerusalem:20261214T232100
+DTEND;TZID=Asia/Jerusalem:20261214T232100
+DESCRIPTION:**Please note\, passengers arriving at/departing from Tel Aviv
+  Savidor Center station may use the main entrance (the entrance from the T
+ el Aviv side)\, which is open throughout the night.**\n\nLast update: 2026
+ -11-14 19:25:01\n\nTrain 290:\n- 23:21 Bet Yehoshu'a (Platform 2)\n- 23:24
+  Netanya-Sapir (Platform 2)\n- 23:28 Netanya (Platform 1)\n- 23:38 Hadera-
+ West (Platform 2)\n- 23:45 Caesarea-Pardes Hana (Platform 1)\n- 23:50 Biny
+ amina (Platform 3)\n\nTrain 186:\n- 23:59 Binyamina (Platform 2)\n- 00:13 
+ Atlit (Platform 2)\n- 00:22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)\n- 0
+ 0:29 Haifa-Bat Galim (Platform 1)
+X-ALT-DESC;FMTTYPE=text/html:<b>Please note\, passengers arriving at/depar
+ ting from Tel Aviv Savidor Center station may use the main entrance (the e
+ ntrance from the Tel Aviv side)\, which is open throughout the night.</b><
+ br><br>Last update: 2026-11-14 19:25:01<br><br>Train 290:<br>- 23:21 Bet Y
+ ehoshu'a (Platform 2)<br>- 23:24 Netanya-Sapir (Platform 2)<br>- 23:28 Net
+ anya (Platform 1)<br>- 23:38 Hadera-West (Platform 2)<br>- 23:45 Caesarea-
+ Pardes Hana (Platform 1)<br>- 23:50 Binyamina (Platform 3)<br><br>Train 18
+ 6:<br>- 23:59 Binyamina (Platform 2)<br>- 00:13 Atlit (Platform 2)<br>- 00
+ :22 Haifa-Hof HaKarmel (Razi`el) (Platform 1)<br>- 00:29 Haifa-Bat Galim (
+ Platform 1)<br><br>
+END:VEVENT
+END:VCALENDAR

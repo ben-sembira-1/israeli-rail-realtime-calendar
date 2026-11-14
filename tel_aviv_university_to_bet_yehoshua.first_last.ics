@@ -1,0 +1,687 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Israel Railways Calendar Generator (First/Last)//
+X-WR-CALNAME:Tel Aviv-University to Bet Yehoshu'a (First & Last Trains)
+BEGIN:VEVENT
+SUMMARY:[0:13h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261114T195100
+DTEND;TZID=Asia/Jerusalem:20261114T195100
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7216:\n- 19:51 Tel A
+ viv-University (Platform 1)\n- 19:57 Hertsliya (Platform 6)\n- 20:04 Bet Y
+ ehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7216:<br>- 19:51 Tel Aviv-University (Platform 1)<br>- 19:57 Hertsliya (P
+ latform 6)<br>- 20:04 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:13h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261114T235100
+DTEND;TZID=Asia/Jerusalem:20261114T235100
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7224:\n- 23:51 Tel A
+ viv-University (Platform 1)\n- 23:57 Hertsliya (Platform 6)\n- 00:04 Bet Y
+ ehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7224:<br>- 23:51 Tel Aviv-University (Platform 1)<br>- 23:57 Hertsliya (P
+ latform 6)<br>- 00:04 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261115T053500
+DTEND;TZID=Asia/Jerusalem:20261115T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261115T230700
+DTEND;TZID=Asia/Jerusalem:20261115T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261116T053500
+DTEND;TZID=Asia/Jerusalem:20261116T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261116T230700
+DTEND;TZID=Asia/Jerusalem:20261116T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261117T053500
+DTEND;TZID=Asia/Jerusalem:20261117T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261117T230700
+DTEND;TZID=Asia/Jerusalem:20261117T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261118T053500
+DTEND;TZID=Asia/Jerusalem:20261118T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261118T230700
+DTEND;TZID=Asia/Jerusalem:20261118T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261119T053500
+DTEND;TZID=Asia/Jerusalem:20261119T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261119T230700
+DTEND;TZID=Asia/Jerusalem:20261119T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:15h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261120T051400
+DTEND;TZID=Asia/Jerusalem:20261120T051400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6220:\n- 05:14 Tel A
+ viv-University (Platform 1)\n- 05:21 Hertsliya (Platform 6)\n- 05:29 Bet Y
+ ehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6220:<br>- 05:14 Tel Aviv-University (Platform 1)<br>- 05:21 Hertsliya (P
+ latform 6)<br>- 05:29 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:15h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261120T141400
+DTEND;TZID=Asia/Jerusalem:20261120T141400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6238:\n- 14:14 Tel A
+ viv-University (Platform 1)\n- 14:21 Hertsliya (Platform 6)\n- 14:29 Bet Y
+ ehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6238:<br>- 14:14 Tel Aviv-University (Platform 1)<br>- 14:21 Hertsliya (P
+ latform 6)<br>- 14:29 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:13h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261121T195100
+DTEND;TZID=Asia/Jerusalem:20261121T195100
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7216:\n- 19:51 Tel A
+ viv-University (Platform 1)\n- 19:57 Hertsliya (Platform 6)\n- 20:04 Bet Y
+ ehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7216:<br>- 19:51 Tel Aviv-University (Platform 1)<br>- 19:57 Hertsliya (P
+ latform 6)<br>- 20:04 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:13h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261121T235100
+DTEND;TZID=Asia/Jerusalem:20261121T235100
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7224:\n- 23:51 Tel A
+ viv-University (Platform 1)\n- 23:57 Hertsliya (Platform 6)\n- 00:04 Bet Y
+ ehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7224:<br>- 23:51 Tel Aviv-University (Platform 1)<br>- 23:57 Hertsliya (P
+ latform 6)<br>- 00:04 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261122T053500
+DTEND;TZID=Asia/Jerusalem:20261122T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261122T230700
+DTEND;TZID=Asia/Jerusalem:20261122T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261123T053500
+DTEND;TZID=Asia/Jerusalem:20261123T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261123T230700
+DTEND;TZID=Asia/Jerusalem:20261123T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261124T053500
+DTEND;TZID=Asia/Jerusalem:20261124T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261124T230700
+DTEND;TZID=Asia/Jerusalem:20261124T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261125T053500
+DTEND;TZID=Asia/Jerusalem:20261125T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261125T230700
+DTEND;TZID=Asia/Jerusalem:20261125T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261126T053500
+DTEND;TZID=Asia/Jerusalem:20261126T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261126T230700
+DTEND;TZID=Asia/Jerusalem:20261126T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:15h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261127T051400
+DTEND;TZID=Asia/Jerusalem:20261127T051400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6220:\n- 05:14 Tel A
+ viv-University (Platform 1)\n- 05:21 Hertsliya (Platform 6)\n- 05:29 Bet Y
+ ehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6220:<br>- 05:14 Tel Aviv-University (Platform 1)<br>- 05:21 Hertsliya (P
+ latform 6)<br>- 05:29 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:15h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261127T141400
+DTEND;TZID=Asia/Jerusalem:20261127T141400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6238:\n- 14:14 Tel A
+ viv-University (Platform 1)\n- 14:21 Hertsliya (Platform 6)\n- 14:29 Bet Y
+ ehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6238:<br>- 14:14 Tel Aviv-University (Platform 1)<br>- 14:21 Hertsliya (P
+ latform 6)<br>- 14:29 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:13h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261128T195100
+DTEND;TZID=Asia/Jerusalem:20261128T195100
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7216:\n- 19:51 Tel A
+ viv-University (Platform 1)\n- 19:57 Hertsliya (Platform 6)\n- 20:04 Bet Y
+ ehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7216:<br>- 19:51 Tel Aviv-University (Platform 1)<br>- 19:57 Hertsliya (P
+ latform 6)<br>- 20:04 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:13h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261128T235100
+DTEND;TZID=Asia/Jerusalem:20261128T235100
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7224:\n- 23:51 Tel A
+ viv-University (Platform 1)\n- 23:57 Hertsliya (Platform 6)\n- 00:04 Bet Y
+ ehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7224:<br>- 23:51 Tel Aviv-University (Platform 1)<br>- 23:57 Hertsliya (P
+ latform 6)<br>- 00:04 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261129T053500
+DTEND;TZID=Asia/Jerusalem:20261129T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261129T230700
+DTEND;TZID=Asia/Jerusalem:20261129T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261130T053500
+DTEND;TZID=Asia/Jerusalem:20261130T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261130T230700
+DTEND;TZID=Asia/Jerusalem:20261130T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261201T053500
+DTEND;TZID=Asia/Jerusalem:20261201T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261201T230700
+DTEND;TZID=Asia/Jerusalem:20261201T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261202T053500
+DTEND;TZID=Asia/Jerusalem:20261202T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261202T230700
+DTEND;TZID=Asia/Jerusalem:20261202T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261203T053500
+DTEND;TZID=Asia/Jerusalem:20261203T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261203T230700
+DTEND;TZID=Asia/Jerusalem:20261203T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:15h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261204T051400
+DTEND;TZID=Asia/Jerusalem:20261204T051400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6220:\n- 05:14 Tel A
+ viv-University (Platform 1)\n- 05:21 Hertsliya (Platform 6)\n- 05:29 Bet Y
+ ehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6220:<br>- 05:14 Tel Aviv-University (Platform 1)<br>- 05:21 Hertsliya (P
+ latform 6)<br>- 05:29 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:15h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261204T141400
+DTEND;TZID=Asia/Jerusalem:20261204T141400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6238:\n- 14:14 Tel A
+ viv-University (Platform 1)\n- 14:21 Hertsliya (Platform 6)\n- 14:29 Bet Y
+ ehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6238:<br>- 14:14 Tel Aviv-University (Platform 1)<br>- 14:21 Hertsliya (P
+ latform 6)<br>- 14:29 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:13h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261205T195100
+DTEND;TZID=Asia/Jerusalem:20261205T195100
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7216:\n- 19:51 Tel A
+ viv-University (Platform 1)\n- 19:57 Hertsliya (Platform 6)\n- 20:04 Bet Y
+ ehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7216:<br>- 19:51 Tel Aviv-University (Platform 1)<br>- 19:57 Hertsliya (P
+ latform 6)<br>- 20:04 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:13h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261205T235100
+DTEND;TZID=Asia/Jerusalem:20261205T235100
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7224:\n- 23:51 Tel A
+ viv-University (Platform 1)\n- 23:57 Hertsliya (Platform 6)\n- 00:04 Bet Y
+ ehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7224:<br>- 23:51 Tel Aviv-University (Platform 1)<br>- 23:57 Hertsliya (P
+ latform 6)<br>- 00:04 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261206T053500
+DTEND;TZID=Asia/Jerusalem:20261206T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261206T230700
+DTEND;TZID=Asia/Jerusalem:20261206T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261207T053500
+DTEND;TZID=Asia/Jerusalem:20261207T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261207T230700
+DTEND;TZID=Asia/Jerusalem:20261207T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261208T053500
+DTEND;TZID=Asia/Jerusalem:20261208T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261208T230700
+DTEND;TZID=Asia/Jerusalem:20261208T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261209T053500
+DTEND;TZID=Asia/Jerusalem:20261209T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261209T230700
+DTEND;TZID=Asia/Jerusalem:20261209T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261210T053500
+DTEND;TZID=Asia/Jerusalem:20261210T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261210T230700
+DTEND;TZID=Asia/Jerusalem:20261210T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:15h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261211T051400
+DTEND;TZID=Asia/Jerusalem:20261211T051400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6220:\n- 05:14 Tel A
+ viv-University (Platform 1)\n- 05:21 Hertsliya (Platform 6)\n- 05:29 Bet Y
+ ehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6220:<br>- 05:14 Tel Aviv-University (Platform 1)<br>- 05:21 Hertsliya (P
+ latform 6)<br>- 05:29 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:15h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261211T141400
+DTEND;TZID=Asia/Jerusalem:20261211T141400
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 6238:\n- 14:14 Tel A
+ viv-University (Platform 1)\n- 14:21 Hertsliya (Platform 6)\n- 14:29 Bet Y
+ ehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  6238:<br>- 14:14 Tel Aviv-University (Platform 1)<br>- 14:21 Hertsliya (P
+ latform 6)<br>- 14:29 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:13h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261212T195100
+DTEND;TZID=Asia/Jerusalem:20261212T195100
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7216:\n- 19:51 Tel A
+ viv-University (Platform 1)\n- 19:57 Hertsliya (Platform 6)\n- 20:04 Bet Y
+ ehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7216:<br>- 19:51 Tel Aviv-University (Platform 1)<br>- 19:57 Hertsliya (P
+ latform 6)<br>- 20:04 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:13h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261212T235100
+DTEND;TZID=Asia/Jerusalem:20261212T235100
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 7224:\n- 23:51 Tel A
+ viv-University (Platform 1)\n- 23:57 Hertsliya (Platform 6)\n- 00:04 Bet Y
+ ehoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  7224:<br>- 23:51 Tel Aviv-University (Platform 1)<br>- 23:57 Hertsliya (P
+ latform 6)<br>- 00:04 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261213T053500
+DTEND;TZID=Asia/Jerusalem:20261213T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261213T230700
+DTEND;TZID=Asia/Jerusalem:20261213T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[0:17h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261214T053500
+DTEND;TZID=Asia/Jerusalem:20261214T053500
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 220:\n- 05:35 Tel Av
+ iv-University (Platform 1)\n- 05:43 Hertsliya (Platform 6)\n- 05:52 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  220:<br>- 05:35 Tel Aviv-University (Platform 1)<br>- 05:43 Hertsliya (Pl
+ atform 6)<br>- 05:52 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Last [0:14h] to Bet Yehoshu'a (from Tel Aviv-University)
+DTSTART;TZID=Asia/Jerusalem:20261214T230700
+DTEND;TZID=Asia/Jerusalem:20261214T230700
+DESCRIPTION:Last update: 2026-11-14 19:25:01\n\nTrain 290:\n- 23:07 Tel Av
+ iv-University (Platform 1)\n- 23:13 Hertsliya (Platform 6)\n- 23:21 Bet Ye
+ hoshu'a (Platform 2)
+X-ALT-DESC;FMTTYPE=text/html:Last update: 2026-11-14 19:25:01<br><br>Train
+  290:<br>- 23:07 Tel Aviv-University (Platform 1)<br>- 23:13 Hertsliya (Pl
+ atform 6)<br>- 23:21 Bet Yehoshu'a (Platform 2)<br><br>
+END:VEVENT
+END:VCALENDAR
